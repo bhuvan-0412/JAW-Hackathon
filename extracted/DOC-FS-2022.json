@@ -1,0 +1,36 @@
+{
+  "doc_id": "DOC-FS-2022",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2022.pdf",
+  "size_bytes": 51468,
+  "char_count": 4134,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "`particulars`": "`CURRENT YEAR`<br>`(FY2022-23)`",
+      "### `b. expenses`": "`PARTICULARS`",
+      "### `c. profit before tax (a - b)`": "`Profit Before Tax`",
+      "```\npage 1 of 3\n```\n\n```\ndoc-fs-2022\n```\n\n### `d. balance sheet extract (as at 31st march 2023)`": "`PARTICULARS`",
+      "`year`": "`PREVIOUS YEAR`",
+      "`6,385`": "`5,959`",
+      "`7,023`": "`5,618`",
+      "`3,405`": "`2,980`",
+      "`5,108`": "`4,257`",
+      "`2,554`": "`2,128`",
+      "`4,257`": "`3,831`",
+      "`426`": "`426`",
+      "`2,128`": "`1,703`",
+      "`5,959`": "`5,108`",
+      "`1,703`": "`1,490`"
+    },
+    "money_mentions": [
+      [
+        "1,064 Cr",
+        10640000000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **`NATIONAL INFRASTRUCTURE CORP. LTD.`** \n\n```\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O\n```\n\n## **`STATEMENT OF PROFIT AND LOSS (EXTRACT)`** \n\n```\nFor the financial year ended 31st March 2023\n```\n\n```\nStatement No: FS-2022-004\n```\n\n```\nCurrency: INR (All amounts in Lakhs unless stated)\n```\n\n### **`A. REVENUE FROM OPERATIONS`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**<br>**`(FY2022-23)`**||**`PREVIOUS YEAR`**<br>**`(FY2021-22)`**||\n|---|---|---|---|---|\n|`Contract Revenue (EPC)`||`42,567`||`36,182`|\n|`Other Operating Revenue`||`1,277`||`1,064`|\n|**`Total Revenue from Operations`**<br>**`(A)`**||**`43,844`**||**`37,246`**|\n\n\n\n### **`B. EXPENSES`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**|**`PREVIOUS YEAR`**|\n|---|---|---|\n|`Cost of Materials Consumed`|`17,878`|`17,027`|\n|`Sub-contracting & Labour`|`7,662`|`7,236`|\n|`Employee Benefit Expenses`|`5,108`|`4,682`|\n|`Depreciation & Amortisation`|`1,277`|`1,192`|\n|`Other Expenses`|`3,405`|`3,193`|\n|**`Total Expense"
+  }
+}

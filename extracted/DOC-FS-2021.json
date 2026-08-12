@@ -1,0 +1,36 @@
+{
+  "doc_id": "DOC-FS-2021",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2021.pdf",
+  "size_bytes": 55092,
+  "char_count": 4127,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "`particulars`": "`CURRENT YEAR`",
+      "### `b. expenses`": "`PARTICULARS`",
+      "### `c. profit before tax (a - b)`": "`Profit Before Tax`",
+      "```\npage 1 of 3\n```\n\n```\ndoc-fs-2021\n```\n\n### `d. balance sheet extract (as at 31st march 2022)`": "`PARTICULARS`",
+      "`year`": "`PREVIOUS YEAR`",
+      "`4,900`": "`4,574`",
+      "`6,387`": "`5,110`",
+      "`2,614`": "`2,287`",
+      "`3,920`": "`3,267`",
+      "`1,960`": "`1,633`",
+      "`3,267`": "`2,940`",
+      "`327`": "`327`",
+      "`1,633`": "`1,307`",
+      "`4,574`": "`3,920`",
+      "`1,307`": "`1,143`"
+    },
+    "money_mentions": [
+      [
+        "817 Cr",
+        8170000000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **`NATIONAL INFRASTRUCTURE CORP. LTD.`** \n\n```\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O\n```\n\n## **`STATEMENT OF PROFIT AND LOSS (EXTRACT)`** \n\n```\nFor the financial year ended 31st March 2022\n```\n\n```\nStatement No: FS-2021-003\n```\n\n```\nCurrency: INR (All amounts in Lakhs unless stated)\n```\n\n### **`A. REVENUE FROM OPERATIONS`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**||**`PREVIOUS YEAR`**||\n|---|---|---|---|---|\n||**`(FY2021-22)`**||**`(FY2020-21)`**||\n|`Contract Revenue (EPC)`||`32,669`||`27,769`|\n|`Other Operating Revenue`||`980`||`817`|\n|**`Total Revenue from Operations`**<br>**`(A)`**||**`33,649`**||**`28,585`**|\n\n\n\n### **`B. EXPENSES`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**<br>**`PREVI`**|**`OUS YEAR`**|\n|---|---|---|\n|`Cost of Materials Consumed`|`13,721`|`13,068`|\n|`Sub-contracting & Labour`|`5,880`|`5,554`|\n|`Employee Benefit Expenses`|`3,920`|`3,594`|\n|`Depreciation & Amortisation`|`980`|`915`|\n|`Other Expenses`|`2,614`|`2,450`|\n|**`Total Expens"
+  }
+}
