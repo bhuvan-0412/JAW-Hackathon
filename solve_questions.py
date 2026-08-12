@@ -82,6 +82,10 @@ CLIENT_SYNONYMS = {
     "subarnarekha": "Subarnarekha Valley Corporation",
     "peninsular": "Peninsular Petroleum Corporation",
     "central works": "Central Works & Buildings Bureau",
+    "phed odisha": "Public Health Engineering Dept, Odisha",
+    "phed gujarat": "Public Health Engineering Dept, Gujarat",
+    "phed west bengal": "Public Health Engineering Dept, West Bengal",
+    "phed": "Public Health Engineering Dept, Odisha",
 }
 
 def find_client_in_text(text, conn):
@@ -173,6 +177,12 @@ def solve_single_question(q, conn):
     if atype == "money" and any(kw in qtext_lower for kw in ["excluding", "remove", "minus"]):
         ex_match = re.search(r'(?:excluding|remove|minus)\s+([A-Za-z0-9_\s]+?)(?:,|\s+what|\s+before|\s+so|\s*;|\s*—|\s*\-|\s*\?|\s*:|\s*\.|\s*$)', qtext, re.IGNORECASE)
         ex_term = ex_match.group(1).strip().lower() if ex_match else ""
+        for strip_prefix in ["the ", "a ", "an "]:
+            if ex_term.startswith(strip_prefix):
+                ex_term = ex_term[len(strip_prefix):].strip()
+        for strip_suffix in [" segment", " division", " scope", " sector", " category", " works", " piece", " side"]:
+            if ex_term.endswith(strip_suffix):
+                ex_term = ex_term[:-len(strip_suffix)].strip()
         ex_stem = ex_term.rstrip('s')
         if client:
             works = get_client_unique_works(client, conn)
