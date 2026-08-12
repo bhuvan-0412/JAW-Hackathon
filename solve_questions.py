@@ -170,8 +170,8 @@ def solve_single_question(q, conn):
     pkg = find_package_in_text(qtext)
 
     # 1. Exclusion aggregate shape (High Priority)
-    if atype == "money" and any(kw in qtext_lower for kw in ["excluding", "remove"]):
-        ex_match = re.search(r'(?:excluding|remove)\s+([A-Za-z0-9_\s]+?)(?:,|\s+what|\s+before|\s+so|\s*;|\s*$)', qtext, re.IGNORECASE)
+    if atype == "money" and any(kw in qtext_lower for kw in ["excluding", "remove", "minus"]):
+        ex_match = re.search(r'(?:excluding|remove|minus)\s+([A-Za-z0-9_\s]+?)(?:,|\s+what|\s+before|\s+so|\s*;|\s*—|\s*\-|\s*\?|\s*:|\s*\.|\s*$)', qtext, re.IGNORECASE)
         ex_term = ex_match.group(1).strip().lower() if ex_match else ""
         ex_stem = ex_term.rstrip('s')
         if client:
@@ -181,8 +181,9 @@ def solve_single_question(q, conn):
                 cat_str = (w["cat"] or "").lower()
                 pna_str = (w["pna"] or "").lower()
                 val = w["val"] or 0.0
-                if ex_stem not in cat_str and ex_stem not in pna_str and ex_term not in cat_str and ex_term not in pna_str:
-                    tot += val
+                if ex_stem and (ex_stem in cat_str or ex_stem in pna_str or ex_term in cat_str or ex_term in pna_str):
+                    continue
+                tot += val
             return int(round(tot))
 
     # 2. Billing Collection Percent shape
@@ -271,9 +272,20 @@ def solve_single_question(q, conn):
         if pkg:
             r = c.execute("SELECT completion_date FROM completion_certificates WHERE LOWER(package_code) = LOWER(?) AND completion_date IS NOT NULL", (pkg,)).fetchone()
             if r: comp_date = r[0]
+        if not comp_date and eng:
+            r = c.execute("SELECT completion_date FROM completion_certificates WHERE LOWER(project_lead) = LOWER(?) AND completion_date IS NOT NULL", (eng,)).fetchone()
+            if r: comp_date = r[0]
         if not comp_date and client:
             r = c.execute("SELECT completion_date FROM completion_certificates WHERE LOWER(client_name) = LOWER(?) AND completion_date IS NOT NULL", (client,)).fetchone()
             if r: comp_date = r[0]
+        if not comp_date:
+            # Try searching project_name keywords from qtext
+            words = [w for w in re.findall(r'\b[A-Za-z]+\b', qtext) if len(w) > 3 and w.lower() not in ["days", "actually", "elapsed", "before", "project", "wrapped", "issued", "back", "march", "pretty", "sure"]]
+            for w in words:
+                r = c.execute("SELECT completion_date FROM completion_certificates WHERE LOWER(project_name) LIKE LOWER(?) AND completion_date IS NOT NULL", (f"%{w}%",)).fetchone()
+                if r:
+                    comp_date = r[0]
+                    break
         if comp_date:
             d1 = dt_parser.parse("2021-03-10")
             d2 = dt_parser.parse(comp_date)
