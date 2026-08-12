@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-036",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-036.pdf",
+  "size_bytes": 48618,
+  "char_count": 1153,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Suresh Das",
+    "employee_id": "EMP-031",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200036",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

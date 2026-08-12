@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-042",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-042.pdf",
+  "size_bytes": 48577,
+  "char_count": 1148,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Naveen Roy",
+    "employee_id": "EMP-037",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200042",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

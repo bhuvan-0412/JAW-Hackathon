@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-162",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-162.pdf",
+  "size_bytes": 48587,
+  "char_count": 1140,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": null,
+    "employee_id": "EMP-031",
+    "certification_type": "Six Sigma Black Belt",
+    "credential_id": "6S-500162",
+    "issue_date": "2023-01-01",
+    "expiry_date": "2028-01-01"
+  }
+}
