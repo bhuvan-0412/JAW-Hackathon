@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-REF-132",
+  "doc_type": "reference_letter",
+  "filename": "reference_letter/DOC-REF-132.pdf",
+  "size_bytes": 52817,
+  "char_count": 26,
+  "page_count": 1,
+  "extraction_warnings": [
+    "Low char_count warning (26 chars on 1 pages)"
+  ],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "issuing_client": null,
+    "contract_value": null,
+    "raw_contract_value": null,
+    "completion_date": null,
+    "recommendation_summary": "DOC-REF-132 Page 1 of 1\n\n\n"
+  }
+}

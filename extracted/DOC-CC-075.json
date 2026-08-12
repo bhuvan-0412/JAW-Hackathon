@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-075.pdf",
   "size_bytes": 138218,
-  "char_count": 4597,
+  "char_count": 3592,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Process Piping Package — Delhi Pkg-75",
-    "package_code": "Pkg-75",
+    "project_name": null,
+    "package_code": null,
     "client_name": "Trishakti Power Generation Corp",
-    "contract_value": 413400000.00000006,
-    "raw_contract_value": "INR 41.34 Cr",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
-    "completion_date": "2023-11-09",
-    "project_lead": "Kavita Reddy",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
   }
 }

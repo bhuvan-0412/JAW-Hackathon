@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-036.pdf",
   "size_bytes": 94672,
-  "char_count": 4660,
+  "char_count": 4619,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "ROB — Delhi Pkg-36",
-    "package_code": "Pkg-36",
+    "project_name": null,
+    "package_code": null,
     "client_name": null,
     "contract_value": 366300000.0,
     "raw_contract_value": "INR 36.63 Cr",
     "start_date": null,
-    "completion_date": "2016-05-11",
-    "project_lead": "Neha Chopra",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }

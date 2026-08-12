@@ -3,15 +3,17 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-030.pdf",
   "size_bytes": 47714,
-  "char_count": 1070,
+  "char_count": 33,
   "page_count": 1,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (33 chars on 1 pages)"
+  ],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
     "client_name": null,
-    "contract_value": 182600000.00000003,
-    "raw_contract_value": "Rs. 18.26 Crore",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
     "completion_date": null,
     "project_lead": null,

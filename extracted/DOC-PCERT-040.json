@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-040",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-040.pdf",
+  "size_bytes": 48633,
+  "char_count": 1080,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Tanvir Malhotra",
+    "employee_id": "EMP-035",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200040",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

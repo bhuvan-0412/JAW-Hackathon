@@ -3,18 +3,20 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-155.pdf",
   "size_bytes": 111740,
-  "char_count": 4675,
+  "char_count": 75,
   "page_count": 3,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (75 chars on 3 pages)"
+  ],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
-    "client_name": "Gujarat Municipal Corp",
-    "contract_value": 16399999.999999998,
-    "raw_contract_value": "INR 1.64 Cr",
+    "client_name": null,
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
     "completion_date": null,
     "project_lead": null,
-    "grading_text": "Quality assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": null
   }
 }

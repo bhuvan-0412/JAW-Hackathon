@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-011",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-011.pdf",
+  "size_bytes": 48279,
+  "char_count": 1062,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Meera Roy",
+    "employee_id": "EMP-006",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200011",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2029-09-15"
+  }
+}

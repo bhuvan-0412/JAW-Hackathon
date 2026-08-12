@@ -3,53 +3,15 @@
   "doc_type": "compliance_matrix",
   "filename": "compliance_matrix/DOC-CM-0165.pdf",
   "size_bytes": 65207,
-  "char_count": 2654,
+  "char_count": 52,
   "page_count": 2,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (52 chars on 2 pages)"
+  ],
   "extracted_data": {
-    "key_values": {
-      "bidder name": "National Infrastructure Corp. Ltd.",
-      "gstin": "19NAICC4417O1Z1",
-      "pan": "NAICC4417O",
-      "cin": "U45201WB2005PLC904417",
-      "bid reference": "RFP-132016005",
-      "bid submission date": "2022-08-30",
-      "bid value": "INR 64.46 Cr",
-      "emd amount": "INR 1.29 Cr (2.0%)",
-      "pricing model": "Rate Contract",
-      "sr.": "Requirement",
-      "1": "Valid GST Registration",
-      "met": "Safety plan enclosed; zero LTI track record",
-      "3": "ISO 9001:2015 Certification",
-      "5": "ISO 45001:2018 Certification",
-      "9": "EMD submission",
-      "12": "Labour license under Contract<br>Labour Act",
-      "### 3. technical compliance \n\nthe following table records the clause-by-clause technical position, compiled from the records maintained by this office.": "Sr.",
-      "status": "Remarks",
-      "15": "Equipment list for execution",
-      "17": "Quality plan"
-    },
-    "money_mentions": [
-      [
-        "INR 64.46 Cr",
-        644599999.9999999
-      ],
-      [
-        "INR 64.46 Cr",
-        644599999.9999999
-      ],
-      [
-        "INR 1.29 Cr",
-        12900000.0
-      ],
-      [
-        "INR 150 Cr",
-        1500000000.0
-      ]
-    ],
-    "extracted_dates": [
-      "2022-08-30"
-    ],
-    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nTender Response · Compliance Matrix · GSTIN 19NAICC4417O1Z1 \n\n## **ComplianCe Cum eligibility matrix** \n\n**Tender Ref: RFP-132016005** \n\nBid Value: INR 64.46 Cr \n\n### **1. bidder partiCulars** \n\n|**_Bidder Name_**|National Infrastructure Corp. Ltd.|\n|---|---|\n|**_GSTIN_**|19NAICC4417O1Z1|\n|**_PAN_**|NAICC4417O|\n|**_CIN_**|U45201WB2005PLC904417|\n|**_Bid Reference_**|RFP-132016005|\n|**_Bid Submission Date_**|2022-08-30|\n|**_Bid Value_**|INR 64.46 Cr|\n|**_EMD Amount_**|INR 1.29 Cr (2.0%)|\n|**_Pricing Model_**|Rate Contract|\n\n\n\n### **2. eligibility ComplianCe** \n\nour position against each eligibility condition of the tender is set out below, as certified by the officers named at the foot of this document. \n\n|**Sr.**|**Requirement**|**Status**|**Supporting Evidence / Document Reference**|\n|---|---|---|---|\n|1|Valid GST Registration|**MET**|GST Certificate — GSTIN 19NAICC4417O1Z1|\n|2|Valid PAN Card|**MET**|PAN Card — NAICC4417O|\n|3|ISO 9001:2015 Cer"
+    "key_values": {},
+    "money_mentions": [],
+    "extracted_dates": [],
+    "summary_text": "DOC-CM-0165 Page 1 of 2\n\n\nDOC-CM-0165 Page 2 of 2\n\n\n"
   }
 }

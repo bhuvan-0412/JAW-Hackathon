@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-023.pdf",
   "size_bytes": 98175,
-  "char_count": 5015,
+  "char_count": 1162,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Mahanadi Steel Corp",
+    "project_name": "Water Treatment Plant — Madhya Pradesh Pkg-23",
+    "package_code": "Pkg-23",
+    "client_name": null,
     "contract_value": 349200000.0,
     "raw_contract_value": "Rs. 34.92 Crore",
     "start_date": null,
     "completion_date": null,
     "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Very Good."
+    "grading_text": "Ltd.`| |**`GSTIN`**|`19NAICC4417O1Z1`| |**`PAN`**|`NAICC4417O`| |**`Contractor's Project Manager`**|`Pooja Bose`|   ``` DOC-CC-023 Page 1 of 3  ```  |PARAMETER|ASSESSMENT|REMARKS| |---|---|---| |`Workmanship`|`Satisfactory`|`As per IS codes and approved specifications`| |`Material Quality`|`Satisfactory`|`Test certificates on record`| |`Dimensional Compliance`|`Satisfactory`|`Verified against approved drawings`| |`Safety Compliance`|`Satisfactory`|`BOCW Act provisions followed`|   |MILESTONE|PLANNED DATE|ACTUAL DATE|STATUS| |---|---|---|---| |`Site Mobilisation`|`2022-08-28`|`2022-08-28`|`✅ Completed`| |`Execution Phase`|`2022-08-28`|`2022-08-28`|`✅ Completed`| |`Final Inspection`|`2022-08-28`|`2022-08-28`|`✅ Completed`|   ``` DOC-CC-023 Page 2 of 3  ```  ``` DOC-CC-023 Page 3 of 3  ```"
   }
 }

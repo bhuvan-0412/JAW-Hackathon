@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-043",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-043.pdf",
+  "size_bytes": 48953,
+  "char_count": 1069,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Gautam Joshi",
+    "employee_id": "EMP-038",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200043",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2029-09-15"
+  }
+}

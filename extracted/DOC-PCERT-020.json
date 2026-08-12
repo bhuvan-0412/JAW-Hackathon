@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-020",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-020.pdf",
+  "size_bytes": 48537,
+  "char_count": 1062,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Tanvir Menon",
+    "employee_id": "EMP-015",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200020",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-109.pdf",
   "size_bytes": 98647,
-  "char_count": 4672,
+  "char_count": 3669,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Cable Stayed Bridge — Delhi Pkg-109",
-    "package_code": "Pkg-109",
+    "project_name": null,
+    "package_code": null,
     "client_name": "National Special Projects Office",
-    "contract_value": 1136000000.0,
-    "raw_contract_value": "Rs. 11360.00 Lakh",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
-    "completion_date": "2013-12-24",
-    "project_lead": "Naveen Roy",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
   }
 }

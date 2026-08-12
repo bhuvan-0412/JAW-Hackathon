@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2023.pdf",
   "size_bytes": 37284,
-  "char_count": 10190,
+  "char_count": 10221,
   "page_count": 5,
   "extraction_warnings": [],
   "extracted_data": {
@@ -30,13 +30,12 @@
       "2023-05-28": "Monthly salaries & site overheads (202305)",
       "9,501,067": "1,503,440,780",
       "2023-06-03": "Vendor payment #157",
-      "page 1 of 5 \n\ndoc-bank-2023": "2023-06-04",
-      "27,246,080": "1,525,112,765",
-      "2023-06-06": "Vendor payment #59",
+      "doc-bank-2023 page 1 of 5": "2023-06-04",
+      "col3": "45,556,772",
       "4,461,631": "1,495,210,943",
       "2023-06-12": "Receipt against invoice (rcpt #356)",
       "13,001,858": "1,508,212,801",
-      "45,556,772": "1,881,246,175",
+      "45,556,772": "1,824,555,683",
       "2023-06-15": "Vendor payment #85",
       "74,852,454": "1,808,960,148",
       "2023-06-21": "Receipt against invoice (rcpt #117)",
@@ -57,8 +56,7 @@
       "4,750,533": "1,846,335,092",
       "2023-08-21": "Vendor payment #188",
       "2023-09-02": "Vendor payment #314",
-      "page 2 of 5 \n\ndoc-bank-2023": "2023-09-03",
-      "46,399,014": "1,885,311,517",
+      "doc-bank-2023 page 2 of 5": "2023-09-03",
       "2023-09-06": "Vendor payment #122",
       "2023-09-12": "Receipt against invoice (rcpt #396)",
       "3,660,846": "1,949,532,968",
@@ -79,9 +77,7 @@
       "2023-11-05": "Receipt against invoice (rcpt #178)",
       "45,621,863": "1,887,177,884",
       "2023-11-06": "Vendor payment #104",
-      "page 3 of 5 \n\ndoc-bank-2023": "2023-11-21",
-      "39,934,105": "1,881,068,657",
-      "2023-11-28": "Monthly salaries & site overheads (202311)",
+      "doc-bank-2023 page 3 of 5": "2023-11-21",
       "36,098,675": "1,897,093,175",
       "2023-12-12": "Vendor payment #151",
       "2023-12-19": "Receipt against invoice (rcpt #366)",
@@ -97,12 +93,13 @@
       "17,970,168": "1,900,372,675",
       "2024-02-16": "Receipt against invoice (rcpt #118)",
       "2024-02-18": "Vendor payment #147",
-      "page 4 of 5 \n\ndoc-bank-2023": "2024-02-24",
-      "2024-02-27": "Vendor payment #139",
+      "doc-bank-2023 page 4 of 5": "2024-02-24",
       "2024-03-01": "Vendor payment #178",
       "2024-03-19": "Receipt against invoice (rcpt #417)",
       "2024-03-22": "Vendor payment #130",
-      "2024-03-28": "Vendor payment #153"
+      "39,934,105": "1,881,068,657",
+      "2024-03-28": "Vendor payment #153",
+      "closing balance": "Closing balance"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -247,6 +244,6 @@
       "2024-03-28",
       "2024-03-28"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2023–24** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2023-04-01|Opening balance b/f|||1,370,838,442|\n|2023-04-05|Vendor payment #154|14,175,635||1,356,662,807|\n|2023-04-07|Receipt against invoice (rcpt #290)||54,704,163|1,411,366,970|\n|2023-04-07|TDS deposited (202303)|2,638,668||1,408,728,302|\n|2023-04-10|Vendor payment #336|5,975,786||1,402,752,516|\n|2023-04-12|Receipt against invoice (rcpt #148)||21,982,183|1,424,734,699|\n|2023-04-15|Vendor payment #100|25,011,507||1,399,723,192|\n|2023-04-15|Vendor payment #141|8,651,775||1,391,071,417|\n|2023-04-17|Receipt against invoice (rcpt #320)||62,507,089|1,453,578,506|\n|2023-04-18|Vendor payment #136|47,730,116||1,405,848,390|\n|2023-04-20|Vendor payment #65|11,678,958||1,394,169,432|\n|2023-04-21|Vendor payment #274|28"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2023–24**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2023-04-01|Opening balance b/f|||1,370,838,442|\n|2023-04-05|Vendor payment #154|14,175,635||1,356,662,807|\n|2023-04-07|Receipt against invoice (rcpt #290)||54,704,163|1,411,366,970|\n|2023-04-07|TDS deposited (202303)|2,638,668||1,408,728,302|\n|2023-04-10|Vendor payment #336|5,975,786||1,402,752,516|\n|2023-04-12|Receipt against invoice (rcpt #148)||21,982,183|1,424,734,699|\n|2023-04-15|Vendor payment #100|25,011,507||1,399,723,192|\n|2023-04-15|Vendor payment #141|8,651,775||1,391,071,417|\n|2023-04-17|Receipt against invoice (rcpt #320)||62,507,089|1,453,578,506|\n|2023-04-18|Vendor payment #136|47,730,116||1,405,848,390|\n|2023-04-20|Vendor payment #65|11,678,958||1,394,169,432|\n|2023-04-21|Vendor payment #274|28,736,155||1,365,433,277|\n|20"
   }
 }

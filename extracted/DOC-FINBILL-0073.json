@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-FINBILL-0073",
+  "doc_type": "final_ra_bill",
+  "filename": "final_ra_bill/DOC-FINBILL-0073.pdf",
+  "size_bytes": 62402,
+  "char_count": 7809,
+  "page_count": 17,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "contract_value": null,
+    "billed_value": null,
+    "boq_items": []
+  }
+}

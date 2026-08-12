@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2022.pdf",
   "size_bytes": 45692,
-  "char_count": 14144,
+  "char_count": 14177,
   "page_count": 7,
   "extraction_warnings": [],
   "extracted_data": {
@@ -36,7 +36,7 @@
       "2022-05-27": "Receipt against invoice (rcpt #31)",
       "45,445,081": "1,146,771,579",
       "2022-05-28": "Monthly salaries & site overheads (202205)",
-      "26,079,176": "1,404,722,488",
+      "26,079,176": "1,332,661,800",
       "2022-06-04": "Receipt against invoice (rcpt #127)",
       "14,763,237": "1,141,769,815",
       "2022-06-06": "Receipt against invoice (rcpt #328)",
@@ -84,6 +84,8 @@
       "2022-09-26": "Receipt against invoice (rcpt #300)",
       "46,399,014": "1,412,830,282",
       "2022-09-28": "Monthly salaries & site overheads (202209)",
+      "col4": "1,395,514,205",
+      "2022-09-29": "Receipt against invoice (rcpt #288)",
       "54,704,163": "1,450,218,368",
       "2022-09-30": "Vendor payment #322",
       "2022-10-01": "Receipt against invoice (rcpt #289)",
@@ -106,8 +108,8 @@
       "2022-11-20": "Vendor payment #332",
       "56,172,523": "1,481,971,557",
       "2022-11-24": "Vendor payment #64",
-      "page 4 of 7 \n\ndoc-bank-2022": "2022-11-25",
-      "2022-11-28": "Monthly salaries & site overheads (202211)",
+      "doc-bank-2022 page 4 of 7": "2022-11-25",
+      "col3": "26,079,176",
       "2022-12-03": "Vendor payment #124",
       "26,003,715": "1,363,074,455",
       "2022-12-07": "TDS deposited (202211)",
@@ -130,9 +132,7 @@
       "2023-01-25": "Receipt against invoice (rcpt #395)",
       "3,660,846": "1,334,126,312",
       "2023-01-27": "Vendor payment #289",
-      "page 5 of 7 \n\ndoc-bank-2022": "2023-01-29",
-      "28,195,045": "1,254,298,860",
-      "2023-01-29": "Vendor payment #343",
+      "doc-bank-2022 page 5 of 7": "2023-01-29",
       "2023-02-03": "Vendor payment #308",
       "2023-02-07": "TDS deposited (202301)",
       "2023-02-18": "Vendor payment #284",
@@ -145,8 +145,8 @@
       "2023-03-18": "Vendor payment #279",
       "2023-03-24": "Receipt against invoice (rcpt #345)",
       "2023-03-28": "Monthly salaries & site overheads (202203)",
-      "page 6 of 7 \n\ndoc-bank-2022": "2023-03-31",
-      "2023-03-31": "Vendor payment #146"
+      "doc-bank-2022 page 6 of 7": "2023-03-31",
+      "closing balance": "Closing balance"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -346,6 +346,6 @@
       "2023-03-31",
       "2023-03-31"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2022–23** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2022-04-01|Opening balance b/f|||941,141,144|\n|2022-04-02|Receipt against invoice (rcpt #103)||27,246,080|968,387,224|\n|2022-04-03|Receipt against invoice (rcpt #351)||45,556,772|1,013,943,996|\n|2022-04-06|Receipt against invoice (rcpt #312)||62,507,089|1,076,451,085|\n|2022-04-07|TDS deposited (202203)|2,185,277||1,074,265,808|\n|2022-04-11|Receipt against invoice (rcpt #113)||40,944,316|1,115,210,124|\n|2022-04-11|Vendor payment #75|14,872,988||1,100,337,136|\n|2022-04-17|Receipt against invoice (rcpt #298)||64,300,767|1,164,637,903|\n|2022-04-20|Vendor payment #27|48,083,887||1,116,554,016|\n|2022-04-21|Vendor payment #325|33,356,138||1,083,197,878|\n|2022-04-22|Receipt against invoice (rcpt #327)||63,631,240|1,14"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2022–23**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2022-04-01|Opening balance b/f|||941,141,144|\n|2022-04-02|Receipt against invoice (rcpt #103)||27,246,080|968,387,224|\n|2022-04-03|Receipt against invoice (rcpt #351)||45,556,772|1,013,943,996|\n|2022-04-06|Receipt against invoice (rcpt #312)||62,507,089|1,076,451,085|\n|2022-04-07|TDS deposited (202203)|2,185,277||1,074,265,808|\n|2022-04-11|Receipt against invoice (rcpt #113)||40,944,316|1,115,210,124|\n|2022-04-11|Vendor payment #75|14,872,988||1,100,337,136|\n|2022-04-17|Receipt against invoice (rcpt #298)||64,300,767|1,164,637,903|\n|2022-04-20|Vendor payment #27|48,083,887||1,116,554,016|\n|2022-04-21|Vendor payment #325|33,356,138||1,083,197,878|\n|2022-04-22|Receipt against invoice (rcpt #327)||63,631,240|1,146,829,118|\n|2022-04-23|Vendo"
   }
 }

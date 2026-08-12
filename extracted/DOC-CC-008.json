@@ -3,15 +3,17 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-008.pdf",
   "size_bytes": 49311,
-  "char_count": 997,
+  "char_count": 33,
   "page_count": 1,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (33 chars on 1 pages)"
+  ],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
     "client_name": null,
-    "contract_value": 170799999.99999997,
-    "raw_contract_value": "Rs. 17.08 Crore",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
     "completion_date": null,
     "project_lead": null,

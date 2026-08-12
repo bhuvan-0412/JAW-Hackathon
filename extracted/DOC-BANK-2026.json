@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2026.pdf",
   "size_bytes": 19682,
-  "char_count": 2471,
+  "char_count": 2499,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -35,7 +35,8 @@
       "2026-07-05": "Receipt against invoice (rcpt #393)",
       "2026-07-06": "Receipt against invoice (rcpt #207)",
       "56,152,433": "899,280,394",
-      "2026-07-07": "TDS deposited (202606)"
+      "2026-07-07": "TDS deposited (202606)",
+      "closing balance": "Closing balance"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -70,6 +71,6 @@
       "2026-07-06",
       "2026-07-07"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2026–27** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2026-04-01|Opening balance b/f|||867,408,731|\n|2026-04-01|Vendor payment #263|28,030,603||839,378,128|\n|2026-04-02|Vendor payment #239|5,756,578||833,621,550|\n|2026-04-03|Receipt against invoice (rcpt #262)||33,828,661|867,450,211|\n|2026-04-07|TDS deposited (202603)|5,856,438||861,593,773|\n|2026-04-10|Vendor payment #205|10,590,333||851,003,440|\n|2026-04-11|Receipt against invoice (rcpt #250)||52,777,625|903,781,065|\n|2026-04-11|Vendor payment #257|32,759,745||871,021,320|\n|2026-04-12|Receipt against invoice (rcpt #391)||48,252,776|919,274,096|\n|2026-04-19|GST settlement (period 20254)|141,132,183||778,141,913|\n|2026-04-28|Receipt against invoice (rcpt #386)||60,948,725|839,090,638|\n|2026-04-28|Vendor payment "
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2026–27**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2026-04-01|Opening balance b/f|||867,408,731|\n|2026-04-01|Vendor payment #263|28,030,603||839,378,128|\n|2026-04-02|Vendor payment #239|5,756,578||833,621,550|\n|2026-04-03|Receipt against invoice (rcpt #262)||33,828,661|867,450,211|\n|2026-04-07|TDS deposited (202603)|5,856,438||861,593,773|\n|2026-04-10|Vendor payment #205|10,590,333||851,003,440|\n|2026-04-11|Receipt against invoice (rcpt #250)||52,777,625|903,781,065|\n|2026-04-11|Vendor payment #257|32,759,745||871,021,320|\n|2026-04-12|Receipt against invoice (rcpt #391)||48,252,776|919,274,096|\n|2026-04-19|GST settlement (period 20254)|141,132,183||778,141,913|\n|2026-04-28|Receipt against invoice (rcpt #386)||60,948,725|839,090,638|\n|2026-04-28|Vendor payment #297|34,550,609||804,540,029"
   }
 }

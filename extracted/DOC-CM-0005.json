@@ -3,25 +3,15 @@
   "doc_type": "compliance_matrix",
   "filename": "compliance_matrix/DOC-CM-0005.pdf",
   "size_bytes": 19592,
-  "char_count": 1109,
+  "char_count": 26,
   "page_count": 1,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (26 chars on 1 pages)"
+  ],
   "extracted_data": {
-    "key_values": {
-      "#": "Requirement",
-      "1": "Quality management certification (ISO<br>9001:2015)",
-      "complied": "EMD-0005",
-      "3": "Occupational health & safety (ISO<br>45001:2018)",
-      "5": "Similar-works experience (5 yrs minimum)",
-      "7": "Plant & machinery deployment"
-    },
-    "money_mentions": [
-      [
-        "Rs. 150 Cr",
-        1500000000.0
-      ]
-    ],
+    "key_values": {},
+    "money_mentions": [],
     "extracted_dates": [],
-    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nBid Compliance Checklist \n\n## **ComplianCe CheCklist** \n\nTender RFP-132000485 · Sewerage Drainage \n\n**CM/5** \n\nMarch 31, 2026 \n\n|**#**|**Requirement**|**Status**|**Evidence (under separate cover)**|\n|---|---|---|---|\n|1|Quality management certification (ISO<br>9001:2015)|Complied|Certificate ORG-1001|\n|2|Environmental management (ISO<br>14001:2015)|Complied|Certificate ORG-1002|\n|3|Occupational health & safety (ISO<br>45001:2018)|Complied|Certificate ORG-1003|\n|4|Minimum average turnover requirement<br>(Rs. 150 Cr)|Complied|Audited statements, FY 2019–2025|\n|5|Similar-works experience (5 yrs minimum)|Complied|Completion certificates annexed<br>separately|\n|6|Key technical staff (10 minimum)|Complied|486 personnel on rolls; CVs under<br>separate cover|\n|7|Plant & machinery deployment|Complied|210 owned assets; deployment schedule<br>annexed|\n|8|Earnest money deposit|Complied|EMD-0005|\n\n\n\nFigures are evidenced by the referenced documents and are"
+    "summary_text": "DOC-CM-0005 Page 1 of 1\n\n\n"
   }
 }

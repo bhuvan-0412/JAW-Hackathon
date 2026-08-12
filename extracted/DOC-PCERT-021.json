@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-021",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-021.pdf",
+  "size_bytes": 48476,
+  "char_count": 1072,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Imran Joshi",
+    "employee_id": "EMP-016",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200021",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2029-09-15"
+  }
+}

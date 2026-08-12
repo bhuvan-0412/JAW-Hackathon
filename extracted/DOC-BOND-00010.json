@@ -3,17 +3,19 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00010.pdf",
   "size_bytes": 101673,
-  "char_count": 3496,
+  "char_count": 87,
   "page_count": 3,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (87 chars on 3 pages)"
+  ],
   "extracted_data": {
-    "project_name": "Bridges Flyovers Works",
+    "project_name": null,
     "package_code": null,
-    "issuing_bank": "Prithvi Commercial Bank",
+    "issuing_bank": null,
     "beneficiary": null,
-    "guarantee_amount": 17300000.0,
-    "raw_guarantee_amount": "INR 1.73 Cr",
-    "issue_date": "2019-06-17",
-    "expiry_date": "This Guarantee shall remain valid from 2019-06-17 until 2022-05-14 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
+    "issue_date": null,
+    "expiry_date": null
   }
 }

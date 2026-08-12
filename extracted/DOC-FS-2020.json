@@ -1,0 +1,28 @@
+{
+  "doc_id": "DOC-FS-2020",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2020.pdf",
+  "size_bytes": 91243,
+  "char_count": 3684,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "note 1 — basis of preparation": "These financial statements have been prepared in accordance with Indian",
+      "note 2 — revenue recognition": "Revenue from construction contracts is recognised over time using the",
+      "note 3 — going concern": "Based on the Company's financial position, including the order book of",
+      "note 4 — bank solvency": "The Company maintains satisfactory banking relationships. Bank solvency",
+      "opinion": "In our opinion and to the best of our information and according to the explanations given to us,"
+    },
+    "money_mentions": [
+      [
+        "498 Cr",
+        4980000000.0
+      ]
+    ],
+    "extracted_dates": [
+      "2026-03-31"
+    ],
+    "summary_text": "# **National Infrastructure Corp. Ltd.**\n\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O\n\n## **Statement of Profit and Loss (Extract)**\n\n\nFor the financial year ended 31st March 2021\n\n\n**Statement No: FS-2020-002** Currency: INR (All amounts in Lakhs unless stated)\n\n\n**A. Revenue from Operations**\n\n\n**Particulars** **Current Year (FY2020-21)** **Previous Year (FY2019-20)**\n\n\nContract Revenue (EPC) 19,911 16,924\n\n\nOther Operating Revenue 597 498\n\n\n**Total Revenue from Operations (A)** **20,508** **17,422**\n\n\n**B. Expenses**\n\n\n**Particulars** **Current Year** **Previous Year**\n\n\nCost of Materials Consumed 8,363 7,964\n\n\nSub-contracting & Labour 3,584 3,385\n\n\nEmployee Benefit Expenses 2,389 2,190\n\n\nDepreciation & Amortisation 597 558\n\n\nOther Expenses 1,593 1,493\n\n\n**Total Expenses (B)** **16,526** **15,590**\n\n\n**C. Profit Before Tax (A - B)**\n\n\n**Profit Before Tax** **1,467**\n\n\n**Tax Expense (current + deferred)** 338\n\n\n**Profit After Tax** **1,128**\n\n\nDOC-FS-2020 P"
+  }
+}

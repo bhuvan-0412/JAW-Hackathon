@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-088.pdf",
   "size_bytes": 100142,
-  "char_count": 4649,
+  "char_count": 4604,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Residential Quarters — Delhi Pkg-88",
-    "package_code": "Pkg-88",
+    "project_name": null,
+    "package_code": null,
     "client_name": null,
     "contract_value": 200500000.0,
     "raw_contract_value": "INR 20.05 Cr",
     "start_date": null,
-    "completion_date": "2023-10-25",
-    "project_lead": "Neha Chopra",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }

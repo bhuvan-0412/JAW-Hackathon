@@ -3,19 +3,20 @@
   "doc_type": "iso_certificate",
   "filename": "iso_certificate/DOC-CERT-004.pdf",
   "size_bytes": 47368,
-  "char_count": 2101,
+  "char_count": 610,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "key_values": {
-      "`initial certification date`": "`2022-01-24`",
+      "initial certification date": "2022-01-24",
       "`valid until`": "`2028-12-16`",
       "`certification body`": "`CPWD`",
       "`iaf accreditation`": "`Yes — IAF MLA Signatory`",
-      "`audit type`": "`DATE`",
-      "`auditor`": "`FINDINGS`",
-      "`dr.`": "`R. Mehta`",
-      "`mr.`": "`S. Kapoor`"
+      "audit type": "DATE",
+      "`initial certification`": "`2022-01-24`",
+      "`dr. r. mehta`": "`0 major, 1 minor NC — closed`",
+      "`surveillance audit 2`": "`2025-02-20`",
+      "`tbd`": "`Scheduled`"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -24,9 +25,8 @@
       "2022-01-24",
       "2024-03-15",
       "2025-02-20",
-      "2028-01-10",
-      "2022-01-24"
+      "2028-01-10"
     ],
-    "summary_text": "## **`CPWD`** \n\n```\nAccredited Certification Body · IAF Member\n```\n\n### **`CERTIFICATE OF REGISTRATION`** \n\n```\nCertificate No: ORG-1004\n```\n\n```\nPage 1 of 2\n```\n\n```\nThis is to certify that the management system of\n```\n\n## **`National Infrastructure Corp. Ltd.`** \n\n```\nSalt Lake, Kolkata, India\n```\n\n```\nhas been assessed by this certification body and found to conform to the\nrequirements of\n```\n\n# **`CPWD Class I Registration`** \n\n#### **`SCOPE OF REGISTRATION`** \n\n```\nEngineering, Procurement & Construction (EPC) of infrastructure projects\nincluding water supply, sewerage & drainage, roads & highways, bridges,\nbuildings, industrial structures, and related civil engineering works.\n```\n\n|**`Initial Certification Date`**|`2022-01-24`|\n|---|---|\n|**`Valid Until`**|**`2028-12-16`**|\n|**`Certification Body`**|`CPWD`|\n|**`IAF Accreditation`**|`Yes — IAF MLA Signatory`|\n\n\n\n```\nPage 1 of 2\n```\n\n```\nDOC-CERT-004\n```\n\n#### **`SCHEDULE OF AUDITS`** \n\n|**`AUDIT TYPE`**|**`DATE`**|**`LEAD`**|**`AU"
+    "summary_text": "|Initial Certification Date|2022-01-24|\n|---|---|\n|**`Valid Until`**|**`2028-12-16`**|\n|**`Certification Body`**|`CPWD`|\n|**`IAF Accreditation`**|`Yes — IAF MLA Signatory`|\n\n\n```\nDOC-CERT-004 Page 1 of 2\n\n```\n\n|AUDIT TYPE|DATE|LEAD AUDITOR|FINDINGS|\n|---|---|---|---|\n|`Initial Certification`|`2022-01-24`|`Dr. R. Mehta`|`0 major, 2 minor NCs — closed`|\n|`Surveillance Audit 1`|`2024-03-15`|`Dr. R. Mehta`|`0 major, 1 minor NC — closed`|\n|`Surveillance Audit 2`|`2025-02-20`|`Mr. S. Kapoor`|`0 major, 0 minor NCs`|\n|`Re-certification`|`2028-01-10`|`TBD`|`Scheduled`|\n\n\n\n\n\n\n\n\n```\nDOC-CERT-004 Page 2 of 2\n\n```\n\n"
   }
 }

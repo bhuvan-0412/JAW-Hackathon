@@ -1,0 +1,30 @@
+{
+  "doc_id": "DOC-FS-2025",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2025.pdf",
+  "size_bytes": 54659,
+  "char_count": 3768,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "particulars": "Current Year (FY2025-26)",
+      "b. expenses": "Particulars",
+      "c. profit before tax (a - b)": "Profit Before Tax",
+      "doc-fs-2025 page 1 of 3\n\n\nd. balance sheet extract (as at 31st march 2026)": "Particulars",
+      "note 1 — basis of preparation": "These financial statements have been prepared in accordance with",
+      "note 2 — revenue recognition": "Revenue from construction contracts is recognised over time using",
+      "note 3 — going concern": "Based on the Company's financial position, including the order book of",
+      "note 4 — bank solvency": "The Company maintains satisfactory banking relationships. Bank solvency",
+      "opinion": "In our opinion and to the best of our information and according to the explanations given to"
+    },
+    "money_mentions": [
+      [
+        "664 Cr",
+        6640000000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **National Infrastructure Corp. Ltd.**\n\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O\n\n## **STATEMENT OF PROFIT AND LOSS (EXTRACT)**\n\n\nFor the financial year ended 31st March 2026\n\n\n**Statement No: FS-2025-007** Currency: INR (All amounts in Lakhs unless stated)\n\n\n**A. REVENUE FROM OPERATIONS**\n\n|Particulars|Current Year (FY2025-26)|Previous Year (FY2024-25)|\n|---|---|---|\n|Contract Revenue (EPC)|26,544|22,562|\n|Other Operating Revenue|796|664|\n|**Total Revenue from Operations (A)**|**27,340**|**23,226**|\n\n\n\n**B. EXPENSES**\n\n|Particulars|Current Year|Previous Year|\n|---|---|---|\n|Cost of Materials Consumed|11,148|10,618|\n|Sub-contracting & Labour|4,778|4,512|\n|Employee Beneft Expenses|3,185|2,920|\n|Depreciation & Amortisation|796|743|\n|Other Expenses|2,124|1,991|\n|**Total Expenses (B)**|**22,031**|**20,784**|\n\n\n\n**C. PROFIT BEFORE TAX (A - B)**\n\n|Profit Before Tax|-13,488|\n|---|---|\n|**Tax Expense (current + deferred)**|-3,113|\n|**Proft After Tax**|**-10,375*"
+  }
+}

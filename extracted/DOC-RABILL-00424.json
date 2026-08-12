@@ -1,0 +1,21 @@
+{
+  "doc_id": "DOC-RABILL-00424",
+  "doc_type": "ra_bill",
+  "filename": "ra_bill/DOC-RABILL-00424.pdf",
+  "size_bytes": 29688,
+  "char_count": 31,
+  "page_count": 1,
+  "extraction_warnings": [
+    "Low char_count warning (31 chars on 1 pages)"
+  ],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "contract_value": null,
+    "billed_value": null,
+    "boq_items": []
+  }
+}

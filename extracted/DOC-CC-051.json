@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-051.pdf",
   "size_bytes": 97916,
-  "char_count": 4952,
+  "char_count": 1160,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
+    "project_name": "WTP Augmentation — West Bengal Pkg-51",
+    "package_code": "Pkg-51",
     "client_name": null,
     "contract_value": 149200000.0,
     "raw_contract_value": "Rs. 14.92 Crore",
     "start_date": null,
     "completion_date": null,
     "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Good."
+    "grading_text": "Ltd.`| |**`GSTIN`**|`19NAICC4417O1Z1`| |**`PAN`**|`NAICC4417O`| |**`Contractor's Project Manager`**|`Chandan Banerjee`|   ``` DOC-CC-051 Page 1 of 3  ```  |PARAMETER|ASSESSMENT|REMARKS| |---|---|---| |`Workmanship`|`Satisfactory`|`As per IS codes and approved specifications`| |`Material Quality`|`Satisfactory`|`Test certificates on record`| |`Dimensional Compliance`|`Satisfactory`|`Verified against approved drawings`| |`Safety Compliance`|`Satisfactory`|`BOCW Act provisions followed`|   |MILESTONE|PLANNED DATE|ACTUAL DATE|STATUS| |---|---|---|---| |`Site Mobilisation`|`2022-12-16`|`2022-12-16`|`✅ Completed`| |`Execution Phase`|`2022-12-16`|`2022-12-16`|`✅ Completed`| |`Final Inspection`|`2022-12-16`|`2022-12-16`|`✅ Completed`|   ``` DOC-CC-051 Page 2 of 3  ```  ``` DOC-CC-051 Page 3 of 3  ```"
   }
 }

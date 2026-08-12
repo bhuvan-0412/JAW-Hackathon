@@ -1,0 +1,18 @@
+{
+  "doc_id": "DOC-FS-2021",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2021.pdf",
+  "size_bytes": 55092,
+  "char_count": 1581,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "particulars": "CURRENT YEAR<br>(FY2021-22)",
+      "```\ndoc-fs-2021 page 1 of 3\n\n```": "PARTICULARS"
+    },
+    "money_mentions": [],
+    "extracted_dates": [],
+    "summary_text": "|PARTICULARS|CURRENT YEAR<br>(FY2021-22)|PREVIOUS YEAR<br>(FY2020-21)|\n|---|---|---|\n|`Contract Revenue (EPC)`|`32,669`|`27,769`|\n|`Other Operating Revenue`|`980`|`817`|\n|**`Total Revenue from Operations`**<br>**`(A)`**|**`33,649`**|**`28,585`**|\n\n\n\n\n|PARTICULARS|CURRENT YEAR|PREVIOUS YEAR|\n|---|---|---|\n|`Cost of Materials Consumed`|`13,721`|`13,068`|\n|`Sub-contracting & Labour`|`5,880`|`5,554`|\n|`Employee Benefit Expenses`|`3,920`|`3,594`|\n|`Depreciation & Amortisation`|`980`|`915`|\n|`Other Expenses`|`2,614`|`2,450`|\n|**`Total Expenses (B)`**|**`27,115`**|**`25,580`**|\n\n\n\n\n\n\n\n\n|Profit Before Tax|3,321|\n|---|---|\n|**`Tax Expense (current +`**<br>**`deferred)`**|`766`|\n|**`Profit After Tax`**|**`2,555`**|\n\n\n```\nDOC-FS-2021 Page 1 of 3\n\n```\n\n|PARTICULARS|CURRENT YEAR|PREVIOUS YEAR|\n|---|---|---|\n|**`EQUITY AND LIABILITIES`**|**`EQUITY AND LIABILITIES`**|**`EQUITY AND LIABILITIES`**|\n|`Shareholders' Funds — Paid-up Capital`|`4,900`|`4,574`|\n|`Reserves & Surplus`|`6,387`|`5,110`|\n|`Non-Cu"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-159",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-159.pdf",
+  "size_bytes": 41777,
+  "char_count": 404,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": null,
+    "employee_id": null,
+    "certification_type": null,
+    "credential_id": null,
+    "issue_date": "01/01/2023",
+    "expiry_date": "01/01/2028"
+  }
+}

@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-044.pdf",
   "size_bytes": 44384,
-  "char_count": 964,
+  "char_count": 953,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
@@ -11,7 +11,7 @@
     "package_code": null,
     "client_name": null,
     "contract_value": 178300000.0,
-    "raw_contract_value": "Rs. 1783.00 Lakh",
+    "raw_contract_value": "1783.00 Lakh",
     "start_date": null,
     "completion_date": null,
     "project_lead": null,

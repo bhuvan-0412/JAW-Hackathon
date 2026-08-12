@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-154.pdf",
   "size_bytes": 135415,
-  "char_count": 4737,
+  "char_count": 4688,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "School Building — Delhi Pkg-154",
-    "package_code": "Pkg-154",
+    "project_name": null,
+    "package_code": null,
     "client_name": "Subarnarekha Valley Corp",
     "contract_value": 19400000.0,
-    "raw_contract_value": "INR 1,94,00,000/-",
+    "raw_contract_value": "INR 1,94,00,000",
     "start_date": null,
-    "completion_date": "2017-09-05",
-    "project_lead": "Uma Sen",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }

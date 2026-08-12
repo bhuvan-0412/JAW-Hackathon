@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2019.pdf",
   "size_bytes": 19666,
-  "char_count": 2435,
+  "char_count": 2401,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -55,6 +55,6 @@
       "2020-03-28",
       "2020-03-28"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2019–20** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2019-04-01|Opening balance b/f|||0|\n|2019-04-01|Opening capital & plant brought in||400,000,000|400,000,000|\n|2019-04-02|Working-capital facility drawdown||20,000,000|420,000,000|\n|2019-04-28|Monthly salaries & site overheads (201904)|802,761||419,197,239|\n|2019-05-28|Monthly salaries & site overheads (201905)|802,761||418,394,478|\n|2019-06-28|Monthly salaries & site overheads (201906)|802,761||417,591,717|\n|2019-07-28|Monthly salaries & site overheads (201907)|802,761||416,788,956|\n|2019-08-06|Receipt against invoice (rcpt #6)||22,320,149|439,109,105|\n|2019-08-28|Monthly salaries & site overheads (201908)|802,761||438,306,344|\n|2019-09-11|Vendor payment #8|35,115,513||403,190,831|\n|2019-09-28|Monthly salaries"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2019–20**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2019-04-01|Opening balance b/f|||0|\n|2019-04-01|Opening capital & plant brought in||400,000,000|400,000,000|\n|2019-04-02|Working-capital facility drawdown||20,000,000|420,000,000|\n|2019-04-28|Monthly salaries & site overheads (201904)|802,761||419,197,239|\n|2019-05-28|Monthly salaries & site overheads (201905)|802,761||418,394,478|\n|2019-06-28|Monthly salaries & site overheads (201906)|802,761||417,591,717|\n|2019-07-28|Monthly salaries & site overheads (201907)|802,761||416,788,956|\n|2019-08-06|Receipt against invoice (rcpt #6)||22,320,149|439,109,105|\n|2019-08-28|Monthly salaries & site overheads (201908)|802,761||438,306,344|\n|2019-09-11|Vendor payment #8|35,115,513||403,190,831|\n|2019-09-28|Monthly salaries & site overheads (201909)|8"
   }
 }

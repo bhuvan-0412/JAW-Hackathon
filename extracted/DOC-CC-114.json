@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-114.pdf",
   "size_bytes": 96863,
-  "char_count": 4801,
+  "char_count": 1139,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
+    "project_name": "Rail Tunnel — Gujarat Pkg-114",
+    "package_code": "Pkg-114",
     "client_name": null,
     "contract_value": 1277800000.0,
     "raw_contract_value": "Rs. 127.78 Crore",
     "start_date": null,
     "completion_date": null,
     "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Satisfactory."
+    "grading_text": "Ltd.`| |**`GSTIN`**|`19NAICC4417O1Z1`| |**`PAN`**|`NAICC4417O`| |**`Contractor's Project Manager`**|`Farhan Roy`|   ``` DOC-CC-114 Page 1 of 3  ```  |PARAMETER|ASSESSMENT|REMARKS| |---|---|---| |`Workmanship`|`Satisfactory`|`As per IS codes and approved specifications`| |`Material Quality`|`Satisfactory`|`Test certificates on record`| |`Dimensional Compliance`|`Satisfactory`|`Verified against approved drawings`| |`Safety Compliance`|`Satisfactory`|`BOCW Act provisions followed`|   |MILESTONE|PLANNED DATE|ACTUAL DATE|STATUS| |---|---|---|---| |`Site Mobilisation`|`2010-08-23`|`2010-08-23`|`✅ Completed`| |`Execution Phase`|`2010-08-23`|`2010-08-23`|`✅ Completed`| |`Final Inspection`|`2010-08-23`|`2010-08-23`|`✅ Completed`|   ``` DOC-CC-114 Page 2 of 3  ```  ``` DOC-CC-114 Page 3 of 3  ```"
   }
 }

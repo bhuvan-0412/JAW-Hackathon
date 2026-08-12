@@ -3,7 +3,7 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00025.pdf",
   "size_bytes": 88602,
-  "char_count": 3506,
+  "char_count": 3496,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -14,6 +14,6 @@
     "guarantee_amount": 5546000.0,
     "raw_guarantee_amount": "Rs. 55.46 Lakh",
     "issue_date": "2019-10-08",
-    "expiry_date": "This Guarantee shall remain valid from 2019-10-08 until 2023-07-27 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2019-10-08 until 2023-07-27 (the \"Expiry Date\") unless extended by"
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-107.pdf",
   "size_bytes": 135256,
-  "char_count": 4766,
+  "char_count": 4713,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Ring Road — Uttar Pradesh Pkg-107",
-    "package_code": "Pkg-107",
+    "project_name": null,
+    "package_code": null,
     "client_name": "National Expressway Development Authority",
     "contract_value": 1329700000.0,
-    "raw_contract_value": "INR 1,32,97,00,000/-",
+    "raw_contract_value": "INR 1,32,97,00,000",
     "start_date": null,
-    "completion_date": "2012-08-16",
-    "project_lead": "Sunita Joshi",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
   }
 }

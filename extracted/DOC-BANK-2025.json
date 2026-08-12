@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2025.pdf",
   "size_bytes": 44310,
-  "char_count": 13155,
+  "char_count": 13182,
   "page_count": 6,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,7 +15,7 @@
       "2025-04-11": "Vendor payment #234",
       "33,828,661": "1,307,876,473",
       "2025-04-19": "GST settlement (period 20244)",
-      "9,119,487": "878,606,901<br>887,726,388",
+      "9,119,487": "887,726,388",
       "2025-04-21": "Receipt against invoice (rcpt #257)",
       "2025-04-22": "Vendor payment #173",
       "52,777,625": "1,372,667,487",
@@ -29,9 +29,8 @@
       "2025-05-26": "Vendor payment #163",
       "20,823,554": "1,962,647,915",
       "2025-05-28": "Monthly salaries & site overheads (202505)",
-      "page 1 of 6 \n\ndoc-bank-2025": "2025-06-06",
-      "7,395,759": "1,965,619,699",
-      "2025-06-07": "TDS deposited (202505)",
+      "doc-bank-2025 page 1 of 6": "2025-06-06",
+      "col3": "38,192,748",
       "1,736,323": "1,322,344,402",
       "2025-06-10": "Vendor payment #350",
       "38,061,964": "1,291,260,038",
@@ -55,9 +54,7 @@
       "40,651,768": "1,917,616,378",
       "34,430,981": "1,931,603,343",
       "2025-08-02": "Vendor payment #214",
-      "page 2 of 6 \n\ndoc-bank-2025": "2025-08-09",
-      "23,374,439": "1,919,385,246",
-      "2025-08-11": "Vendor payment #242",
+      "doc-bank-2025 page 2 of 6": "2025-08-09",
       "2025-08-28": "Monthly salaries & site overheads (202508)",
       "2025-08-31": "Vendor payment #355",
       "2025-09-08": "Vendor payment #197",
@@ -73,9 +70,7 @@
       "2025-10-15": "Receipt against invoice (rcpt #221)",
       "17,127,827": "1,511,695,113",
       "2025-10-16": "Vendor payment #251",
-      "page 3 of 6 \n\ndoc-bank-2025": "2025-10-18",
-      "38,192,748": "923,423,449",
-      "2025-10-18": "Vendor payment #217",
+      "doc-bank-2025 page 3 of 6": "2025-10-18",
       "2025-10-20": "GST settlement (period 20252)",
       "24,356,767": "980,022,936",
       "2025-10-25": "Receipt against invoice (rcpt #247)",
@@ -89,7 +84,8 @@
       "2025-12-14": "Vendor payment #244",
       "2025-12-27": "Vendor payment #174",
       "17,215,491": "1,300,958,763",
-      "page 4 of 6 \n\ndoc-bank-2025": "2025-12-29",
+      "doc-bank-2025 page 4 of 6": "2025-12-29",
+      "11,970,559": "Col4",
       "2026-01-01": "Vendor payment #208",
       "2026-01-04": "Vendor payment #252",
       "2026-01-06": "Vendor payment #305",
@@ -102,7 +98,9 @@
       "2026-02-06": "Vendor payment #295",
       "2026-02-19": "Vendor payment #303",
       "13,135,522": "899,292,175",
-      "2026-02-22<br>2026-02-25": "Vendor payment #301<br>Receipt against invoice (rcpt #234)",
+      "2026-02-22": "Vendor payment #301",
+      "col4": "878,606,901",
+      "2026-02-25": "Receipt against invoice (rcpt #234)",
       "2026-02-28": "Monthly salaries & site overheads (202502)",
       "25,054,852": "904,170,525",
       "2026-03-10": "Vendor payment #228",
@@ -112,6 +110,7 @@
       "2026-03-15": "Vendor payment #358",
       "60,948,725": "933,937,440",
       "2026-03-20": "Vendor payment #247",
+      "38,192,748": "923,423,449",
       "2026-03-22": "Receipt against invoice (rcpt #426)",
       "5,738,363": "929,161,812",
       "2026-03-24": "Receipt against invoice (rcpt #392)",
@@ -119,7 +118,8 @@
       "6,371,953": "983,786,541",
       "2026-03-27": "Vendor payment #235",
       "10,411,778": "877,034,476",
-      "2026-03-30": "Vendor payment #195"
+      "2026-03-30": "Vendor payment #195",
+      "closing balance": "Closing balance"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -310,6 +310,6 @@
       "2026-03-30",
       "2026-03-30"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2025–26** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2025-04-01|Opening balance b/f|||1,985,693,321|\n|2025-04-04|Vendor payment #127|11,447,704||1,974,245,617|\n|2025-04-07|TDS deposited (202503)|3,859,293||1,970,386,324|\n|2025-04-10|Receipt against invoice (rcpt #183)||22,810,932|1,993,197,256|\n|2025-04-11|Vendor payment #234|43,480,761||1,949,716,495|\n|2025-04-15|Vendor payment #189|18,803,835||1,930,912,660|\n|2025-04-19|Receipt against invoice (rcpt #256)||33,828,661|1,964,741,321|\n|2025-04-19|GST settlement (period 20244)|76,000,130||1,888,741,191|\n|2025-04-21|Receipt against invoice (rcpt #230)||9,119,487|1,897,860,678|\n|2025-04-21|Receipt against invoice (rcpt #257)||33,828,661|1,931,689,339|\n|2025-04-22|Receipt against invoice (rcpt #248)||52,777,625|1,984"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2025–26**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2025-04-01|Opening balance b/f|||1,985,693,321|\n|2025-04-04|Vendor payment #127|11,447,704||1,974,245,617|\n|2025-04-07|TDS deposited (202503)|3,859,293||1,970,386,324|\n|2025-04-10|Receipt against invoice (rcpt #183)||22,810,932|1,993,197,256|\n|2025-04-11|Vendor payment #234|43,480,761||1,949,716,495|\n|2025-04-15|Vendor payment #189|18,803,835||1,930,912,660|\n|2025-04-19|Receipt against invoice (rcpt #256)||33,828,661|1,964,741,321|\n|2025-04-19|GST settlement (period 20244)|76,000,130||1,888,741,191|\n|2025-04-21|Receipt against invoice (rcpt #230)||9,119,487|1,897,860,678|\n|2025-04-21|Receipt against invoice (rcpt #257)||33,828,661|1,931,689,339|\n|2025-04-22|Receipt against invoice (rcpt #248)||52,777,625|1,984,466,964|\n|2025-04-22|Vendor"
   }
 }

@@ -3,28 +3,17 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-016.pdf",
   "size_bytes": 60068,
-  "char_count": 2332,
+  "char_count": 50,
   "page_count": 2,
-  "extraction_warnings": [],
+  "extraction_warnings": [
+    "Low char_count warning (50 chars on 2 pages)"
+  ],
   "extracted_data": {
-    "engineer_name": "Imran Joshi",
+    "engineer_name": null,
     "employee_id": null,
-    "designation": "Project Manager",
+    "designation": null,
     "total_experience": null,
-    "qualification": "B.Tech Mechanical",
-    "projects_led": [
-      {
-        "project_name": "",
-        "package_code": "Commercial",
-        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
-        "role": ""
-      },
-      {
-        "project_name": "First Class",
-        "package_code": "",
-        "client": "Higher Secondary (XII)",
-        "role": "CBSE Board"
-      }
-    ]
+    "qualification": null,
+    "projects_led": []
   }
 }

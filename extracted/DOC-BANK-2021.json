@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2021.pdf",
   "size_bytes": 38728,
-  "char_count": 11029,
+  "char_count": 11047,
   "page_count": 5,
   "extraction_warnings": [],
   "extracted_data": {
@@ -32,6 +32,8 @@
       "2021-05-28": "Vendor payment #57",
       "64,300,767": "933,471,829",
       "2021-05-31": "Vendor payment #91",
+      "col4": "600,679,033",
+      "2021-06-02": "Receipt against invoice (rcpt #305)",
       "71,195,382": "854,407,825",
       "2021-06-07": "Vendor payment #26",
       "2021-06-09": "Vendor payment #66",
@@ -86,6 +88,7 @@
       "2021-11-28": "Monthly salaries & site overheads (202111)",
       "63,631,240": "704,778,949",
       "2021-12-03": "Vendor payment #326",
+      "2021-12-04": "Receipt against invoice (rcpt #59)",
       "2021-12-05": "Vendor payment #76",
       "2021-12-12": "Receipt against invoice (rcpt #400)",
       "3,420,744": "663,681,981",
@@ -108,7 +111,8 @@
       "31,792,019": "641,147,709",
       "2022-01-31": "Receipt against invoice (rcpt #325)",
       "2022-02-07": "Vendor payment #4",
-      "page 4 of 5 \n\ndoc-bank-2021": "2022-02-07<br>2022-02-07",
+      "doc-bank-2021 page 4 of 5": "2022-02-07",
+      "46,141,590": "Col4",
       "2022-02-09": "Vendor payment #39",
       "2022-02-16": "Receipt against invoice (rcpt #30)",
       "2022-02-17": "Vendor payment #321",
@@ -127,7 +131,7 @@
       "2022-03-28": "Monthly salaries & site overheads (202103)",
       "13,349,817": "886,436,981",
       "2022-03-31": "Receipt against invoice (rcpt #287)",
-      "closing balanc": "e"
+      "closing balance": "941,141,144"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -287,6 +291,6 @@
       "2022-03-30",
       "2022-03-31"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2021–22** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2021-04-01|Opening balance b/f|||465,282,353|\n|2021-04-02|Vendor payment #12|51,167,788||414,114,565|\n|2021-04-02|Vendor payment #61|48,494,266||365,620,299|\n|2021-04-03|Receipt against invoice (rcpt #35)||29,525,036|395,145,335|\n|2021-04-06|Receipt against invoice (rcpt #47)||22,594,788|417,740,123|\n|2021-04-07|Vendor payment #97|7,541,001||410,199,122|\n|2021-04-07|TDS deposited (202103)|926,348||409,272,774|\n|2021-04-10|Receipt against invoice (rcpt #22)||40,808,246|450,081,020|\n|2021-04-10|Receipt against invoice (rcpt #66)||50,275,475|500,356,495|\n|2021-04-10|Receipt against invoice (rcpt #91)||8,285,906|508,642,401|\n|2021-04-11|Vendor payment #89|45,834,930||462,807,471|\n|2021-04-15|Receipt against invoic"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2021–22**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2021-04-01|Opening balance b/f|||465,282,353|\n|2021-04-02|Vendor payment #12|51,167,788||414,114,565|\n|2021-04-02|Vendor payment #61|48,494,266||365,620,299|\n|2021-04-03|Receipt against invoice (rcpt #35)||29,525,036|395,145,335|\n|2021-04-06|Receipt against invoice (rcpt #47)||22,594,788|417,740,123|\n|2021-04-07|Vendor payment #97|7,541,001||410,199,122|\n|2021-04-07|TDS deposited (202103)|926,348||409,272,774|\n|2021-04-10|Receipt against invoice (rcpt #22)||40,808,246|450,081,020|\n|2021-04-10|Receipt against invoice (rcpt #66)||50,275,475|500,356,495|\n|2021-04-10|Receipt against invoice (rcpt #91)||8,285,906|508,642,401|\n|2021-04-11|Vendor payment #89|45,834,930||462,807,471|\n|2021-04-15|Receipt against invoice (rcpt #61)||49,491,841|512"
   }
 }

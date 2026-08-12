@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-039.pdf",
   "size_bytes": 102988,
-  "char_count": 4672,
+  "char_count": 4629,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Hospital Block — Odisha Pkg-39",
-    "package_code": "Pkg-39",
+    "project_name": null,
+    "package_code": null,
     "client_name": "Peninsular Petroleum Corp",
     "contract_value": 181700000.00000003,
     "raw_contract_value": "INR 18.17 Cr",
     "start_date": null,
-    "completion_date": "2014-12-05",
-    "project_lead": "Meera Roy",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }

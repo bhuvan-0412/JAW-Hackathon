@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 extract_pipeline.py — Structured Extraction Pipeline for Document Estate
 

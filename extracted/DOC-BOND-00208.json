@@ -3,7 +3,7 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00208.pdf",
   "size_bytes": 88516,
-  "char_count": 3506,
+  "char_count": 3496,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -14,6 +14,6 @@
     "guarantee_amount": 18523000.0,
     "raw_guarantee_amount": "Rs. 185.23 Lakh",
     "issue_date": "2024-10-17",
-    "expiry_date": "This Guarantee shall remain valid from 2024-10-17 until 2028-02-11 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2024-10-17 until 2028-02-11 (the \"Expiry Date\") unless extended by"
   }
 }

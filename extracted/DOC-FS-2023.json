@@ -1,0 +1,18 @@
+{
+  "doc_id": "DOC-FS-2023",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2023.pdf",
+  "size_bytes": 55034,
+  "char_count": 1570,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "particulars": "CURRENT YEAR<br>(FY2023-24)",
+      "```\ndoc-fs-2023 page 1 of 3\n\n```": "PARTICULARS"
+    },
+    "money_mentions": [],
+    "extracted_dates": [],
+    "summary_text": "|PARTICULARS|CURRENT YEAR<br>(FY2023-24)|PREVIOUS YEAR<br>(FY2022-23)|\n|---|---|---|\n|`Contract Revenue (EPC)`|`24,103`|`20,488`|\n|`Other Operating Revenue`|`723`|`603`|\n|**`Total Revenue from Operations`**<br>**`(A)`**|**`24,826`**|**`21,090`**|\n\n\n\n\n|PARTICULARS|CURRENT YEAR|PREVIOUS YEAR|\n|---|---|---|\n|`Cost of Materials Consumed`|`10,123`|`9,641`|\n|`Sub-contracting & Labour`|`4,339`|`4,098`|\n|`Employee Benefit Expenses`|`2,892`|`2,651`|\n|`Depreciation & Amortisation`|`723`|`675`|\n|`Other Expenses`|`1,928`|`1,808`|\n|**`Total Expenses (B)`**|**`20,006`**|**`18,873`**|\n\n\n\n\n\n\n\n\n|Profit Before Tax|979|\n|---|---|\n|**`Tax Expense (current +`**<br>**`deferred)`**|`226`|\n|**`Profit After Tax`**|**`753`**|\n\n\n```\nDOC-FS-2023 Page 1 of 3\n\n```\n\n|PARTICULARS|CURRENT YEAR|PREVIOUS YEAR|\n|---|---|---|\n|**`EQUITY AND LIABILITIES`**|**`EQUITY AND LIABILITIES`**|**`EQUITY AND LIABILITIES`**|\n|`Shareholders' Funds — Paid-up Capital`|`3,615`|`3,374`|\n|`Reserves & Surplus`|`1,883`|`1,507`|\n|`Non-Current"
+  }
+}

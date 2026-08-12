@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-151.pdf",
   "size_bytes": 99250,
-  "char_count": 4723,
+  "char_count": 4679,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Anganwadi Centre — Gujarat Pkg-151",
-    "package_code": "Pkg-151",
+    "project_name": null,
+    "package_code": null,
     "client_name": "Trishakti Power Generation Corp",
     "contract_value": 25000000.0,
     "raw_contract_value": "INR 2.50 Cr",
     "start_date": null,
-    "completion_date": "2020-06-03",
-    "project_lead": "Farhan Roy",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }

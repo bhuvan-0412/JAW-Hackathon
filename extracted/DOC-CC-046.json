@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-046.pdf",
   "size_bytes": 144673,
-  "char_count": 4770,
+  "char_count": 3770,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Hospital Block — West Bengal Pkg-46",
-    "package_code": "Pkg-46",
+    "project_name": null,
+    "package_code": null,
     "client_name": null,
-    "contract_value": 318900000.0,
-    "raw_contract_value": "INR 31.89 Cr",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
-    "completion_date": "2016-02-03",
-    "project_lead": "Pooja Bose",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Excellent** ."
   }
 }

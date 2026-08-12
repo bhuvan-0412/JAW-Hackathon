@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-028",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-028.pdf",
+  "size_bytes": 48439,
+  "char_count": 1054,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Rahul Das",
+    "employee_id": "EMP-023",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200028",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

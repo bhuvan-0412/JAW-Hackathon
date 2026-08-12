@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-044",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-044.pdf",
+  "size_bytes": 48750,
+  "char_count": 1072,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Farhan Khan",
+    "employee_id": "EMP-039",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200044",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

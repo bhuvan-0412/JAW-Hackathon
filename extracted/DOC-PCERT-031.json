@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-031",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-031.pdf",
+  "size_bytes": 48364,
+  "char_count": 1066,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Rajesh Rao",
+    "employee_id": "EMP-026",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200031",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2029-09-15"
+  }
+}

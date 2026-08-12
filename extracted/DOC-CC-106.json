@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-106.pdf",
   "size_bytes": 142740,
-  "char_count": 4791,
+  "char_count": 3787,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Extradosed Bridge — Gujarat Pkg-106",
-    "package_code": "Pkg-106",
+    "project_name": null,
+    "package_code": null,
     "client_name": "National Special Projects Office",
-    "contract_value": 400000000.0,
-    "raw_contract_value": "INR 40.00 Cr",
+    "contract_value": null,
+    "raw_contract_value": null,
     "start_date": null,
-    "completion_date": "2012-12-08",
-    "project_lead": "Kavita Reddy",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
   }
 }

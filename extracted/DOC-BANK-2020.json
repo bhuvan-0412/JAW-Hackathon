@@ -3,7 +3,7 @@
   "doc_type": "bank_statement",
   "filename": "bank_statement/DOC-BANK-2020.pdf",
   "size_bytes": 31170,
-  "char_count": 7216,
+  "char_count": 7246,
   "page_count": 4,
   "extraction_warnings": [],
   "extracted_data": {
@@ -44,7 +44,8 @@
       "71,195,382": "329,901,194",
       "2020-10-10": "Vendor payment #80",
       "2020-11-28": "Monthly salaries & site overheads (202011)",
-      "page 2 of 4 \n\ndoc-bank-2020": "2020-12-07",
+      "doc-bank-2020 page 2 of 4": "2020-12-07",
+      "2,453,782": "Col4",
       "16,571,810": "475,022,823",
       "2020-12-15": "Vendor payment #71",
       "2020-12-20": "Vendor payment #70",
@@ -67,14 +68,14 @@
       "2021-03-04": "Receipt against invoice (rcpt #56)",
       "31,072,578": "398,497,485",
       "2021-03-07": "TDS deposited (202102)",
-      "page 3 of 4 \n\ndoc-bank-2020": "2021-03-11",
-      "11,756,544": "408,682,166",
-      "2021-03-11": "Receipt against invoice (rcpt #93)",
+      "doc-bank-2020 page 3 of 4": "2021-03-11",
+      "col3": "11,756,544",
       "29,070,912": "437,753,078",
       "2021-03-13": "Receipt against invoice (rcpt #80)",
       "2021-03-14": "Receipt against invoice (rcpt #90)",
       "2021-03-17": "Vendor payment #84",
-      "2021-03-28": "Monthly salaries & site overheads (202003)"
+      "2021-03-28": "Monthly salaries & site overheads (202003)",
+      "closing balance": "Closing balance"
     },
     "money_mentions": [],
     "extracted_dates": [
@@ -180,6 +181,6 @@
       "2021-03-20",
       "2021-03-28"
     ],
-    "summary_text": "**Kalinga National Bank** \n\nStatement of Account · Current Account \n\n# **ACCOUNT STATEMENT — FY 2020–21** \n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** \n\nIFSC: KNBX0004417 \n\n|**Date**|**Particulars**|**Withdrawal**|**Deposit**|**Balance**|\n|---|---|---|---|---|\n|2020-04-01|Opening balance b/f|||448,303,968|\n|2020-04-07|TDS deposited (202003)|555,820||447,748,148|\n|2020-04-13|Receipt against invoice (rcpt #32)||29,525,036|477,273,184|\n|2020-04-14|Receipt against invoice (rcpt #42)||34,985,220|512,258,404|\n|2020-04-21|Vendor payment #34|10,159,925||502,098,479|\n|2020-04-28|Monthly salaries & site overheads (202004)|5,017,331||497,081,148|\n|2020-05-02|Receipt against invoice (rcpt #1)||15,445,291|512,526,439|\n|2020-05-07|TDS deposited (202004)|175,171||512,351,268|\n|2020-05-19|Receipt against invoice (rcpt #8)||22,320,149|534,671,417|\n|2020-05-21|Receipt against invoice (rcpt #27)||45,445,081|580,116,498|\n|2020-05-28|Monthly salaries & site overheads (202005)|5,017,331||"
+    "summary_text": "# Kalinga National Bank Statement of Account · Current Account\n\n## **ACCOUNT STATEMENT — FY 2020–21**\n\n**A/c: 00417 2210 9944 · National Infrastructure Corp. Ltd.** IFSC: KNBX0004417\n\n|Date|Particulars|Withdrawal|Deposit|Balance|\n|---|---|---|---|---|\n|2020-04-01|Opening balance b/f|||448,303,968|\n|2020-04-07|TDS deposited (202003)|555,820||447,748,148|\n|2020-04-13|Receipt against invoice (rcpt #32)||29,525,036|477,273,184|\n|2020-04-14|Receipt against invoice (rcpt #42)||34,985,220|512,258,404|\n|2020-04-21|Vendor payment #34|10,159,925||502,098,479|\n|2020-04-28|Monthly salaries & site overheads (202004)|5,017,331||497,081,148|\n|2020-05-02|Receipt against invoice (rcpt #1)||15,445,291|512,526,439|\n|2020-05-07|TDS deposited (202004)|175,171||512,351,268|\n|2020-05-19|Receipt against invoice (rcpt #8)||22,320,149|534,671,417|\n|2020-05-21|Receipt against invoice (rcpt #27)||45,445,081|580,116,498|\n|2020-05-28|Monthly salaries & site overheads (202005)|5,017,331||575,099,167|\n|2020-06-02|Ven"
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-064.pdf",
   "size_bytes": 137049,
-  "char_count": 4705,
+  "char_count": 4658,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "RCC Bridge — Tamil Nadu Pkg-64",
-    "package_code": "Pkg-64",
+    "project_name": null,
+    "package_code": null,
     "client_name": "Mahanadi Steel Corp",
     "contract_value": 680900000.0,
-    "raw_contract_value": "INR 68,09,00,000/-",
+    "raw_contract_value": "INR 68,09,00,000",
     "start_date": null,
-    "completion_date": "2017-01-26",
-    "project_lead": "Rahul Das",
+    "completion_date": null,
+    "project_lead": null,
     "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
   }
 }
