@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-012",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-012.pdf",
+  "size_bytes": 13228,
+  "char_count": 682,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Material Handling Plant — Jharkhand Pkg-12",
+    "package_code": "Pkg-12",
+    "client_name": "Jal Nigam, Jharkhand (government)",
+    "contract_value": 730200000.0,
+    "raw_contract_value": "INR 73.02 Cr",
+    "start_date": null,
+    "completion_date": "27/07/2020",
+    "project_lead": "Imran Joshi",
+    "grading_text": null
+  }
+}

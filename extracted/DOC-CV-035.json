@@ -1,0 +1,30 @@
+{
+  "doc_id": "DOC-CV-035",
+  "doc_type": "cv",
+  "filename": "cv/DOC-CV-035.pdf",
+  "size_bytes": 59990,
+  "char_count": 2368,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Tanvir Malhotra",
+    "employee_id": null,
+    "designation": "Project Manager",
+    "total_experience": null,
+    "qualification": "B.Tech Mechanical",
+    "projects_led": [
+      {
+        "project_name": "",
+        "package_code": "Commercial",
+        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
+        "role": ""
+      },
+      {
+        "project_name": "First Class",
+        "package_code": "",
+        "client": "Higher Secondary (XII)",
+        "role": "CBSE Board"
+      }
+    ]
+  }
+}

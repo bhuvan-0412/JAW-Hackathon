@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-103",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-103.pdf",
+  "size_bytes": 53497,
+  "char_count": 3134,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Steel Truss Bridge — Maharashtra Pkg-103",
+    "package_code": "Pkg-103",
+    "client_name": "Public Works Department, Govt of Maharashtra (Government)",
+    "contract_value": 586900000.0,
+    "raw_contract_value": "INR 58.69 Cr",
+    "start_date": null,
+    "completion_date": "2010-09-30",
+    "project_lead": "Imran Joshi",
+    "grading_text": null
+  }
+}

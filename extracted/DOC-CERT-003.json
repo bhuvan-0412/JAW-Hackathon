@@ -1,0 +1,33 @@
+{
+  "doc_id": "DOC-CERT-003",
+  "doc_type": "iso_certificate",
+  "filename": "iso_certificate/DOC-CERT-003.pdf",
+  "size_bytes": 52236,
+  "char_count": 1950,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "initial certification date": "2022-07-16",
+      "valid until": "2028-09-16",
+      "certification body": "Bureau Veritas",
+      "iaf accreditation": "Yes — IAF MLA Signatory",
+      "audit type": "Date",
+      "initial certification": "2022-07-16",
+      "dr. r. mehta": "0 major, 1 minor NC — closed",
+      "surveillance audit 2": "2025-02-20",
+      "tbd": "Scheduled"
+    },
+    "money_mentions": [],
+    "extracted_dates": [
+      "2022-07-16",
+      "2028-09-16",
+      "2022-07-16",
+      "2024-03-15",
+      "2025-02-20",
+      "2028-01-10",
+      "2022-07-16"
+    ],
+    "summary_text": "**Bureau Veritas** \n\nAccredited Certification Body · IAF Member \n\n### **CERTIFICATE OF REGISTRATION** \n\n**Certificate No: ORG-1003** \n\nPage 1 of 2 \n\nThis is to certify that the management system of \n\n## **National Infrastructure Corp. Ltd.** \n\nSalt Lake, Kolkata, India \n\nhas been assessed by this certification body and found to conform to the requirements of \n\n# **ISO 45001:2018** \n\n#### **SCOPE OF REGISTRATION** \n\nEngineering, Procurement & Construction (EPC) of infrastructure projects including water supply, sewerage & drainage, roads & highways, bridges, buildings, industrial structures, and related civil engineering works. \n\n|**Initial Certification Date**|2022-07-16|\n|---|---|\n|**Valid Until**|**2028-09-16**|\n|**Certification Body**|Bureau Veritas|\n|**IAF Accreditation**|Yes — IAF MLA Signatory|\n\n\n\nPage 1 of 2 \n\nDOC-CERT-003 \n\n#### **SCHEDULE OF AUDITS** \n\n|**Audit Type**|**Date**|**Lead Auditor**|**Findings**|\n|---|---|---|---|\n|Initial Certification|2022-07-16|Dr. R. Mehta|0 maj"
+  }
+}

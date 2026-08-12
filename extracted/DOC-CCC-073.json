@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-073",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-073.pdf",
+  "size_bytes": 53322,
+  "char_count": 3085,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "STP — West Bengal Pkg-73",
+    "package_code": "Pkg-73",
+    "client_name": "Suvarna Projects Limited (Private)",
+    "contract_value": 219899999.99999997,
+    "raw_contract_value": "INR 21.99 Cr",
+    "start_date": null,
+    "completion_date": "2012-06-11",
+    "project_lead": "Sanjay Joshi",
+    "grading_text": null
+  }
+}

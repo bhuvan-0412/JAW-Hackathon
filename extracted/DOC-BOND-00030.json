@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00030",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00030.pdf",
+  "size_bytes": 88235,
+  "char_count": 3511,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Sewerage Drainage Works",
+    "package_code": null,
+    "issuing_bank": "Kalinga National Bank",
+    "beneficiary": null,
+    "guarantee_amount": 16051000.0,
+    "raw_guarantee_amount": "Rs. 160.51 Lakh",
+    "issue_date": "2019-11-03",
+    "expiry_date": "This Guarantee shall remain valid from 2019-11-03 until 2023-10-17 (the \"Expiry Date\") unless extended by mutual consent in writing."
+  }
+}

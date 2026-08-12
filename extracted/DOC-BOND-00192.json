@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00192",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00192.pdf",
+  "size_bytes": 133467,
+  "char_count": 3520,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Irrigation Works",
+    "package_code": null,
+    "issuing_bank": "Union Trust Bank of India",
+    "beneficiary": null,
+    "guarantee_amount": 15200000.0,
+    "raw_guarantee_amount": "INR 1.52 Cr",
+    "issue_date": "2023-04-08",
+    "expiry_date": "This Guarantee shall remain valid from 2023-04-08 until 2026-07-20 (the \"Expiry Date\") unless extended by mutual consent in writing."
+  }
+}

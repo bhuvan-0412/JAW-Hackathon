@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-001",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-001.pdf",
+  "size_bytes": 142622,
+  "char_count": 4751,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "RCC Bridge — Gujarat Pkg-1",
+    "package_code": "Pkg-1",
+    "client_name": "National Special Projects Office",
+    "contract_value": 333800000.0,
+    "raw_contract_value": "INR 33.38 Cr",
+    "start_date": null,
+    "completion_date": "2011-02-06",
+    "project_lead": "Suresh Desai",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+  }
+}

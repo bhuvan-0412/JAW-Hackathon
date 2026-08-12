@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-022",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-022.pdf",
+  "size_bytes": 13123,
+  "char_count": 645,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "RCC Bridge — Jharkhand Pkg-22",
+    "package_code": "Pkg-22",
+    "client_name": "Jharkhand Municipal Corporation (government)",
+    "contract_value": 87400000.0,
+    "raw_contract_value": "INR 8.74 Cr",
+    "start_date": null,
+    "completion_date": "01/06/2013",
+    "project_lead": "Farhan Roy",
+    "grading_text": null
+  }
+}

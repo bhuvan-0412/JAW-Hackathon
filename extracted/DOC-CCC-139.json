@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-139",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-139.pdf",
+  "size_bytes": 53503,
+  "char_count": 3115,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Community Centre — Uttar Pradesh Pkg-139",
+    "package_code": "Pkg-139",
+    "client_name": "National Expressway Development Authority (Government)",
+    "contract_value": 28000000.0,
+    "raw_contract_value": "INR 2.80 Cr",
+    "start_date": null,
+    "completion_date": "2020-01-30",
+    "project_lead": "Amit Iyer",
+    "grading_text": null
+  }
+}

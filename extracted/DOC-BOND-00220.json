@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00220",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00220.pdf",
+  "size_bytes": 88350,
+  "char_count": 3504,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Irrigation Works",
+    "package_code": null,
+    "issuing_bank": "Kalinga National Bank",
+    "beneficiary": null,
+    "guarantee_amount": 16772000.0,
+    "raw_guarantee_amount": "Rs. 167.72 Lakh",
+    "issue_date": "2024-05-06",
+    "expiry_date": "This Guarantee shall remain valid from 2024-05-06 until 2026-10-21 (the \"Expiry Date\") unless extended by mutual consent in writing."
+  }
+}

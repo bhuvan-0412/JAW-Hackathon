@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-148",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-148.pdf",
+  "size_bytes": 140585,
+  "char_count": 4652,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "School Building — Delhi Pkg-148",
+    "package_code": "Pkg-148",
+    "client_name": "Trishakti Power Generation Corp",
+    "contract_value": 15400000.0,
+    "raw_contract_value": "INR 1.54 Cr",
+    "start_date": null,
+    "completion_date": "2022-04-16",
+    "project_lead": "Rahul Menon",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
+  }
+}

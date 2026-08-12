@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-060",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-060.pdf",
+  "size_bytes": 94212,
+  "char_count": 4815,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Hospital Block — West Bengal Pkg-60",
+    "package_code": "Pkg-60",
+    "client_name": "Irrigation & Waterways Dept",
+    "contract_value": 403700000.0,
+    "raw_contract_value": "Rs. 4037.00 Lakh",
+    "start_date": null,
+    "completion_date": "2024-09-07",
+    "project_lead": "Priti Pillai",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+  }
+}

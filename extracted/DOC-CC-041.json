@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-041",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-041.pdf",
+  "size_bytes": 95855,
+  "char_count": 4662,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Lift Irrigation — Rajasthan Pkg-41",
+    "package_code": "Pkg-41",
+    "client_name": "Irrigation & Waterways Dept",
+    "contract_value": 310700000.0,
+    "raw_contract_value": "Rs. 3107.00 Lakh",
+    "start_date": null,
+    "completion_date": "2021-07-26",
+    "project_lead": "Suresh Das",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+  }
+}

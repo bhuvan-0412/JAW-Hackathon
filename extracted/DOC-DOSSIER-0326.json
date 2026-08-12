@@ -1,0 +1,1207 @@
+{
+  "doc_id": "DOC-DOSSIER-0326",
+  "doc_type": "tender_dossier",
+  "filename": "tender_dossier/DOC-DOSSIER-0326.pdf",
+  "size_bytes": 148312,
+  "char_count": 57707,
+  "page_count": 48,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "annexure": "Contents",
+      "a": "Company profile & organisation",
+      "b": "Registrations & certifications",
+      "c": "Financial standing",
+      "d": "Past performance — 48 relevant works",
+      "e": "Key personnel",
+      "f": "Plant & machinery",
+      "g": "Undertakings & declarations",
+      "h": "Bid security",
+      "unit": "Scale",
+      "page 2 of 48 \n\ndoc-dossier-0326 \n\n## annexure b — registrations & certifications": "Registration",
+      "status": "Valid To",
+      "active": "December 31, 2027",
+      "pan": "Income Tax Dept",
+      "epf registration": "EPFO",
+      "esic registration": "ESIC",
+      "trade licence": "Municipal Corporation",
+      "e-procurement portal registration": "State e-Procurement Cell",
+      "page 3 of 48 \n\ndoc-dossier-0326 \n\n### certificate copy — iso 9001:2015 \n\ncertificate no. org-1001 issuing body tuv india issue / expiry december 12, 2022 — march 31, 2029 \n\ntrue copy of the original certificate; original produced on demand. \n\npage 4 of 48 \n\ndoc-dossier-0326 \n\n### certificate copy — iso 14001:2015 \n\ncertificate no. org-1002 issuing body tuv india issue / expiry october 17, 2022 — may 7, 2029 \n\ntrue copy of the original certificate; original produced on demand. \n\npage 5 of 48 \n\ndoc-dossier-0326 \n\n### certificate copy — iso 45001:2018 \n\ncertificate no. org-1003 issuing body bureau veritas issue / expiry july 16, 2022 — september 16, 2028 \n\ntrue copy of the original certificate; original produced on demand. \n\npage 6 of 48 \n\ndoc-dossier-0326 \n\ncertificate copy — cpwd class i registration \n\ncertificate no. org-1004 issuing body cpwd issue / expiry january 24, 2022 — december 16, 2028 \n\ntrue copy of the original certificate; original produced on demand. \n\npage 7 of 48 \n\ndoc-dossier-0326 \n\n### certificate copy — nabl accreditation \n\ncertificate no. org-1005 issuing body nabl issue / expiry march 16, 2023 — october 4, 2028 \n\ntrue copy of the original certificate; original produced on demand. \n\npage 8 of 48 \n\ndoc-dossier-0326 \n\n## annexure c — financial standing": "FY",
+      "net turnover": "Net Profit",
+      "inr 48.17 cr": "INR -215,584,561",
+      "2020–21": "INR 200.29 Cr",
+      "inr 326.69 cr": "INR 25.55 Cr",
+      "2022–23": "INR 428.78 Cr",
+      "inr 241.03 cr": "INR 7.53 Cr",
+      "2024–25": "INR 233.56 Cr",
+      "inr 265.44 cr": "INR -1,037,531,068",
+      "#": "Work",
+      "value": "Completed",
+      "mega infrastructure<br>authority": "INR<br>198.88<br>Cr",
+      "subarnarekha valley": "INR",
+      "pkg-102": "Corporation",
+      "jal nigam, gujarat": "INR",
+      "127.78<br>cr": "2010",
+      "suvarna projects limited": "INR",
+      "mega infrastructure": "INR",
+      "bengal pkg-126": "Authority",
+      "2010": "51/2010/034",
+      "6": "Highway Tunnel — West",
+      "inr": "June 12, 2011",
+      "bengal pkg-120": "Dept, Govt of West<br>Bengal",
+      "arunodaya": "INR",
+      "pkg-111": "Infrastructure",
+      "jharkhand pkg-117": "Infrastructure",
+      "2022": "31/2022/117",
+      "9": "Rail Tunnel — West",
+      "bengal pkg-123": "Generation Corporation",
+      "10": "Hydro Tunnel — Uttar<br>Pradesh Pkg-129",
+      "inr<br>40.00 cr": "April 20, 2016",
+      "trishakti power": "INR",
+      "west bengal pkg-110": "Generation Corporation",
+      "2015": "25/2015/110",
+      "12": "Ring Road — Uttar",
+      "july 10, 2022": "CC/",
+      "pradesh pkg-113": "Office",
+      "west bengal pkg-116": "Generation Corporation",
+      "2020": "47/2020/127",
+      "14": "Six-Lane Highway —",
+      "tamil nadu pkg-119": "Corporation",
+      "22, 2018": "4/2018/119",
+      "15": "Ring Road — Uttar",
+      "pradesh pkg-107": "Development Authority",
+      "2012": "34/2012/106",
+      "16": "Extradosed Bridge —",
+      "madhya pradesh pkg-127": "Co.",
+      "17": "Cable Stayed Bridge —<br>Delhi Pkg-109",
+      "inr<br>113.60<br>cr": "December 24,<br>2013",
+      "gujarat pkg-112": "Generation Corporation",
+      "lakshya engineering &<br>construction": "INR<br>97.72 Cr",
+      "jal nigam, uttar pradesh": "INR<br>41.45 Cr",
+      "subarnarekha valley<br>corporation": "INR<br>86.09 Cr",
+      "jal nigam, jharkhand": "INR<br>73.02 Cr",
+      "irrigation & waterways<br>dept, govt of rajasthan": "INR<br>77.59 Cr",
+      "page 11 of 48 \n\ndoc-dossier-0326": "25",
+      "pkg-31": "Generation Corporation",
+      "2024": "23/2024/017",
+      "26": "Rigid Pavement — Tamil",
+      "nadu pkg-70": "Corporation",
+      "2011": "44/2011/070",
+      "27": "RCC Bridge — Tamil",
+      "nadu pkg-64": "Corporation",
+      "2017": "36/2017/118",
+      "28": "Steel Truss Bridge —",
+      "maharashtra pkg-103": "Department, Govt of<br>Maharashtra",
+      "30, 2010": "52/2010/103",
+      "29": "RCC Bridge —",
+      "maharashtra pkg-50": "Corporation",
+      "2021": "11/2021/069",
+      "30": "Ring Road —",
+      "maharashtra pkg-125": "Department, Govt of<br>Maharashtra",
+      "peninsular petroleum": "INR",
+      "maharashtra pkg-69": "Corporation",
+      "32": "Check Dam — Gujarat",
+      "pkg-62": "Department, Govt of<br>Gujarat",
+      "2013": "14/2013/077",
+      "33": "Material Handling Plant<br>— Jharkhand Pkg-61",
+      "inr<br>44.90 cr": "July 31, 2021",
+      "— madhya pradesh<br>pkg-68": "Authority",
+      "35": "Residential Quarters —",
+      "uttar pradesh pkg-25": "Generation Corporation",
+      "national special projects": "INR",
+      "delhi pkg-81": "Office",
+      "— delhi pkg-82": "Corporation",
+      "page 12 of 48 \n\ndoc-dossier-0326": "39",
+      "pkg-34": "Office",
+      "40": "Process Piping Package",
+      "— delhi pkg-75": "Generation Corporation",
+      "2023": "42/2023/075",
+      "41": "Hospital Block — West",
+      "bengal pkg-60": "Dept, Govt of West<br>Bengal",
+      "42": "Extradosed Bridge —",
+      "gujarat pkg-106": "Office",
+      "43": "Steel Truss Bridge —",
+      "rajasthan pkg-118": "Buildings Bureau",
+      "44": "Six-Lane Highway —",
+      "odisha pkg-122": "Engineering Dept, Odisha",
+      "public works": "INR",
+      "bengal pkg-128": "Department, Govt of<br>West Bengal",
+      "rajasthan pkg-77": "Infrastructure",
+      "47": "ROB — Gujarat Pkg-71",
+      "inr<br>38.81 cr": "February 20,<br>2025",
+      "public health": "INR",
+      "odisha pkg-17": "Engineering Dept, Odisha",
+      "client": "Value",
+      "expressways": "Public Works Department,<br>Govt of West Bengal",
+      "tunnels": "National Expressway<br>Development Authority",
+      "large bridges": "Central Works & Buildings",
+      "page 26 of 48 \n\ndoc-dossier-0326": "11",
+      "corporation": "24.05 Cr",
+      "industrial epc": "Maharashtra Municipal<br>Corporation",
+      "sewerage<br>drainage": "Public Health Engineering<br>Dept, Gujarat",
+      "roads<br>highways": "Public Health Engineering<br>Dept, Odisha",
+      "bridges<br>flyovers": "Meridian Constructors & Co.",
+      "bridges": "Jharkhand Municipal",
+      "pkg-50": "flyovers",
+      "page 27 of 48 \n\ndoc-dossier-0326": "26",
+      "irrigation": "Trishakti Power Generation<br>Corporation",
+      "buildings": "Central Works & Buildings<br>Bureau",
+      "bureau": "40.00 Cr",
+      "page 28 of 48 \n\ndoc-dossier-0326": "42",
+      "water<br>treatment": "Trishakti Power Generation<br>Corporation",
+      "construction": "Cr",
+      "page 29 of 48 \n\ndoc-dossier-0326": "58",
+      "water": "Peninsular Petroleum",
+      "jharkhand pkg-72": "treatment",
+      "rajasthan pkg-58": "treatment",
+      "pradesh pkg-2": "treatment",
+      "page 30 of 48 \n\ndoc-dossier-0326": "74",
+      "development authority": "Cr",
+      "sewerage": "Meridian Constructors & Co.",
+      "rajasthan pkg-10": "drainage",
+      "roads": "Public Works Department,",
+      "jharkhand pkg-56": "highways",
+      "maharashtra pkg-91": "highways",
+      "maharashtra pkg-21": "highways",
+      "page 31 of 48 \n\ndoc-dossier-0326": "90",
+      "madhya pradesh pkg-24": "drainage",
+      "bengal pkg-30": "treatment",
+      "rajasthan pkg-100": "treatment",
+      "delhi pkg-86": "treatment",
+      "pkg-98": "highways",
+      "page 32 of 48 \n\ndoc-dossier-0326": "106",
+      "bengal pkg-14": "highways",
+      "page 33 of 48 \n\ndoc-dossier-0326": "122",
+      "pkg-78": "flyovers",
+      "pkg-22": "flyovers",
+      "jharkhand pkg-153": "maintenance",
+      "water supply": "Suvarna Projects Limited",
+      "small buildings": "Public Health Engineering<br>Dept, Odisha",
+      "roads<br>maintenance": "Subarnarekha Valley<br>Corporation",
+      "dept, govt of uttar pradesh": "Cr",
+      "page 34 of 48 \n\ndoc-dossier-0326": "138",
+      "maharashtra pkg-147": "maintenance",
+      "page 35 of 48 \n\ndoc-dossier-0326": "154",
+      "pkg-138": "maintenance",
+      "page 36 of 48 \n\ndoc-dossier-0326 \n\n## annexure e — key personnel (project managers)": "Neha Chopra",
+      "page 37 of 48 \n\ndoc-dossier-0326": "Priya Gupta",
+      "page 38 of 48 \n\ndoc-dossier-0326": "Asha Nair",
+      "page 39 of 48 \n\ndoc-dossier-0326": "Naveen Roy",
+      "detailed cvs and professional certificates are furnished under separate cover. \n\npage 40 of 48 \n\ndoc-dossier-0326 \n\n## annexure f — plant & machinery (owned fleet extract)": "#",
+      "make": "Year",
+      "terraform machines": "2019",
+      "vulcan plant works": "2013",
+      "indocrane industries": "2018",
+      "earthmaster equipments": "2016",
+      "girnar plant & machinery": "2013",
+      "ashva engineering": "2024",
+      "mahadev heavy machinery": "2023",
+      "page 41 of 48 \n\ndoc-dossier-0326": "25",
+      "page 42 of 48 \n\ndoc-dossier-0326": "52",
+      "page 43 of 48 \n\ndoc-dossier-0326": "79",
+      "page 44 of 48 \n\ndoc-dossier-0326": "106",
+      "mahadev heavy machinery<br>vulcan plant works": "2018<br>2017",
+      "page 45 of 48 \n\ndoc-dossier-0326": "133"
+    },
+    "money_mentions": [
+      [
+        "INR 124.62 Cr",
+        1246200000.0
+      ],
+      [
+        "INR 124.62 Cr",
+        1246200000.0
+      ],
+      [
+        "INR 0",
+        0.0
+      ],
+      [
+        "INR 48.17 Cr",
+        481700000.0
+      ],
+      [
+        "INR 48.17 Cr",
+        481700000.0
+      ],
+      [
+        "INR 200.29 Cr",
+        2002900000.0
+      ],
+      [
+        "INR 199.11 Cr",
+        1991100000.0000002
+      ],
+      [
+        "INR 11.28 Cr",
+        112800000.0
+      ],
+      [
+        "INR 330.59 Cr",
+        3305899999.9999995
+      ],
+      [
+        "INR 326.69 Cr",
+        3266900000.0
+      ],
+      [
+        "INR 25.55 Cr",
+        255500000.0
+      ],
+      [
+        "INR 428.78 Cr",
+        4287799999.9999995
+      ],
+      [
+        "INR 425.67 Cr",
+        4256700000.0
+      ],
+      [
+        "INR 28.09 Cr",
+        280900000.0
+      ],
+      [
+        "INR 242.18 Cr",
+        2421800000.0
+      ],
+      [
+        "INR 241.03 Cr",
+        2410300000.0
+      ],
+      [
+        "INR 7.53 Cr",
+        75300000.0
+      ],
+      [
+        "INR 233.56 Cr",
+        2335600000.0
+      ],
+      [
+        "INR 231.96 Cr",
+        2319600000.0
+      ],
+      [
+        "INR 266.42 Cr",
+        2664200000.0
+      ],
+      [
+        "INR 265.44 Cr",
+        2654400000.0
+      ],
+      [
+        "95.46 Cr",
+        954599999.9999999
+      ],
+      [
+        "74.66 Cr",
+        746600000.0
+      ],
+      [
+        "52.63 Cr",
+        526300000.0
+      ],
+      [
+        "47.41 Cr",
+        474099999.99999994
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "97.72 Cr",
+        977200000.0
+      ],
+      [
+        "91.04 Cr",
+        910400000.0000001
+      ],
+      [
+        "86.09 Cr",
+        860900000.0
+      ],
+      [
+        "81.44 Cr",
+        814400000.0
+      ],
+      [
+        "77.59 Cr",
+        775900000.0
+      ],
+      [
+        "73.02 Cr",
+        730200000.0
+      ],
+      [
+        "72.10 Cr",
+        721000000.0
+      ],
+      [
+        "68.24 Cr",
+        682400000.0
+      ],
+      [
+        "68.09 Cr",
+        680900000.0
+      ],
+      [
+        "58.69 Cr",
+        586900000.0
+      ],
+      [
+        "57.37 Cr",
+        573700000.0
+      ],
+      [
+        "52.99 Cr",
+        529900000.0
+      ],
+      [
+        "49.11 Cr",
+        491100000.0
+      ],
+      [
+        "46.73 Cr",
+        467299999.99999994
+      ],
+      [
+        "44.90 Cr",
+        449000000.0
+      ],
+      [
+        "43.42 Cr",
+        434200000.0
+      ],
+      [
+        "41.71 Cr",
+        417100000.0
+      ],
+      [
+        "41.58 Cr",
+        415800000.0
+      ],
+      [
+        "41.45 Cr",
+        414500000.0
+      ],
+      [
+        "41.42 Cr",
+        414200000.0
+      ],
+      [
+        "41.35 Cr",
+        413500000.0
+      ],
+      [
+        "41.34 Cr",
+        413400000.00000006
+      ],
+      [
+        "40.37 Cr",
+        403700000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "39.90 Cr",
+        399000000.0
+      ],
+      [
+        "38.81 Cr",
+        388100000.0
+      ],
+      [
+        "38.54 Cr",
+        385400000.0
+      ],
+      [
+        "INR 198.88 Cr",
+        1988800000.0
+      ],
+      [
+        "INR 172.22 Cr",
+        1722200000.0
+      ],
+      [
+        "INR 127.78 Cr",
+        1277800000.0
+      ],
+      [
+        "INR 101.57 Cr",
+        1015699999.9999999
+      ],
+      [
+        "INR 95.46 Cr",
+        954599999.9999999
+      ],
+      [
+        "INR 74.66 Cr",
+        746600000.0
+      ],
+      [
+        "INR 52.63 Cr",
+        526300000.0
+      ],
+      [
+        "INR 47.41 Cr",
+        474099999.99999994
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 146.48 Cr",
+        1464800000.0
+      ],
+      [
+        "INR 132.97 Cr",
+        1329700000.0
+      ],
+      [
+        "INR 129.88 Cr",
+        1298800000.0
+      ],
+      [
+        "INR 113.60 Cr",
+        1136000000.0
+      ],
+      [
+        "INR 106.19 Cr",
+        1061900000.0
+      ],
+      [
+        "INR 97.72 Cr",
+        977200000.0
+      ],
+      [
+        "INR 91.04 Cr",
+        910400000.0000001
+      ],
+      [
+        "INR 86.09 Cr",
+        860900000.0
+      ],
+      [
+        "INR 81.44 Cr",
+        814400000.0
+      ],
+      [
+        "INR 77.59 Cr",
+        775900000.0
+      ],
+      [
+        "INR 73.02 Cr",
+        730200000.0
+      ],
+      [
+        "INR 72.10 Cr",
+        721000000.0
+      ],
+      [
+        "INR 68.24 Cr",
+        682400000.0
+      ],
+      [
+        "INR 68.09 Cr",
+        680900000.0
+      ],
+      [
+        "INR 58.69 Cr",
+        586900000.0
+      ],
+      [
+        "INR 57.37 Cr",
+        573700000.0
+      ],
+      [
+        "INR 52.99 Cr",
+        529900000.0
+      ],
+      [
+        "INR 49.11 Cr",
+        491100000.0
+      ],
+      [
+        "INR 46.73 Cr",
+        467299999.99999994
+      ],
+      [
+        "INR 44.90 Cr",
+        449000000.0
+      ],
+      [
+        "INR 43.42 Cr",
+        434200000.0
+      ],
+      [
+        "INR 41.71 Cr",
+        417100000.0
+      ],
+      [
+        "INR 41.58 Cr",
+        415800000.0
+      ],
+      [
+        "INR 41.45 Cr",
+        414500000.0
+      ],
+      [
+        "INR 41.42 Cr",
+        414200000.0
+      ],
+      [
+        "INR 41.35 Cr",
+        413500000.0
+      ],
+      [
+        "INR 41.34 Cr",
+        413400000.00000006
+      ],
+      [
+        "INR 40.37 Cr",
+        403700000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 39.90 Cr",
+        399000000.0
+      ],
+      [
+        "INR 38.81 Cr",
+        388100000.0
+      ],
+      [
+        "INR 38.54 Cr",
+        385400000.0
+      ],
+      [
+        "97.72 Cr",
+        977200000.0
+      ],
+      [
+        "95.46 Cr",
+        954599999.9999999
+      ],
+      [
+        "91.04 Cr",
+        910400000.0000001
+      ],
+      [
+        "86.09 Cr",
+        860900000.0
+      ],
+      [
+        "81.44 Cr",
+        814400000.0
+      ],
+      [
+        "77.59 Cr",
+        775900000.0
+      ],
+      [
+        "74.66 Cr",
+        746600000.0
+      ],
+      [
+        "73.02 Cr",
+        730200000.0
+      ],
+      [
+        "72.10 Cr",
+        721000000.0
+      ],
+      [
+        "68.24 Cr",
+        682400000.0
+      ],
+      [
+        "68.09 Cr",
+        680900000.0
+      ],
+      [
+        "58.69 Cr",
+        586900000.0
+      ],
+      [
+        "57.37 Cr",
+        573700000.0
+      ],
+      [
+        "52.99 Cr",
+        529900000.0
+      ],
+      [
+        "52.63 Cr",
+        526300000.0
+      ],
+      [
+        "49.11 Cr",
+        491100000.0
+      ],
+      [
+        "47.41 Cr",
+        474099999.99999994
+      ],
+      [
+        "46.73 Cr",
+        467299999.99999994
+      ],
+      [
+        "44.90 Cr",
+        449000000.0
+      ],
+      [
+        "43.42 Cr",
+        434200000.0
+      ],
+      [
+        "41.71 Cr",
+        417100000.0
+      ],
+      [
+        "41.58 Cr",
+        415800000.0
+      ],
+      [
+        "41.45 Cr",
+        414500000.0
+      ],
+      [
+        "41.42 Cr",
+        414200000.0
+      ],
+      [
+        "41.35 Cr",
+        413500000.0
+      ],
+      [
+        "41.34 Cr",
+        413400000.00000006
+      ],
+      [
+        "40.37 Cr",
+        403700000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "40.00 Cr",
+        400000000.0
+      ],
+      [
+        "39.90 Cr",
+        399000000.0
+      ],
+      [
+        "38.81 Cr",
+        388100000.0
+      ],
+      [
+        "38.54 Cr",
+        385400000.0
+      ],
+      [
+        "37.52 Cr",
+        375200000.00000006
+      ],
+      [
+        "37.04 Cr",
+        370400000.0
+      ],
+      [
+        "36.63 Cr",
+        366300000.0
+      ],
+      [
+        "35.86 Cr",
+        358600000.0
+      ],
+      [
+        "35.22 Cr",
+        352200000.0
+      ],
+      [
+        "34.92 Cr",
+        349200000.0
+      ],
+      [
+        "33.38 Cr",
+        333800000.0
+      ],
+      [
+        "32.14 Cr",
+        321400000.0
+      ],
+      [
+        "31.89 Cr",
+        318900000.0
+      ],
+      [
+        "31.46 Cr",
+        314600000.0
+      ],
+      [
+        "31.40 Cr",
+        314000000.0
+      ],
+      [
+        "31.07 Cr",
+        310700000.0
+      ],
+      [
+        "30.73 Cr",
+        307300000.0
+      ],
+      [
+        "29.87 Cr",
+        298700000.0
+      ],
+      [
+        "28.41 Cr",
+        284100000.0
+      ],
+      [
+        "28.38 Cr",
+        283800000.0
+      ],
+      [
+        "27.05 Cr",
+        270500000.0
+      ],
+      [
+        "26.80 Cr",
+        268000000.0
+      ],
+      [
+        "26.39 Cr",
+        263900000.0
+      ],
+      [
+        "26.09 Cr",
+        260900000.0
+      ],
+      [
+        "25.10 Cr",
+        251000000.0
+      ],
+      [
+        "24.85 Cr",
+        248500000.0
+      ],
+      [
+        "24.41 Cr",
+        244100000.0
+      ],
+      [
+        "24.31 Cr",
+        243100000.0
+      ],
+      [
+        "24.05 Cr",
+        240500000.0
+      ],
+      [
+        "23.92 Cr",
+        239200000.00000003
+      ],
+      [
+        "23.48 Cr",
+        234800000.0
+      ],
+      [
+        "23.20 Cr",
+        232000000.0
+      ],
+      [
+        "23.16 Cr",
+        231600000.0
+      ],
+      [
+        "22.58 Cr",
+        225799999.99999997
+      ],
+      [
+        "22.38 Cr",
+        223800000.0
+      ],
+      [
+        "21.99 Cr",
+        219899999.99999997
+      ],
+      [
+        "21.93 Cr",
+        219300000.0
+      ],
+      [
+        "21.42 Cr",
+        214200000.00000003
+      ],
+      [
+        "21.15 Cr",
+        211500000.0
+      ],
+      [
+        "21.04 Cr",
+        210400000.0
+      ],
+      [
+        "20.92 Cr",
+        209200000.00000003
+      ],
+      [
+        "20.87 Cr",
+        208700000.0
+      ],
+      [
+        "20.05 Cr",
+        200500000.0
+      ],
+      [
+        "19.52 Cr",
+        195200000.0
+      ],
+      [
+        "19.33 Cr",
+        193299999.99999997
+      ],
+      [
+        "19.19 Cr",
+        191900000.0
+      ],
+      [
+        "18.44 Cr",
+        184400000.0
+      ],
+      [
+        "18.28 Cr",
+        182800000.0
+      ],
+      [
+        "18.26 Cr",
+        182600000.00000003
+      ],
+      [
+        "18.26 Cr",
+        182600000.00000003
+      ],
+      [
+        "18.17 Cr",
+        181700000.00000003
+      ],
+      [
+        "17.83 Cr",
+        178299999.99999997
+      ],
+      [
+        "17.73 Cr",
+        177300000.0
+      ],
+      [
+        "17.66 Cr",
+        176600000.0
+      ],
+      [
+        "17.08 Cr",
+        170799999.99999997
+      ],
+      [
+        "16.40 Cr",
+        164000000.0
+      ],
+      [
+        "16.17 Cr",
+        161700000.00000003
+      ],
+      [
+        "15.52 Cr",
+        155200000.0
+      ],
+      [
+        "15.39 Cr",
+        153900000.0
+      ],
+      [
+        "14.92 Cr",
+        149200000.0
+      ],
+      [
+        "14.85 Cr",
+        148500000.0
+      ],
+      [
+        "14.57 Cr",
+        145700000.0
+      ],
+      [
+        "14.03 Cr",
+        140300000.0
+      ],
+      [
+        "13.65 Cr",
+        136500000.0
+      ],
+      [
+        "13.56 Cr",
+        135600000.0
+      ],
+      [
+        "13.40 Cr",
+        134000000.0
+      ],
+      [
+        "13.02 Cr",
+        130200000.0
+      ],
+      [
+        "12.94 Cr",
+        129400000.0
+      ],
+      [
+        "12.80 Cr",
+        128000000.0
+      ],
+      [
+        "12.33 Cr",
+        123300000.0
+      ],
+      [
+        "12.13 Cr",
+        121300000.00000001
+      ],
+      [
+        "11.32 Cr",
+        113200000.0
+      ],
+      [
+        "11.23 Cr",
+        112300000.0
+      ],
+      [
+        "10.13 Cr",
+        101300000.00000001
+      ],
+      [
+        "10.11 Cr",
+        101100000.0
+      ],
+      [
+        "10.05 Cr",
+        100500000.0
+      ],
+      [
+        "INR 9.80",
+        9.8
+      ],
+      [
+        "INR 9.80",
+        9.8
+      ],
+      [
+        "INR 9.08",
+        9.08
+      ],
+      [
+        "INR 9.03",
+        9.03
+      ],
+      [
+        "INR 8.74",
+        8.74
+      ],
+      [
+        "INR 7.29",
+        7.29
+      ],
+      [
+        "INR 6.95",
+        6.95
+      ],
+      [
+        "INR 6.92",
+        6.92
+      ],
+      [
+        "INR 6.87",
+        6.87
+      ],
+      [
+        "INR 6.75",
+        6.75
+      ],
+      [
+        "INR 6.08",
+        6.08
+      ],
+      [
+        "INR 5.85",
+        5.85
+      ],
+      [
+        "INR 5.67",
+        5.67
+      ],
+      [
+        "INR 5.43",
+        5.43
+      ],
+      [
+        "INR 4.80",
+        4.8
+      ],
+      [
+        "INR 3.99",
+        3.99
+      ],
+      [
+        "INR 3.14",
+        3.14
+      ],
+      [
+        "INR 3.00",
+        3.0
+      ],
+      [
+        "INR 2.99",
+        2.99
+      ],
+      [
+        "INR 2.82",
+        2.82
+      ],
+      [
+        "INR 2.80",
+        2.8
+      ],
+      [
+        "INR 2.80",
+        2.8
+      ],
+      [
+        "INR 2.77",
+        2.77
+      ],
+      [
+        "INR 2.50",
+        2.5
+      ],
+      [
+        "INR 2.33",
+        2.33
+      ],
+      [
+        "INR 2.04",
+        2.04
+      ],
+      [
+        "INR 1.94",
+        1.94
+      ],
+      [
+        "INR 1.92",
+        1.92
+      ],
+      [
+        "INR 1.90",
+        1.9
+      ],
+      [
+        "INR 1.67",
+        1.67
+      ],
+      [
+        "INR 1.64",
+        1.64
+      ],
+      [
+        "INR 1.54",
+        1.54
+      ],
+      [
+        "INR 1.22",
+        1.22
+      ],
+      [
+        "INR 1.20",
+        1.2
+      ],
+      [
+        "INR 1.06",
+        1.06
+      ],
+      [
+        "INR 6.36 Cr",
+        63600000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nTender Submission · RFP-132031622 \n\n**Tender SubmiSSion doSSier** \n\nTunnels Works — Tender RFP-132031622 \n\n**Bid value: INR 124.62 Cr** \n\nSubmitted: April 24, 2020 \n\nTo, \n\nThe Tender Inviting Authority, \n\nPublic Health Engineering Dept, Odisha \n\nDear Sir / Madam, \n\nWe submit herewith our tender for the captioned work. Our offer is INR 124.62 Cr, valid for 90 days from the date of opening. Earnest money of INR 0 has been furnished. The annexures listed below form an integral part of this submission. \n\n|**Annexure**|**Contents**|\n|---|---|\n|A|Company profile & organisation|\n|B|Registrations & certifications|\n|C|Financial standing|\n|D|Past performance — 48 relevant works|\n|E|Key personnel|\n|F|Plant & machinery|\n|G|Undertakings & declarations|\n|H|Bid security|\n\n\n\nPage 1 of 48 \n\nDOC-DOSSIER-0326 \n\n## **Annexure A — CompAny profile** \n\n**_Legal Name_** National Infrastructure Corp. Ltd. **_CIN / GSTIN / PAN_** U45201WB2005PLC904417 · 19NAICC4417O1Z1"
+  }
+}

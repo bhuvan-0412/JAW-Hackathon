@@ -1,0 +1,54 @@
+{
+  "doc_id": "DOC-CM-0049",
+  "doc_type": "compliance_matrix",
+  "filename": "compliance_matrix/DOC-CM-0049.pdf",
+  "size_bytes": 65333,
+  "char_count": 2671,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "bidder name": "National Infrastructure Corp. Ltd.",
+      "gstin": "19NAICC4417O1Z1",
+      "pan": "NAICC4417O",
+      "cin": "U45201WB2005PLC904417",
+      "bid reference": "RFP-132004753",
+      "bid submission date": "2021-01-09",
+      "bid value": "INR 25.66 Cr",
+      "emd amount": "INR 51.32 Lakh (2.0%)",
+      "pricing model": "L1",
+      "sr.": "Requirement",
+      "1": "Valid GST Registration",
+      "met": "Safety plan enclosed; zero LTI track record",
+      "3": "ISO 9001:2015 Certification",
+      "5": "ISO 45001:2018 Certification",
+      "9": "EMD submission",
+      "11": "SAM/GeM Registration (if<br>applicable)",
+      "13": "Key personnel — Project",
+      "15": "Equipment list for execution",
+      "17": "Quality plan"
+    },
+    "money_mentions": [
+      [
+        "INR 25.66 Cr",
+        256600000.0
+      ],
+      [
+        "INR 25.66 Cr",
+        256600000.0
+      ],
+      [
+        "INR 51.32 Lakh",
+        5132000.0
+      ],
+      [
+        "INR 270 Cr",
+        2700000000.0
+      ]
+    ],
+    "extracted_dates": [
+      "2021-01-09"
+    ],
+    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nTender Response · Compliance Matrix · GSTIN 19NAICC4417O1Z1 \n\n## **ComplianCe Cum eligibility matrix** \n\n**Tender Ref: RFP-132004753** \n\nBid Value: INR 25.66 Cr \n\n### **1. bidder partiCulars** \n\n|**_Bidder Name_**|National Infrastructure Corp. Ltd.|\n|---|---|\n|**_GSTIN_**|19NAICC4417O1Z1|\n|**_PAN_**|NAICC4417O|\n|**_CIN_**|U45201WB2005PLC904417|\n|**_Bid Reference_**|RFP-132004753|\n|**_Bid Submission Date_**|2021-01-09|\n|**_Bid Value_**|INR 25.66 Cr|\n|**_EMD Amount_**|INR 51.32 Lakh (2.0%)|\n|**_Pricing Model_**|L1|\n\n\n\n### **2. eligibility ComplianCe** \n\nThe particulars of our position against each eligibility condition of the tender are given in the following table, compiled from the records maintained by this office. \n\n|**Sr.**|**Requirement**|**Status**|**Supporting Evidence / Document Reference**|\n|---|---|---|---|\n|1|Valid GST Registration|**MET**|GST Certificate — GSTIN 19NAICC4417O1Z1|\n|2|Valid PAN Card|**MET**|PAN Card — NAICC4417O|\n|3|IS"
+  }
+}

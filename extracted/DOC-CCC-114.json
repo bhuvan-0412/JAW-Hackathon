@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-114",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-114.pdf",
+  "size_bytes": 53378,
+  "char_count": 3028,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rail Tunnel — Gujarat Pkg-114",
+    "package_code": "Pkg-114",
+    "client_name": "Jal Nigam, Gujarat (Government)",
+    "contract_value": 1277800000.0,
+    "raw_contract_value": "INR 127.78 Cr",
+    "start_date": null,
+    "completion_date": "2010-08-23",
+    "project_lead": "Farhan Roy",
+    "grading_text": null
+  }
+}

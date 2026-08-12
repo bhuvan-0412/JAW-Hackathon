@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-085",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-085.pdf",
+  "size_bytes": 13378,
+  "char_count": 676,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "ROB — Uttar Pradesh Pkg-85",
+    "package_code": "Pkg-85",
+    "client_name": "Trishakti Power Generation Corporation (psu)",
+    "contract_value": 251000000.0,
+    "raw_contract_value": "INR 25.10 Cr",
+    "start_date": null,
+    "completion_date": "03/03/2020",
+    "project_lead": "Amit Mukherjee",
+    "grading_text": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-150",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-150.pdf",
+  "size_bytes": 53422,
+  "char_count": 3112,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rural Road Upgradation — Jharkhand Pkg-150",
+    "package_code": "Pkg-150",
+    "client_name": "Arunodaya Infrastructure (Private)",
+    "contract_value": 29900000.000000004,
+    "raw_contract_value": "INR 2.99 Cr",
+    "start_date": null,
+    "completion_date": "2017-09-26",
+    "project_lead": "Divya Singh",
+    "grading_text": null
+  }
+}

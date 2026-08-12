@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-150",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-150.pdf",
+  "size_bytes": 47463,
+  "char_count": 962,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 29900000.0,
+    "raw_contract_value": "Rs. 299.00 Lakh",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

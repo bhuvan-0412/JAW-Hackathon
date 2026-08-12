@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-070",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-070.pdf",
+  "size_bytes": 129885,
+  "char_count": 4628,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rigid Pavement — Tamil Nadu Pkg-70",
+    "package_code": "Pkg-70",
+    "client_name": "Mahanadi Steel Corp",
+    "contract_value": 682400000.0,
+    "raw_contract_value": "INR 68,24,00,000/-",
+    "start_date": null,
+    "completion_date": "2011-02-04",
+    "project_lead": "Meera Banerjee",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
+  }
+}

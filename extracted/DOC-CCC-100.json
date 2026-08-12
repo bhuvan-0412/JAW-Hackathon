@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-100",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-100.pdf",
+  "size_bytes": 53438,
+  "char_count": 3162,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Pumping Station — Rajasthan Pkg-100",
+    "package_code": "Pkg-100",
+    "client_name": "Irrigation & Waterways Dept, Govt of Rajasthan (Government)",
+    "contract_value": 177300000.0,
+    "raw_contract_value": "INR 17.73 Cr",
+    "start_date": null,
+    "completion_date": "2011-12-13",
+    "project_lead": "Priya Patel",
+    "grading_text": null
+  }
+}

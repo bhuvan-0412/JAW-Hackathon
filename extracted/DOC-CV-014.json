@@ -1,0 +1,30 @@
+{
+  "doc_id": "DOC-CV-014",
+  "doc_type": "cv",
+  "filename": "cv/DOC-CV-014.pdf",
+  "size_bytes": 60127,
+  "char_count": 2344,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Pooja Sen",
+    "employee_id": null,
+    "designation": "Project Manager",
+    "total_experience": null,
+    "qualification": "M.Tech Structural",
+    "projects_led": [
+      {
+        "project_name": "",
+        "package_code": "Commercial",
+        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
+        "role": ""
+      },
+      {
+        "project_name": "First Class",
+        "package_code": "",
+        "client": "Higher Secondary (XII)",
+        "role": "CBSE Board"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-112",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-112.pdf",
+  "size_bytes": 13133,
+  "char_count": 690,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Steel Truss Bridge — Gujarat Pkg-112",
+    "package_code": "Pkg-112",
+    "client_name": "Trishakti Power Generation Corporation (psu)",
+    "contract_value": 1061900000.0,
+    "raw_contract_value": "INR 106.19 Cr",
+    "start_date": null,
+    "completion_date": "31/05/2019",
+    "project_lead": "Lakshmi Ghosh",
+    "grading_text": null
+  }
+}

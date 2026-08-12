@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00211",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00211.pdf",
+  "size_bytes": 26177,
+  "char_count": 921,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "issuing_bank": "Bank Guarantee Department",
+    "beneficiary": null,
+    "guarantee_amount": 0.0,
+    "raw_guarantee_amount": "Rs. 0",
+    "issue_date": null,
+    "expiry_date": null
+  }
+}

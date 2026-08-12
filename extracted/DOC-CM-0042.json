@@ -1,0 +1,55 @@
+{
+  "doc_id": "DOC-CM-0042",
+  "doc_type": "compliance_matrix",
+  "filename": "compliance_matrix/DOC-CM-0042.pdf",
+  "size_bytes": 65160,
+  "char_count": 2662,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "bidder name": "National Infrastructure Corp. Ltd.",
+      "gstin": "19NAICC4417O1Z1",
+      "pan": "NAICC4417O",
+      "cin": "U45201WB2005PLC904417",
+      "bid reference": "RFP-132004074",
+      "bid submission date": "2019-11-17",
+      "bid value": "INR 34.91 Cr",
+      "emd amount": "INR 69.82 Lakh (2.0%)",
+      "pricing model": "Rate Contract",
+      "sr.": "Requirement",
+      "1": "Valid GST Registration",
+      "met": "Safety plan enclosed; zero LTI track record",
+      "3": "ISO 9001:2015 Certification",
+      "5": "ISO 45001:2018 Certification",
+      "9": "EMD submission",
+      "12": "Labour license under Contract<br>Labour Act",
+      "### 3. technical compliance \n\nthe table below sets out the clause-by-clause technical position, compiled from the records maintained by this office.": "Sr.",
+      "status": "Remarks",
+      "15": "Equipment list for execution",
+      "17": "Quality plan"
+    },
+    "money_mentions": [
+      [
+        "INR 34.91 Cr",
+        349099999.99999994
+      ],
+      [
+        "INR 34.91 Cr",
+        349099999.99999994
+      ],
+      [
+        "INR 69.82 Lakh",
+        6981999.999999999
+      ],
+      [
+        "INR 210 Cr",
+        2100000000.0
+      ]
+    ],
+    "extracted_dates": [
+      "2019-11-17"
+    ],
+    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nTender Response · Compliance Matrix · GSTIN 19NAICC4417O1Z1 \n\n## **ComplianCe Cum eligibility matrix** \n\n**Tender Ref: RFP-132004074** \n\nBid Value: INR 34.91 Cr \n\n### **1. bidder partiCulars** \n\n|**_Bidder Name_**|National Infrastructure Corp. Ltd.|\n|---|---|\n|**_GSTIN_**|19NAICC4417O1Z1|\n|**_PAN_**|NAICC4417O|\n|**_CIN_**|U45201WB2005PLC904417|\n|**_Bid Reference_**|RFP-132004074|\n|**_Bid Submission Date_**|2019-11-17|\n|**_Bid Value_**|INR 34.91 Cr|\n|**_EMD Amount_**|INR 69.82 Lakh (2.0%)|\n|**_Pricing Model_**|Rate Contract|\n\n\n\n### **2. eligibility ComplianCe** \n\nThe table below sets out our position against each eligibility condition of the tender, as certified by the officers named at the foot of this document. \n\n|**Sr.**|**Requirement**|**Status**|**Supporting Evidence / Document Reference**|\n|---|---|---|---|\n|1|Valid GST Registration|**MET**|GST Certificate — GSTIN 19NAICC4417O1Z1|\n|2|Valid PAN Card|**MET**|PAN Card — NAICC4417O|\n|3|ISO 90"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-071",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-071.pdf",
+  "size_bytes": 128158,
+  "char_count": 4556,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "ROB — Gujarat Pkg-71",
+    "package_code": "Pkg-71",
+    "client_name": null,
+    "contract_value": 388100000.0,
+    "raw_contract_value": "INR 38,81,00,000/-",
+    "start_date": null,
+    "completion_date": "2025-02-20",
+    "project_lead": "Rohit Singh",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
+  }
+}

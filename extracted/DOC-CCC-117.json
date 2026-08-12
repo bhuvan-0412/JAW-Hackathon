@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-117",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-117.pdf",
+  "size_bytes": 52620,
+  "char_count": 3280,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 474099999.99999994,
+    "raw_contract_value": "Rs. 47.41 Crore",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

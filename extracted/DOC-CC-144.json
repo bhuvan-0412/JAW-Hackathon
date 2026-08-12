@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-144",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-144.pdf",
+  "size_bytes": 50911,
+  "char_count": 943,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 56700000.0,
+    "raw_contract_value": "INR 5.67 Cr",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

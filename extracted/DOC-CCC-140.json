@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-140",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-140.pdf",
+  "size_bytes": 53382,
+  "char_count": 3090,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Pipeline Laying — Maharashtra Pkg-140",
+    "package_code": "Pkg-140",
+    "client_name": "Peninsular Petroleum Corporation (Psu)",
+    "contract_value": 28200000.0,
+    "raw_contract_value": "INR 2.82 Cr",
+    "start_date": null,
+    "completion_date": "2019-08-28",
+    "project_lead": "Rahul Menon",
+    "grading_text": null
+  }
+}

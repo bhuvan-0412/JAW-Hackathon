@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-141",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-141.pdf",
+  "size_bytes": 79906,
+  "char_count": 962,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 39900000.0,
+    "raw_contract_value": "INR 3,99,00,000/-",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00071",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00071.pdf",
+  "size_bytes": 67843,
+  "char_count": 3514,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Sewerage Drainage Works",
+    "package_code": null,
+    "issuing_bank": "Kaveri Mercantile Bank",
+    "beneficiary": null,
+    "guarantee_amount": 5853000.0,
+    "raw_guarantee_amount": "Rs. 58.53 Lakh",
+    "issue_date": "2020-08-19",
+    "expiry_date": "This Guarantee shall remain valid from 2020-08-19 until 2022-09-30 (the \"Expiry Date\") unless extended by mutual consent in writing."
+  }
+}

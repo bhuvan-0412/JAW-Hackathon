@@ -1,0 +1,28 @@
+{
+  "doc_id": "DOC-CM-0158",
+  "doc_type": "compliance_matrix",
+  "filename": "compliance_matrix/DOC-CM-0158.pdf",
+  "size_bytes": 19874,
+  "char_count": 1128,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "cm": "/158",
+      "#": "Requirement",
+      "complied": "210 owned assets; deployment schedule<br>annexed",
+      "2": "Environmental management (ISO<br>14001:2015)",
+      "4": "Minimum average turnover requirement<br>(Rs. 240 Cr)",
+      "6": "Key technical staff (10 minimum)",
+      "8": "Earnest money deposit"
+    },
+    "money_mentions": [
+      [
+        "Rs. 240 Cr",
+        2400000000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nBid Compliance Checklist \n\n## **ComplianCe CheCklist** \n\nTender RFP-132015326 · Industrial Epc \n\n|**CM**|**/158**||March 31, 202|\n|---|---|---|---|\n|**#**|**Requirement**|**Status**|**Evidence (under separate cover)**|\n|1|Quality management certification (ISO<br>9001:2015)|Complied|Certificate ORG-1001|\n|2|Environmental management (ISO<br>14001:2015)|Complied|Certificate ORG-1002|\n|3|Occupational health & safety (ISO<br>45001:2018)|Complied|Certificate ORG-1003|\n|4|Minimum average turnover requirement<br>(Rs. 240 Cr)|Complied|Audited statements, FY 2019–2025|\n|5|Similar-works experience (5 yrs minimum)|Complied|Completion certificates annexed<br>separately|\n|6|Key technical staff (10 minimum)|Complied|486 personnel on rolls; CVs under<br>separate cover|\n|7|Plant & machinery deployment|Complied|210 owned assets; deployment schedule<br>annexed|\n|8|Earnest money deposit|Complied|EMD-0158|\n\n\n\nMarch 31, 2026 \n\nFigures are evidenced by the reference"
+  }
+}

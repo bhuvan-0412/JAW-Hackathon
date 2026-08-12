@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-028",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-028.pdf",
+  "size_bytes": 53582,
+  "char_count": 3074,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rigid Pavement — Delhi Pkg-28",
+    "package_code": "Pkg-28",
+    "client_name": "Suvarna Projects Limited (Private)",
+    "contract_value": 130200000.0,
+    "raw_contract_value": "INR 13.02 Cr",
+    "start_date": null,
+    "completion_date": "2019-05-19",
+    "project_lead": "Sunita Joshi",
+    "grading_text": null
+  }
+}

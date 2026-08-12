@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-135",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-135.pdf",
+  "size_bytes": 13372,
+  "char_count": 695,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Drainage Works — Gujarat Pkg-135",
+    "package_code": "Pkg-135",
+    "client_name": "Public Health Engineering Dept, Gujarat (government)",
+    "contract_value": 23300000.0,
+    "raw_contract_value": "INR 2.33 Cr",
+    "start_date": null,
+    "completion_date": "16/10/2010",
+    "project_lead": "Priya Gupta",
+    "grading_text": null
+  }
+}

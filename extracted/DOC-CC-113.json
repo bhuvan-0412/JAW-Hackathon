@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-113",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-113.pdf",
+  "size_bytes": 90296,
+  "char_count": 970,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 2000000000.0,
+    "raw_contract_value": "INR 200.00 Cr",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

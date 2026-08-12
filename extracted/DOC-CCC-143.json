@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-143",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-143.pdf",
+  "size_bytes": 53325,
+  "char_count": 3106,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Pipeline Laying — Tamil Nadu Pkg-143",
+    "package_code": "Pkg-143",
+    "client_name": "Mahanadi Steel Corporation (Psu)",
+    "contract_value": 31400000.0,
+    "raw_contract_value": "INR 3.14 Cr",
+    "start_date": null,
+    "completion_date": "2016-11-04",
+    "project_lead": "Sunita Joshi",
+    "grading_text": null
+  }
+}

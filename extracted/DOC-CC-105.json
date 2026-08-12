@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-105",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-105.pdf",
+  "size_bytes": 112123,
+  "char_count": 4666,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": "Suvarna Projects Limited",
+    "contract_value": 1015699999.9999999,
+    "raw_contract_value": "INR 101.57 Cr",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": "Quality assessment**   The overall quality of the completed work is graded **Good** ."
+  }
+}

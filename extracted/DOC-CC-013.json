@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-013",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-013.pdf",
+  "size_bytes": 54417,
+  "char_count": 958,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 232000000.0,
+    "raw_contract_value": "INR 23.20 Cr",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

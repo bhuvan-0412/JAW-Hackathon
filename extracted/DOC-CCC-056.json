@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-056",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-056.pdf",
+  "size_bytes": 13455,
+  "char_count": 700,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rigid Pavement — Jharkhand Pkg-56",
+    "package_code": "Pkg-56",
+    "client_name": "National Expressway Development Authority (government)",
+    "contract_value": 211500000.0,
+    "raw_contract_value": "INR 21.15 Cr",
+    "start_date": null,
+    "completion_date": "06/03/2017",
+    "project_lead": "Meera Chatterjee",
+    "grading_text": null
+  }
+}

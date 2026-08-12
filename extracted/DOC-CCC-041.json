@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-041",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-041.pdf",
+  "size_bytes": 52647,
+  "char_count": 3332,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": "Irrigation & Waterways Dept",
+    "contract_value": 310700000.0,
+    "raw_contract_value": "Rs. 31.07 Crore",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

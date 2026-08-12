@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-118",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-118.pdf",
+  "size_bytes": 53685,
+  "char_count": 3096,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Steel Truss Bridge — Rajasthan Pkg-118",
+    "package_code": "Pkg-118",
+    "client_name": "Central Works & Buildings Bureau (Government)",
+    "contract_value": 400000000.0,
+    "raw_contract_value": "INR 40.00 Cr",
+    "start_date": null,
+    "completion_date": "2017-10-02",
+    "project_lead": "Priya Gupta",
+    "grading_text": null
+  }
+}

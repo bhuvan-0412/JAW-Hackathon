@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-050",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-050.pdf",
+  "size_bytes": 134875,
+  "char_count": 4686,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "RCC Bridge — Maharashtra Pkg-50",
+    "package_code": "Pkg-50",
+    "client_name": "Maharashtra Municipal Corp",
+    "contract_value": 573700000.0,
+    "raw_contract_value": "INR 57,37,00,000/-",
+    "start_date": null,
+    "completion_date": "2021-02-28",
+    "project_lead": "Rajesh Rao",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+  }
+}

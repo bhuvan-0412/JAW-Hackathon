@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-044",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-044.pdf",
+  "size_bytes": 13021,
+  "char_count": 693,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Water Treatment Plant — West Bengal Pkg-44",
+    "package_code": "Pkg-44",
+    "client_name": "Trishakti Power Generation Corporation (psu)",
+    "contract_value": 178299999.99999997,
+    "raw_contract_value": "INR 17.83 Cr",
+    "start_date": null,
+    "completion_date": "16/04/2016",
+    "project_lead": "Pooja Sen",
+    "grading_text": null
+  }
+}

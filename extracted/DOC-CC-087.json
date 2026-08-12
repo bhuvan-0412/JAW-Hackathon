@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-087",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-087.pdf",
+  "size_bytes": 99708,
+  "char_count": 4845,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Sewerage Network — Maharashtra Pkg-87",
+    "package_code": "Pkg-87",
+    "client_name": "Public Works Department",
+    "contract_value": 176600000.0,
+    "raw_contract_value": "INR 17,66,00,000/-",
+    "start_date": null,
+    "completion_date": "2011-02-23",
+    "project_lead": "Imran Joshi",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Excellent** ."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-076",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-076.pdf",
+  "size_bytes": 112247,
+  "char_count": 4654,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Check Dam — Delhi Pkg-76",
+    "package_code": "Pkg-76",
+    "client_name": "Suvarna Projects Limited",
+    "contract_value": 370400000.0,
+    "raw_contract_value": "INR 37.04 Cr",
+    "start_date": null,
+    "completion_date": "2017-10-23",
+    "project_lead": "Sunita Joshi",
+    "grading_text": "Quality assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+  }
+}

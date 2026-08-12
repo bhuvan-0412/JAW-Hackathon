@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-002",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-002.pdf",
+  "size_bytes": 53406,
+  "char_count": 3063,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "WTP Augmentation — Uttar Pradesh Pkg-2",
+    "package_code": "Pkg-2",
+    "client_name": "Mega Infrastructure Authority (Government)",
+    "contract_value": 248500000.0,
+    "raw_contract_value": "INR 24.85 Cr",
+    "start_date": null,
+    "completion_date": "2013-01-11",
+    "project_lead": "Meera Roy",
+    "grading_text": null
+  }
+}

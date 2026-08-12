@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-043",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-043.pdf",
+  "size_bytes": 43500,
+  "char_count": 987,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 140300000.0,
+    "raw_contract_value": "Rs. 1403.00 Lakh",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

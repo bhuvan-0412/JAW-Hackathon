@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-153",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-153.pdf",
+  "size_bytes": 99114,
+  "char_count": 4596,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rural Road Upgradation — Jharkhand Pkg-153",
+    "package_code": "Pkg-153",
+    "client_name": "Jharkhand Municipal Corp",
+    "contract_value": 69500000.0,
+    "raw_contract_value": "Rs. 695.00 Lakh",
+    "start_date": null,
+    "completion_date": "2017-11-03",
+    "project_lead": "Rahul Menon",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+  }
+}

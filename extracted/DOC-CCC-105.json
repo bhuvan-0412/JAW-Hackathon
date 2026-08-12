@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-105",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-105.pdf",
+  "size_bytes": 13120,
+  "char_count": 633,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Hydro Tunnel — West Bengal Pkg-105",
+    "package_code": "Pkg-105",
+    "client_name": "Suvarna Projects Limited (private)",
+    "contract_value": 1015699999.9999999,
+    "raw_contract_value": "INR 101.57 Cr",
+    "start_date": null,
+    "completion_date": "02/04/2018",
+    "project_lead": "Pooja Sen",
+    "grading_text": null
+  }
+}

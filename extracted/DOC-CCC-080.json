@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-080",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-080.pdf",
+  "size_bytes": 53484,
+  "char_count": 3119,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Stormwater Drainage — Gujarat Pkg-80",
+    "package_code": "Pkg-80",
+    "client_name": "Trishakti Power Generation Corporation (Psu)",
+    "contract_value": 283800000.0,
+    "raw_contract_value": "INR 28.38 Cr",
+    "start_date": null,
+    "completion_date": "2013-03-12",
+    "project_lead": "Farhan Roy",
+    "grading_text": null
+  }
+}

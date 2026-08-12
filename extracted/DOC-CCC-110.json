@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-110",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-110.pdf",
+  "size_bytes": 53307,
+  "char_count": 3136,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Greenfield Expressway — West Bengal Pkg-110",
+    "package_code": "Pkg-110",
+    "client_name": "Trishakti Power Generation Corporation (Psu)",
+    "contract_value": 2000000000.0,
+    "raw_contract_value": "INR 200.00 Cr",
+    "start_date": null,
+    "completion_date": "2015-01-12",
+    "project_lead": "Farhan Rao",
+    "grading_text": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-062",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-062.pdf",
+  "size_bytes": 13264,
+  "char_count": 675,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Check Dam — Gujarat Pkg-62",
+    "package_code": "Pkg-62",
+    "client_name": "Public Works Department, Govt of Gujarat (government)",
+    "contract_value": 467299999.99999994,
+    "raw_contract_value": "INR 46.73 Cr",
+    "start_date": null,
+    "completion_date": "20/03/2013",
+    "project_lead": "Naveen Roy",
+    "grading_text": null
+  }
+}

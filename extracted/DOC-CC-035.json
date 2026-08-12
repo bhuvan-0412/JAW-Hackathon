@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-035",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-035.pdf",
+  "size_bytes": 98244,
+  "char_count": 4788,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Bituminous Overlay — Odisha Pkg-35",
+    "package_code": "Pkg-35",
+    "client_name": "Public Health Engineering Dept",
+    "contract_value": 27700000.0,
+    "raw_contract_value": "Rs. 277.00 Lakh",
+    "start_date": null,
+    "completion_date": "2025-10-15",
+    "project_lead": "Neha Chopra",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+  }
+}

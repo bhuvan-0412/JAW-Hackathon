@@ -1,0 +1,41 @@
+{
+  "doc_id": "DOC-FS-2019",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2019.pdf",
+  "size_bytes": 91814,
+  "char_count": 3776,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "particulars": "Current Year<br>Previo",
+      "contract revenue (epc)": "4,817<br>4,094",
+      "other operating revenue": "144<br>120",
+      "total revenue from operations (a)": "4,961<br>4,215",
+      "cost of materials consumed": "2,023<br>1,927",
+      "sub-contracting & labour": "867<br>819",
+      "employee benefit expenses": "578<br>530",
+      "depreciation & amortisation": "144<br>135",
+      "other expenses": "385<br>361",
+      "total expenses (b)": "3,998<br>3,771",
+      "c. profit before tax (a - b)<br>profit before tax": "-2,803",
+      "tax expense (current + deferred)": "-647",
+      "profit after tax": "-2,156",
+      "note 1 — basis of preparation": "These financial statements have been prepared in accordance with Indian Accounting Standards (Ind AS) as notified under the Companies Act, 2013. The financial statements have been prepared on a historical cost basis except for certain financial instruments measured at fair value.",
+      "note 2 — revenue recognition": "Revenue from construction contracts is recognised over time using the input method (costs incurred to date relative to total estimated costs) in accordance with Ind AS 115 — Revenue from Contracts with Customers.",
+      "note 3 — going concern": "Based on the Company's financial position, including the order book of approximately 120 Cr and positive net worth, the management is satisfied that the Company is a going concern and there is no material uncertainty.",
+      "note 4 — bank solvency": "The Company maintains satisfactory banking relationships. Bank solvency certificate status: Sufficient .",
+      "opinion": "In our opinion and to the best of our information and according to the explanations given to us, the aforesaid financial statements give a true and fair view in conformity with Ind AS of the state of affairs of the Company as at 31st March 2020, and of its profit and cash flows for the year then ended."
+    },
+    "money_mentions": [
+      [
+        "120 Cr",
+        1200000000.0
+      ]
+    ],
+    "extracted_dates": [
+      "2026-03-31"
+    ],
+    "summary_text": "# **National Infrastructure Corp. Ltd.** \n\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O \n\n## **Statement of Profit and Loss (Extract)** \n\nFor the financial year ended 31st March 2020 \n\n**Statement No: FS-2019-001** \n\nCurrency: INR (All amounts in Lakhs unless stated) \n\n### **A. Revenue from Operations** \n\n|**Particulars**|**Current Year (FY2019-20)**<br>**Previous Year (FY2018-19)**|\n|---|---|\n|Contract Revenue (EPC)|4,817<br>4,094|\n|Other Operating Revenue|144<br>120|\n|**Total Revenue from Operations (A)**|**4,961**<br>**4,215**|\n\n\n\n### **B. Expenses** \n\n|**Particulars**|**Current Year**<br>**Previous Year**|\n|---|---|\n|Cost of Materials Consumed|2,023<br>1,927|\n|Sub-contracting & Labour|867<br>819|\n|Employee Benefit Expenses|578<br>530|\n|Depreciation & Amortisation|144<br>135|\n|Other Expenses|385<br>361|\n|**Total Expenses (B)**|**3,998**<br>**3,771**|\n|**C. Profit Before Tax (A - B)**<br>**Profit Before Tax**|**-2,803**|\n|**Tax Expense (current + deferred)**"
+  }
+}

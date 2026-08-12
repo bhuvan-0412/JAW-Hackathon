@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-090",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-090.pdf",
+  "size_bytes": 13329,
+  "char_count": 684,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Canal Lining — Tamil Nadu Pkg-90",
+    "package_code": "Pkg-90",
+    "client_name": "Public Works Department, Govt of Tamil Nadu (government)",
+    "contract_value": 260900000.0,
+    "raw_contract_value": "INR 26.09 Cr",
+    "start_date": null,
+    "completion_date": "20/06/2014",
+    "project_lead": "Manoj Verma",
+    "grading_text": null
+  }
+}

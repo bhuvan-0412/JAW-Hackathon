@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-008",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-008.pdf",
+  "size_bytes": 53691,
+  "char_count": 3107,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Flyover — Gujarat Pkg-8",
+    "package_code": "Pkg-8",
+    "client_name": "Meridian Constructors & Co. (Private)",
+    "contract_value": 170799999.99999997,
+    "raw_contract_value": "INR 17.08 Cr",
+    "start_date": null,
+    "completion_date": "2010-11-17",
+    "project_lead": "Kavita Reddy",
+    "grading_text": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-104",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-104.pdf",
+  "size_bytes": 13373,
+  "char_count": 643,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Six-Lane Highway — Maharashtra Pkg-104",
+    "package_code": "Pkg-104",
+    "client_name": "Subarnarekha Valley Corporation (psu)",
+    "contract_value": 860900000.0,
+    "raw_contract_value": "INR 86.09 Cr",
+    "start_date": null,
+    "completion_date": "28/06/2016",
+    "project_lead": "Amit Iyer",
+    "grading_text": null
+  }
+}

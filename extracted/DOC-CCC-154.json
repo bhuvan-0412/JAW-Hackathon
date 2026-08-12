@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-154",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-154.pdf",
+  "size_bytes": 13303,
+  "char_count": 665,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "School Building — Delhi Pkg-154",
+    "package_code": "Pkg-154",
+    "client_name": "Subarnarekha Valley Corporation (psu)",
+    "contract_value": 19400000.0,
+    "raw_contract_value": "INR 1.94 Cr",
+    "start_date": null,
+    "completion_date": "05/09/2017",
+    "project_lead": "Uma Sen",
+    "grading_text": null
+  }
+}

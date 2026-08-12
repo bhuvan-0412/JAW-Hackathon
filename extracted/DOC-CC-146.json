@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-146",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-146.pdf",
+  "size_bytes": 97493,
+  "char_count": 4668,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Mini Water Supply — Madhya Pradesh Pkg-146",
+    "package_code": "Pkg-146",
+    "client_name": "Suvarna Projects Limited",
+    "contract_value": 28000000.0,
+    "raw_contract_value": "Rs. 280.00 Lakh",
+    "start_date": null,
+    "completion_date": "2014-02-10",
+    "project_lead": "Amit Iyer",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+  }
+}

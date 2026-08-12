@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-004",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-004.pdf",
+  "size_bytes": 96038,
+  "char_count": 4601,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Residential Quarters — Odisha Pkg-4",
+    "package_code": "Pkg-4",
+    "client_name": "Peninsular Petroleum Corp",
+    "contract_value": 112300000.0,
+    "raw_contract_value": "INR 11.23 Cr",
+    "start_date": null,
+    "completion_date": "2023-05-17",
+    "project_lead": "Suresh Desai",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+  }
+}

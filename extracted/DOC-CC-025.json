@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-025",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-025.pdf",
+  "size_bytes": 87928,
+  "char_count": 4630,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Residential Quarters — Uttar Pradesh Pkg-25",
+    "package_code": "Pkg-25",
+    "client_name": "Trishakti Power Generation Corp",
+    "contract_value": 417100000.0,
+    "raw_contract_value": "Rs. 4171.00 Lakh",
+    "start_date": null,
+    "completion_date": "2021-06-05",
+    "project_lead": "Sunita Joshi",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-007",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-007.pdf",
+  "size_bytes": 47462,
+  "char_count": 975,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 375200000.00000006,
+    "raw_contract_value": "Rs. 37.52 Crore",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

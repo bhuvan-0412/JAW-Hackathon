@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-019",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-019.pdf",
+  "size_bytes": 53446,
+  "char_count": 3130,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Substation EPC — Tamil Nadu Pkg-19",
+    "package_code": "Pkg-19",
+    "client_name": "Mahanadi Steel Corporation (Psu)",
+    "contract_value": 153900000.0,
+    "raw_contract_value": "INR 15.39 Cr",
+    "start_date": null,
+    "completion_date": "2014-08-13",
+    "project_lead": "Suresh Chopra",
+    "grading_text": null
+  }
+}

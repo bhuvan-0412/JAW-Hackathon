@@ -1,0 +1,30 @@
+{
+  "doc_id": "DOC-CV-019",
+  "doc_type": "cv",
+  "filename": "cv/DOC-CV-019.pdf",
+  "size_bytes": 59977,
+  "char_count": 2325,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Amit Mukherjee",
+    "employee_id": null,
+    "designation": "Project Manager",
+    "total_experience": null,
+    "qualification": "M.Tech Structural",
+    "projects_led": [
+      {
+        "project_name": "",
+        "package_code": "Commercial",
+        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
+        "role": ""
+      },
+      {
+        "project_name": "First Class",
+        "package_code": "",
+        "client": "Higher Secondary (XII)",
+        "role": "CBSE Board"
+      }
+    ]
+  }
+}

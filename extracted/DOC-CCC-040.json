@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-040",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-040.pdf",
+  "size_bytes": 13117,
+  "char_count": 709,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Process Piping Package — Uttar Pradesh Pkg-40",
+    "package_code": "Pkg-40",
+    "client_name": "National Expressway Development Authority (government)",
+    "contract_value": 101300000.00000001,
+    "raw_contract_value": "INR 10.13 Cr",
+    "start_date": null,
+    "completion_date": "17/07/2014",
+    "project_lead": "Suresh Chopra",
+    "grading_text": null
+  }
+}

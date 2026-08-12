@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-036",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-036.pdf",
+  "size_bytes": 53232,
+  "char_count": 3080,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "ROB — Delhi Pkg-36",
+    "package_code": "Pkg-36",
+    "client_name": "Arunodaya Infrastructure (Private)",
+    "contract_value": 366300000.0,
+    "raw_contract_value": "INR 36.63 Cr",
+    "start_date": null,
+    "completion_date": "2016-05-11",
+    "project_lead": "Neha Chopra",
+    "grading_text": null
+  }
+}

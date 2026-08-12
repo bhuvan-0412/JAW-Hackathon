@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-057",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-057.pdf",
+  "size_bytes": 13326,
+  "char_count": 687,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Box Culvert Chain — Madhya Pradesh Pkg-57",
+    "package_code": "Pkg-57",
+    "client_name": "Meridian Constructors & Co. (private)",
+    "contract_value": 72900000.0,
+    "raw_contract_value": "INR 7.29 Cr",
+    "start_date": null,
+    "completion_date": "21/10/2020",
+    "project_lead": "Rohit Singh",
+    "grading_text": null
+  }
+}

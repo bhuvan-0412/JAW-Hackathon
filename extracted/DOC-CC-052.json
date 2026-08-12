@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-052",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-052.pdf",
+  "size_bytes": 135665,
+  "char_count": 4642,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Stormwater Drainage — Tamil Nadu Pkg-52",
+    "package_code": "Pkg-52",
+    "client_name": "Mahanadi Steel Corp",
+    "contract_value": 155200000.0,
+    "raw_contract_value": "INR 15,52,00,000/-",
+    "start_date": null,
+    "completion_date": "2015-02-10",
+    "project_lead": "Manoj Verma",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
+  }
+}

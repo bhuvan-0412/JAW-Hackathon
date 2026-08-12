@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-030",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-030.pdf",
+  "size_bytes": 13111,
+  "char_count": 774,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": null,
+    "contract_value": 182600000.00000003,
+    "raw_contract_value": "Rs. 18.26 Crore",
+    "start_date": null,
+    "completion_date": null,
+    "project_lead": null,
+    "grading_text": null
+  }
+}

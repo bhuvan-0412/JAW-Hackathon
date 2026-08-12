@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-136",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-136.pdf",
+  "size_bytes": 99615,
+  "char_count": 4671,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "School Building — Odisha Pkg-136",
+    "package_code": "Pkg-136",
+    "client_name": "Public Health Engineering Dept",
+    "contract_value": 12200000.0,
+    "raw_contract_value": "Rs. 122.00 Lakh",
+    "start_date": null,
+    "completion_date": "2015-05-08",
+    "project_lead": "Rajesh Rao",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+  }
+}

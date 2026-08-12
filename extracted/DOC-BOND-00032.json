@@ -1,0 +1,19 @@
+{
+  "doc_id": "DOC-BOND-00032",
+  "doc_type": "performance_bond",
+  "filename": "performance_bond/DOC-BOND-00032.pdf",
+  "size_bytes": 132866,
+  "char_count": 3525,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Water Treatment Works",
+    "package_code": null,
+    "issuing_bank": "Union Trust Bank of India",
+    "beneficiary": null,
+    "guarantee_amount": 12000000.0,
+    "raw_guarantee_amount": "INR 1.20 Cr",
+    "issue_date": "2019-10-24",
+    "expiry_date": "This Guarantee shall remain valid from 2019-10-24 until 2022-02-24 (the \"Expiry Date\") unless extended by mutual consent in writing."
+  }
+}

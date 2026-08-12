@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-007",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-007.pdf",
+  "size_bytes": 53304,
+  "char_count": 3081,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rigid Pavement — Madhya Pradesh Pkg-7",
+    "package_code": "Pkg-7",
+    "client_name": "Mahanadi Steel Corporation (Psu)",
+    "contract_value": 375200000.00000006,
+    "raw_contract_value": "INR 37.52 Cr",
+    "start_date": null,
+    "completion_date": "2020-05-09",
+    "project_lead": "Amit Iyer",
+    "grading_text": null
+  }
+}

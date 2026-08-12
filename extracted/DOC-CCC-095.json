@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-095",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-095.pdf",
+  "size_bytes": 53581,
+  "char_count": 3050,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Institutional Building — Odisha Pkg-95",
+    "package_code": "Pkg-95",
+    "client_name": "Central Works & Buildings Bureau (Government)",
+    "contract_value": 352200000.0,
+    "raw_contract_value": "INR 35.22 Cr",
+    "start_date": null,
+    "completion_date": "2018-02-22",
+    "project_lead": "Rahul Menon",
+    "grading_text": null
+  }
+}

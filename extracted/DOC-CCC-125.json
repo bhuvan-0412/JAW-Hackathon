@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-125",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-125.pdf",
+  "size_bytes": 53287,
+  "char_count": 3108,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Ring Road — Maharashtra Pkg-125",
+    "package_code": "Pkg-125",
+    "client_name": "Public Works Department, Govt of Maharashtra (Government)",
+    "contract_value": 529900000.0,
+    "raw_contract_value": "INR 52.99 Cr",
+    "start_date": null,
+    "completion_date": "2010-03-01",
+    "project_lead": "Rahul Menon",
+    "grading_text": null
+  }
+}

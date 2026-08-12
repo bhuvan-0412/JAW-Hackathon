@@ -1,0 +1,30 @@
+{
+  "doc_id": "DOC-CV-001",
+  "doc_type": "cv",
+  "filename": "cv/DOC-CV-001.pdf",
+  "size_bytes": 60034,
+  "char_count": 2330,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Neha Chopra",
+    "employee_id": null,
+    "designation": "Project Manager",
+    "total_experience": null,
+    "qualification": "Diploma Civil",
+    "projects_led": [
+      {
+        "project_name": "",
+        "package_code": "Commercial",
+        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
+        "role": ""
+      },
+      {
+        "project_name": "First Class",
+        "package_code": "",
+        "client": "Higher Secondary (XII)",
+        "role": "CBSE Board"
+      }
+    ]
+  }
+}

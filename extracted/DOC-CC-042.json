@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-042",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-042.pdf",
+  "size_bytes": 102167,
+  "char_count": 4601,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Road Widening — Madhya Pradesh Pkg-42",
+    "package_code": "Pkg-42",
+    "client_name": null,
+    "contract_value": 182600000.00000003,
+    "raw_contract_value": "INR 18.26 Cr",
+    "start_date": null,
+    "completion_date": "2022-05-22",
+    "project_lead": "Lakshmi Ghosh",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+  }
+}

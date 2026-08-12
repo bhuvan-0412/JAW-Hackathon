@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-123",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-123.pdf",
+  "size_bytes": 53322,
+  "char_count": 3081,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Rail Tunnel — West Bengal Pkg-123",
+    "package_code": "Pkg-123",
+    "client_name": "Trishakti Power Generation Corporation (Psu)",
+    "contract_value": 400000000.0,
+    "raw_contract_value": "INR 40.00 Cr",
+    "start_date": null,
+    "completion_date": "2010-02-26",
+    "project_lead": "Jaya Desai",
+    "grading_text": null
+  }
+}

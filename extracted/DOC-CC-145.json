@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-145",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-145.pdf",
+  "size_bytes": 76491,
+  "char_count": 4672,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "School Building — Madhya Pradesh Pkg-145",
+    "package_code": "Pkg-145",
+    "client_name": "Mega Infrastructure Authority",
+    "contract_value": 30000000.0,
+    "raw_contract_value": "INR 3,00,00,000/-",
+    "start_date": null,
+    "completion_date": "2025-06-26",
+    "project_lead": "Asha Nair",
+    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+  }
+}

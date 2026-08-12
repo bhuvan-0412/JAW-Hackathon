@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-046",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-046.pdf",
+  "size_bytes": 13534,
+  "char_count": 674,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Hospital Block — West Bengal Pkg-46",
+    "package_code": "Pkg-46",
+    "client_name": "Lakshya Engineering & Construction (private)",
+    "contract_value": 318900000.0,
+    "raw_contract_value": "INR 31.89 Cr",
+    "start_date": null,
+    "completion_date": "03/02/2016",
+    "project_lead": "Pooja Bose",
+    "grading_text": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CCC-083",
+  "doc_type": "company_completion_certificate",
+  "filename": "company_completion_certificate/DOC-CCC-083.pdf",
+  "size_bytes": 53527,
+  "char_count": 3071,
+  "page_count": 2,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "Check Dam — Uttar Pradesh Pkg-83",
+    "package_code": "Pkg-83",
+    "client_name": "Mega Infrastructure Authority (Government)",
+    "contract_value": 314000000.0,
+    "raw_contract_value": "INR 31.40 Cr",
+    "start_date": null,
+    "completion_date": "2016-06-12",
+    "project_lead": "Uma Sen",
+    "grading_text": null
+  }
+}

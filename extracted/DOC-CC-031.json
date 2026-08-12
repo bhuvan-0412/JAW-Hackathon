@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC-CC-031",
+  "doc_type": "completion_certificate",
+  "filename": "completion_certificate/DOC-CC-031.pdf",
+  "size_bytes": 87845,
+  "char_count": 4607,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": "STP — Uttar Pradesh Pkg-31",
+    "package_code": "Pkg-31",
+    "client_name": "Trishakti Power Generation Corp",
+    "contract_value": 721000000.0,
+    "raw_contract_value": "Rs. 7210.00 Lakh",
+    "start_date": null,
+    "completion_date": "2024-11-08",
+    "project_lead": "Naveen Roy",
+    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Very Good** ."
+  }
+}
