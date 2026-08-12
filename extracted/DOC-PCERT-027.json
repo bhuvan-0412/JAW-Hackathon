@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-027.pdf",
   "size_bytes": 48762,
-  "char_count": 1076,
+  "char_count": 944,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Sanjay Joshi",
+    "engineer_name": null,
     "employee_id": "EMP-022",
     "certification_type": "PMP",
     "credential_id": "PMI-200027",

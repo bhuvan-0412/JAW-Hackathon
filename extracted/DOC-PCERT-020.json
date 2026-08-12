@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-020.pdf",
   "size_bytes": 48537,
-  "char_count": 1145,
+  "char_count": 945,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Tanvir Menon",
+    "engineer_name": null,
     "employee_id": "EMP-015",
     "certification_type": "PMP",
     "credential_id": "PMI-200020",

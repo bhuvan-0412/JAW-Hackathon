@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-056.pdf",
   "size_bytes": 96226,
-  "char_count": 2234,
+  "char_count": 2048,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "This letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory.",
+    "project_name": "RCC Bridge — Tamil Nadu Pkg-64",
+    "package_code": "Pkg-64",
+    "issuing_client": "Mahanadi Steel Corporation",
     "contract_value": 680900000.0,
     "raw_contract_value": "INR 68,09,00,000/-",
-    "completion_date": null,
-    "recommendation_summary": "# **Mahanadi Steel Corporation** \n\nPSU CLIENT · Tamil Nadu · IN \n\n## **Reference Letter** \n\nTo Whomsoever It May Concern \n\n**Ref: REF/44/56** \n\nDate: 2026-03-31 \n\nTo Whomsoever It May Concern, \n\nThis letter is issued at the request of **National Infrastructure Corp. Ltd.** to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory. \n\n### **1. Project Details** \n\n|**Project Name**|RCC Bridge — Tamil Nadu Pkg-64|"
+    "completion_date": "2017-01-26",
+    "recommendation_summary": "Mahanadi Steel Corporation\nPSU CLIENT · Tamil Nadu · IN\nReference Letter\nTo Whomsoever It May Concern\nRef: REF/44/56\nDate: 2026-03-31\nTo Whomsoever It May Concern,\nThis letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency\nhas executed work for this organisation as detailed below and that their performance has been found\nsatisfactory.\n1. Project Details\nProject Name\nRCC Bridge — Tamil Nadu Pkg-64\nScope of Work\nBridges Flyovers works for Mahanadi St"
   }
 }

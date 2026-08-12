@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-011.pdf",
   "size_bytes": 48279,
-  "char_count": 1145,
+  "char_count": 945,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Meera Roy",
+    "engineer_name": null,
     "employee_id": "EMP-006",
     "certification_type": "PMP",
     "credential_id": "PMI-200011",

@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-058.pdf",
   "size_bytes": 83709,
-  "char_count": 965,
+  "char_count": 900,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "STP — Gujarat Pkg-66",
-    "package_code": "Pkg-66",
+    "project_name": "S",
+    "package_code": null,
     "issuing_client": "Public Health Engineering Dept, Gujarat",
     "contract_value": 134000000.0,
-    "raw_contract_value": "INR 13,40,00,000/-",
-    "completion_date": null,
-    "recommendation_summary": "2026-03-31 \n\n# **Public Health Engineering Dept, Gujarat** \n\nLetter of Recommendation \n\n## **Letter of Recommendation** \n\n**Our ref: 58** \n\nThis office has engaged **M/s National Infrastructure Corp. Ltd.** for the work “STP — Gujarat Pkg-66” (INR 13,40,00,000/-), completed on 2017-07-04. On the basis of that engagement we record the following: \n\n- Adherence to the sanctioned programme of work and milestone dates; \n\n- \n\n- Quality of workmanship accepted at inspection without material objection; "
+    "raw_contract_value": "INR\n13,40,00,000/-",
+    "completion_date": "2017-07-04",
+    "recommendation_summary": "Public Health Engineering Dept, Gujarat\nLetter of Recommendation\nLetter of Recommendation\nOur ref: 58\n2026-03-31\nThis office has engaged M/s National Infrastructure Corp. Ltd. for the work “STP — Gujarat Pkg-66” (INR\n13,40,00,000/-), completed on 2017-07-04. On the basis of that engagement we record the following:\nAdherence to the sanctioned programme of work and milestone dates;\nQuality of workmanship accepted at inspection without material objection;\nCompliance with safety and statutory obliga"
   }
 }

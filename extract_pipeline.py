@@ -660,45 +660,105 @@ def process_document(row: pd.Series) -> tuple[dict, dict]:
     return doc_json, log_entry
 
 
-def run_pipeline(batch_size: int | None = None):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    df = pd.read_csv(os.path.join(BASE_DIR, 'document_index.csv'))
-    
-    if batch_size:
-        sampled_rows = []
-        for doc_type, group in df.groupby('doc_type'):
-            sampled_rows.append(group.head(1))
-        batch_df = pd.concat(sampled_rows).head(batch_size)
-    else:
-        batch_df = df
+def run_pipeline(docs_dir: str = DOCUMENTS_DIR, output_dir: str = OUTPUT_DIR, batch_size: int | None = None):
+    os.makedirs(output_dir, exist_ok=True)
+    index_csv = os.path.join(docs_dir, 'document_index.csv')
+    if not os.path.exists(index_csv):
+        index_csv = os.path.join(BASE_DIR, 'document_index.csv')
 
-    total_docs = len(batch_df)
-    print(f"Starting extraction pipeline for {total_docs} documents...", flush=True)
+    if os.path.exists(index_csv):
+        df = pd.read_csv(index_csv)
+        if batch_size:
+            sampled_rows = []
+            for doc_type, group in df.groupby('doc_type'):
+                sampled_rows.append(group.head(1))
+            batch_df = pd.concat(sampled_rows).head(batch_size)
+        else:
+            batch_df = df
 
-    log_entries = []
-    for idx, (_, row) in enumerate(batch_df.iterrows(), start=1):
-        doc_json, log_entry = process_document(row)
-        
-        out_path = os.path.join(OUTPUT_DIR, f"{row['doc_id']}.json")
-        with open(out_path, 'w', encoding='utf-8') as f:
-            json.dump(doc_json, f, indent=2, ensure_ascii=False)
+        total_docs = len(batch_df)
+        print(f"Starting extraction pipeline for {total_docs} documents from index {index_csv}...", flush=True)
+
+        log_entries = []
+        for idx, (_, row) in enumerate(batch_df.iterrows(), start=1):
+            doc_json, log_entry = process_document(row)
             
-        log_entries.append(log_entry)
-        
-        if idx % 100 == 0 or idx == total_docs:
-            print(f"Processed {idx}/{total_docs} documents...", flush=True)
+            out_path = os.path.join(output_dir, f"{row['doc_id']}.json")
+            with open(out_path, 'w', encoding='utf-8') as f:
+                json.dump(doc_json, f, indent=2, ensure_ascii=False)
+                
+            log_entries.append(log_entry)
+            
+            if idx % 100 == 0 or idx == total_docs:
+                print(f"Processed {idx}/{total_docs} documents...", flush=True)
+    else:
+        # Generic recursive walk on docs_dir
+        print(f"No document_index.csv found. Running generic recursive walk on {docs_dir}...", flush=True)
+        file_list = []
+        for root, _, files in os.walk(docs_dir):
+            for file in files:
+                if file.endswith(('.pdf', '.xlsx', '.csv')) and not file.startswith('~$'):
+                    file_list.append(os.path.join(root, file))
+
+        total_docs = len(file_list)
+        log_entries = []
+        for idx, fpath in enumerate(file_list, start=1):
+            fname = os.path.basename(fpath)
+            doc_id = os.path.splitext(fname)[0]
+            rel_path = os.path.relpath(fpath, docs_dir)
+
+            # Basic doc_type sniffing
+            fname_lower = fname.lower()
+            if 'cc' in fname_lower or 'completion' in fname_lower:
+                doc_type = 'completion_certificate'
+            elif 'ref' in fname_lower or 'recommendation' in fname_lower:
+                doc_type = 'reference_letter'
+            elif 'bond' in fname_lower or 'guarantee' in fname_lower:
+                doc_type = 'performance_bond'
+            elif 'pcert' in fname_lower or 'personnel' in fname_lower:
+                doc_type = 'personnel_certificate'
+            elif 'cv' in fname_lower:
+                doc_type = 'cv'
+            elif 'bill' in fname_lower or 'ra' in fname_lower:
+                doc_type = 'ra_bill'
+            elif fname_lower.endswith('.xlsx'):
+                if 'boq' in fname_lower: doc_type = 'boq_workbook'
+                elif 'ageing' in fname_lower: doc_type = 'ageing_workbook'
+                elif 'asset' in fname_lower: doc_type = 'asset_register_workbook'
+                elif 'tb' in fname_lower or 'trial' in fname_lower: doc_type = 'trial_balance_workbook'
+                else: doc_type = 'boq_workbook'
+            else:
+                doc_type = 'completion_certificate'
+
+            row = pd.Series({
+                'doc_id': doc_id,
+                'doc_type': doc_type,
+                'filename': rel_path
+            })
+            doc_json, log_entry = process_document(row)
+
+            out_path = os.path.join(output_dir, f"{doc_id}.json")
+            with open(out_path, 'w', encoding='utf-8') as f:
+                json.dump(doc_json, f, indent=2, ensure_ascii=False)
+
+            log_entries.append(log_entry)
+            if idx % 100 == 0 or idx == total_docs:
+                print(f"Processed {idx}/{total_docs} documents...", flush=True)
 
     # Write log file atomically
-    with open(LOG_FILE, 'w', encoding='utf-8') as log_f:
+    log_file_path = os.path.join(BASE_DIR, 'extraction_log.jsonl')
+    with open(log_file_path, 'w', encoding='utf-8') as log_f:
         for entry in log_entries:
             log_f.write(json.dumps(entry, ensure_ascii=False) + '\n')
 
-    print(f"\nExtraction complete! Logged {len(log_entries)} entries to {LOG_FILE}.", flush=True)
+    print(f"\nExtraction complete! Logged {len(log_entries)} entries to {log_file_path}.", flush=True)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('--docs', default=DOCUMENTS_DIR, help="Path to documents directory")
+    parser.add_argument('--output-dir', default=OUTPUT_DIR, help="Path to output extracted JSON directory")
     parser.add_argument('--batch', type=int, help="Run a batch of N sample documents across doc_types")
     args = parser.parse_args()
     
-    run_pipeline(batch_size=args.batch)
+    run_pipeline(docs_dir=args.docs, output_dir=args.output_dir, batch_size=args.batch)

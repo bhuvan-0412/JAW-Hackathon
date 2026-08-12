@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-008.pdf",
   "size_bytes": 48744,
-  "char_count": 1089,
+  "char_count": 957,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Manoj Kapoor",
+    "engineer_name": null,
     "employee_id": "EMP-003",
     "certification_type": "PMP",
     "credential_id": "PMI-200008",

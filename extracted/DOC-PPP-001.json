@@ -3,606 +3,2578 @@
   "doc_type": "past_performance_portfolio",
   "filename": "past_performance_portfolio/DOC-PPP-001.pdf",
   "size_bytes": 134300,
-  "char_count": 21496,
+  "char_count": 62017,
   "page_count": 64,
   "extraction_warnings": [],
   "extracted_data": {
-    "key_values": {},
+    "key_values": {
+      "national infrastructure corp. ltd.": "Past Performance Portfolio · CIN U45201WB2005PLC904417",
+      "portfolio of completed works": "PPP/Marc",
+      "ppp/marc": "155 completed works",
+      "155 completed works": "index of Works",
+      "index of works": "#",
+      "#": "Work",
+      "work": "Client",
+      "client": "Category",
+      "category": "Value",
+      "value": "Completed",
+      "completed": "1",
+      "1": "Greenfield Expressway",
+      "greenfield expressway": "— West Bengal Pkg-110",
+      "— west bengal pkg-110": "Trishakti Power",
+      "trishakti power": "Generation Corporation",
+      "generation corporation": "expressways",
+      "expressways": "INR",
+      "inr": "200.00",
+      "200.00": "Cr",
+      "cr": "January 12,",
+      "january 12,": "2015",
+      "2015": "2",
+      "2": "Ring Road — Uttar",
+      "ring road — uttar": "Pradesh Pkg-113",
+      "pradesh pkg-113": "National Special Projects",
+      "national special projects": "Office",
+      "office": "expressways",
+      "july 10, 2022": "3",
+      "3": "Six-Lane Highway —",
+      "six-lane highway —": "West Bengal Pkg-116",
+      "west bengal pkg-116": "Trishakti Power",
+      "february 11,": "2020",
+      "2020": "4",
+      "4": "Hydro Tunnel —",
+      "hydro tunnel —": "Madhya Pradesh",
+      "madhya pradesh": "Pkg-108",
+      "pkg-108": "Mega Infrastructure",
+      "mega infrastructure": "Authority",
+      "authority": "tunnels",
+      "tunnels": "INR",
+      "198.88": "Cr",
+      "october 25,": "2014",
+      "2014": "5",
+      "5": "Rail Tunnel —",
+      "rail tunnel —": "Jharkhand Pkg-102",
+      "jharkhand pkg-102": "Subarnarekha Valley",
+      "subarnarekha valley": "Corporation",
+      "corporation": "tunnels",
+      "172.22": "Cr",
+      "march 5,": "2015",
+      "6": "Six-Lane Highway —",
+      "tamil nadu pkg-119": "Tamil Nadu Municipal",
+      "tamil nadu municipal": "Corporation",
+      "146.48": "Cr",
+      "september": "22, 2018",
+      "22, 2018": "7",
+      "7": "Ring Road — Uttar",
+      "pradesh pkg-107": "National Expressway",
+      "national expressway": "Development Authority",
+      "development authority": "expressways",
+      "132.97": "Cr",
+      "august 16,": "2012",
+      "2012": "8",
+      "8": "Extradosed Bridge —",
+      "extradosed bridge —": "Madhya Pradesh",
+      "pkg-127": "Meridian Constructors &",
+      "meridian constructors &": "Co.",
+      "co.": "large bridges",
+      "large bridges": "INR",
+      "129.88": "Cr",
+      "november": "13, 2020",
+      "13, 2020": "9",
+      "9": "Jal Nigam, Gujarat",
+      "jal nigam, gujarat": "tunnels",
+      "doc-ppp-001": "Page 1 of 64",
+      "page 1 of 64": "Rail Tunnel — Gujarat",
+      "rail tunnel — gujarat": "Pkg-114",
+      "pkg-114": "INR",
+      "127.78": "Cr",
+      "august 23,": "2010",
+      "2010": "10",
+      "10": "Cable Stayed Bridge —",
+      "cable stayed bridge —": "Delhi Pkg-109",
+      "delhi pkg-109": "National Special Projects",
+      "113.60": "Cr",
+      "december 24,": "2013",
+      "2013": "11",
+      "11": "Steel Truss Bridge —",
+      "steel truss bridge —": "Gujarat Pkg-112",
+      "gujarat pkg-112": "Trishakti Power",
+      "106.19": "Cr",
+      "may 31, 2019": "12",
+      "12": "Hydro Tunnel — West",
+      "hydro tunnel — west": "Bengal Pkg-105",
+      "bengal pkg-105": "Suvarna Projects",
+      "suvarna projects": "Limited",
+      "limited": "tunnels",
+      "101.57": "Cr",
+      "april 2, 2018": "13",
+      "13": "Six-Lane Highway —",
+      "uttar pradesh pkg-101": "Lakshya Engineering &",
+      "lakshya engineering &": "Construction",
+      "construction": "expressways",
+      "97.72 cr": "February 8,",
+      "february 8,": "2018",
+      "2018": "14",
+      "14": "Hydro Tunnel — West",
+      "bengal pkg-126": "Mega Infrastructure",
+      "95.46 cr": "August 13,",
+      "august 13,": "2010",
+      "15": "Cable Stayed Bridge —",
+      "uttar pradesh pkg-121": "Jal Nigam, Uttar Pradesh",
+      "jal nigam, uttar pradesh": "large bridges",
+      "91.04 cr": "February 12,",
+      "february 12,": "2011",
+      "2011": "16",
+      "16": "Six-Lane Highway —",
+      "maharashtra pkg-104": "Subarnarekha Valley",
+      "86.09 cr": "June 28, 2016",
+      "june 28, 2016": "17",
+      "17": "Cable Stayed Bridge —",
+      "jharkhand pkg-115": "Jal Nigam, Jharkhand",
+      "jal nigam, jharkhand": "large bridges",
+      "81.44 cr": "February 23,",
+      "february 23,": "2018",
+      "18": "Extradosed Bridge —",
+      "rajasthan pkg-124": "Irrigation & Waterways",
+      "irrigation & waterways": "Dept, Govt of Rajasthan",
+      "dept, govt of rajasthan": "large bridges",
+      "77.59 cr": "March 1,",
+      "march 1,": "2021",
+      "2021": "19",
+      "19": "Highway Tunnel — West",
+      "highway tunnel — west": "Bengal Pkg-120",
+      "bengal pkg-120": "Irrigation & Waterways",
+      "dept, govt of west": "Bengal",
+      "bengal": "tunnels",
+      "74.66 cr": "May 20, 2023",
+      "may 20, 2023": "20",
+      "20": "Material Handling Plant",
+      "material handling plant": "— Jharkhand Pkg-12",
+      "— jharkhand pkg-12": "Jal Nigam, Jharkhand",
+      "industrial epc": "INR",
+      "73.02 cr": "July 27, 2020",
+      "july 27, 2020": "21",
+      "21": "STP — Uttar Pradesh",
+      "stp — uttar pradesh": "Pkg-31",
+      "pkg-31": "Trishakti Power",
+      "sewerage": "drainage",
+      "drainage": "INR",
+      "72.10 cr": "November 8,",
+      "november 8,": "2024",
+      "2024": "22",
+      "22": "Rigid Pavement — Tamil",
+      "rigid pavement — tamil": "Nadu Pkg-70",
+      "nadu pkg-70": "Mahanadi Steel",
+      "mahanadi steel": "Corporation",
+      "roads": "highways",
+      "highways": "INR",
+      "68.24 cr": "February 4,",
+      "february 4,": "2011",
+      "page 2 of 64": "23",
+      "23": "RCC Bridge — Tamil",
+      "rcc bridge — tamil": "Nadu Pkg-64",
+      "nadu pkg-64": "Mahanadi Steel",
+      "bridges": "flyovers",
+      "flyovers": "INR",
+      "68.09 cr": "January 26,",
+      "january 26,": "2017",
+      "2017": "24",
+      "24": "Steel Truss Bridge —",
+      "maharashtra pkg-103": "Public Works",
+      "public works": "Department, Govt of",
+      "department, govt of": "Maharashtra",
+      "maharashtra": "large bridges",
+      "58.69 cr": "September",
+      "30, 2010": "25",
+      "25": "RCC Bridge —",
+      "rcc bridge —": "Maharashtra Pkg-50",
+      "maharashtra pkg-50": "Maharashtra Municipal",
+      "maharashtra municipal": "Corporation",
+      "57.37 cr": "February 28,",
+      "february 28,": "2021",
+      "26": "Ring Road —",
+      "ring road —": "Maharashtra Pkg-125",
+      "maharashtra pkg-125": "Public Works",
+      "52.99 cr": "March 1,",
+      "27": "Rail Tunnel — Rajasthan",
+      "rail tunnel — rajasthan": "Pkg-111",
+      "pkg-111": "Arunodaya",
+      "arunodaya": "Infrastructure",
+      "infrastructure": "tunnels",
+      "52.63 cr": "April 14, 2019",
+      "april 14, 2019": "28",
+      "28": "Check Dam —",
+      "check dam —": "Maharashtra Pkg-69",
+      "maharashtra pkg-69": "Peninsular Petroleum",
+      "peninsular petroleum": "Corporation",
+      "irrigation": "INR",
+      "49.11 cr": "January 26,",
+      "29": "Hydro Tunnel —",
+      "jharkhand pkg-117": "Arunodaya",
+      "47.41 cr": "March 19,",
+      "march 19,": "2022",
+      "2022": "30",
+      "30": "Check Dam — Gujarat",
+      "check dam — gujarat": "Pkg-62",
+      "pkg-62": "Public Works",
+      "gujarat": "irrigation",
+      "46.73 cr": "March 20,",
+      "march 20,": "2013",
+      "31": "Material Handling Plant",
+      "— jharkhand pkg-61": "National Expressway",
+      "44.90 cr": "July 31, 2021",
+      "july 31, 2021": "32",
+      "32": "Material Handling Plant",
+      "— madhya pradesh": "Pkg-68",
+      "pkg-68": "Mega Infrastructure",
+      "43.42 cr": "January 8,",
+      "january 8,": "2013",
+      "33": "Residential Quarters —",
+      "residential quarters —": "Uttar Pradesh Pkg-25",
+      "uttar pradesh pkg-25": "Trishakti Power",
+      "buildings": "INR",
+      "41.71 cr": "June 5, 2021",
+      "june 5, 2021": "34",
+      "34": "Institutional Building —",
+      "institutional building —": "Delhi Pkg-81",
+      "delhi pkg-81": "National Special Projects",
+      "41.58 cr": "April 21, 2025",
+      "april 21, 2025": "35",
+      "35": "Extradosed Bridge —",
+      "uttar pradesh pkg-130": "Jal Nigam, Uttar Pradesh",
+      "41.45 cr": "May 18, 2018",
+      "may 18, 2018": "36",
+      "36": "Process Piping Package",
+      "process piping package": "— Delhi Pkg-82",
+      "— delhi pkg-82": "Subarnarekha Valley",
+      "41.42 cr": "July 20, 2016",
+      "july 20, 2016": "DOC-PPP-001",
+      "page 3 of 64": "37",
+      "37": "Canal Lining — Delhi",
+      "canal lining — delhi": "Pkg-34",
+      "pkg-34": "National Special Projects",
+      "41.35 cr": "August 20,",
+      "august 20,": "2010",
+      "38": "Process Piping Package",
+      "— delhi pkg-75": "Trishakti Power",
+      "41.34 cr": "November 9,",
+      "november 9,": "2023",
+      "2023": "39",
+      "39": "Hospital Block — West",
+      "hospital block — west": "Bengal Pkg-60",
+      "bengal pkg-60": "Irrigation & Waterways",
+      "40.37 cr": "September 7,",
+      "september 7,": "2024",
+      "40": "Extradosed Bridge —",
+      "gujarat pkg-106": "National Special Projects",
+      "40.00 cr": "December 8,",
+      "december 8,": "2012",
+      "41": "Steel Truss Bridge —",
+      "rajasthan pkg-118": "Central Works &",
+      "central works &": "Buildings Bureau",
+      "buildings bureau": "large bridges",
+      "october 2,": "2017",
+      "42": "Six-Lane Highway —",
+      "odisha pkg-122": "Public Health",
+      "public health": "Engineering Dept,",
+      "engineering dept,": "Odisha",
+      "odisha": "expressways",
+      "june 12, 2011": "43",
+      "43": "Rail Tunnel — West",
+      "rail tunnel — west": "Bengal Pkg-123",
+      "bengal pkg-123": "Trishakti Power",
+      "february 26,": "2010",
+      "44": "Ring Road — West",
+      "ring road — west": "Bengal Pkg-128",
+      "bengal pkg-128": "Public Works",
+      "west bengal": "expressways",
+      "may 23, 2023": "45",
+      "45": "Hydro Tunnel — Uttar",
+      "hydro tunnel — uttar": "Pradesh Pkg-129",
+      "pradesh pkg-129": "National Expressway",
+      "april 20, 2016": "46",
+      "46": "Highway Construction",
+      "highway construction": "— Rajasthan Pkg-77",
+      "— rajasthan pkg-77": "Arunodaya",
+      "39.90 cr": "October 23,",
+      "october 23,": "2013",
+      "47": "ROB — Gujarat Pkg-71",
+      "rob — gujarat pkg-71": "Jal Nigam, Gujarat",
+      "38.81 cr": "February 20,",
+      "february 20,": "2025",
+      "2025": "48",
+      "48": "Sewerage Network —",
+      "sewerage network —": "Odisha Pkg-17",
+      "odisha pkg-17": "Public Health",
+      "38.54 cr": "March 27,",
+      "march 27,": "2024",
+      "49": "Rigid Pavement —",
+      "rigid pavement —": "Madhya Pradesh Pkg-7",
+      "madhya pradesh pkg-7": "Mahanadi Steel",
+      "37.52 cr": "May 9, 2020",
+      "may 9, 2020": "50",
+      "50": "Check Dam — Delhi",
+      "check dam — delhi": "Pkg-76",
+      "pkg-76": "Suvarna Projects",
+      "37.04 cr": "October 23,",
+      "page 4 of 64": "51",
+      "51": "ROB — Delhi Pkg-36",
+      "rob — delhi pkg-36": "Arunodaya",
+      "36.63 cr": "May 11, 2016",
+      "may 11, 2016": "52",
+      "52": "Pumping Station —",
+      "pumping station —": "Odisha Pkg-79",
+      "odisha pkg-79": "Central Works &",
+      "water": "treatment",
+      "treatment": "INR",
+      "35.86 cr": "June 30, 2018",
+      "june 30, 2018": "53",
+      "53": "Institutional Building —",
+      "odisha pkg-95": "Central Works &",
+      "35.22 cr": "February 22,",
+      "february 22,": "2018",
+      "54": "Water Treatment Plant",
+      "water treatment plant": "— Madhya Pradesh",
+      "pkg-23": "Mahanadi Steel",
+      "34.92 cr": "August 28,",
+      "august 28,": "2022",
+      "55": "RCC Bridge — Gujarat",
+      "rcc bridge — gujarat": "Pkg-1",
+      "pkg-1": "National Special Projects",
+      "33.38 cr": "February 6,",
+      "february 6,": "2011",
+      "56": "STP — Jharkhand Pkg-38",
+      "stp — jharkhand pkg-38": "Central Works &",
+      "32.14 cr": "September 7,",
+      "57": "Hospital Block — West",
+      "bengal pkg-46": "Lakshya Engineering &",
+      "31.89 cr": "February 3,",
+      "february 3,": "2016",
+      "2016": "58",
+      "58": "WTP Augmentation —",
+      "wtp augmentation —": "Jharkhand Pkg-72",
+      "jharkhand pkg-72": "Jharkhand Municipal",
+      "jharkhand municipal": "Corporation",
+      "31.46 cr": "December 11,",
+      "december 11,": "2010",
+      "59": "Check Dam — Uttar",
+      "check dam — uttar": "Pradesh Pkg-83",
+      "pradesh pkg-83": "Mega Infrastructure",
+      "31.40 cr": "June 12, 2016",
+      "june 12, 2016": "60",
+      "60": "Lift Irrigation —",
+      "lift irrigation —": "Rajasthan Pkg-41",
+      "rajasthan pkg-41": "Irrigation & Waterways",
+      "31.07 cr": "July 26, 2021",
+      "july 26, 2021": "61",
+      "61": "Check Dam —",
+      "maharashtra pkg-97": "Public Works",
+      "30.73 cr": "April 12, 2018",
+      "april 12, 2018": "62",
+      "62": "Rigid Pavement —",
+      "madhya pradesh pkg-49": "Mahanadi Steel",
+      "29.87 cr": "February 26,",
+      "63": "Pumping Station —",
+      "uttar pradesh pkg-65": "Jal Nigam, Uttar Pradesh",
+      "28.41 cr": "November",
+      "15, 2018": "64",
+      "64": "Stormwater Drainage —",
+      "stormwater drainage —": "Gujarat Pkg-80",
+      "gujarat pkg-80": "Trishakti Power",
+      "28.38 cr": "March 12,",
+      "march 12,": "2013",
+      "65": "Process Piping Package",
+      "— tamil nadu pkg-54": "Mahanadi Steel",
+      "27.05 cr": "June 6, 2015",
+      "june 6, 2015": "DOC-PPP-001",
+      "page 5 of 64": "66",
+      "66": "Pumping Station —",
+      "tamil nadu pkg-16": "Tamil Nadu Municipal",
+      "26.80 cr": "March 2,",
+      "march 2,": "2013",
+      "67": "Water Treatment Plant",
+      "— rajasthan pkg-58": "Irrigation & Waterways",
+      "26.39 cr": "September",
+      "27, 2013": "68",
+      "68": "Canal Lining — Tamil",
+      "canal lining — tamil": "Nadu Pkg-90",
+      "nadu pkg-90": "Public Works",
+      "tamil nadu": "irrigation",
+      "26.09 cr": "June 20, 2014",
+      "june 20, 2014": "69",
+      "69": "ROB — Uttar Pradesh",
+      "rob — uttar pradesh": "Pkg-85",
+      "pkg-85": "Trishakti Power",
+      "25.10 cr": "March 3,",
+      "march 3,": "2020",
+      "70": "WTP Augmentation —",
+      "uttar pradesh pkg-2": "Mega Infrastructure",
+      "24.85 cr": "January 11,",
+      "january 11,": "2013",
+      "71": "Substation EPC —",
+      "substation epc —": "Madhya Pradesh Pkg-5",
+      "madhya pradesh pkg-5": "Suvarna Projects",
+      "24.41 cr": "April 26, 2012",
+      "april 26, 2012": "72",
+      "72": "Lift Irrigation — Odisha",
+      "lift irrigation — odisha": "Pkg-6",
+      "pkg-6": "Public Health",
+      "24.31 cr": "February 7,",
+      "february 7,": "2020",
+      "73": "Institutional Building —",
+      "uttar pradesh pkg-11": "Peninsular Petroleum",
+      "24.05 cr": "October 8,",
+      "october 8,": "2024",
+      "74": "Lift Irrigation — Madhya",
+      "lift irrigation — madhya": "Pradesh Pkg-20",
+      "pradesh pkg-20": "National Expressway",
+      "23.92 cr": "July 7, 2013",
+      "july 7, 2013": "75",
+      "75": "Sewerage Network —",
+      "rajasthan pkg-10": "Irrigation & Waterways",
+      "23.48 cr": "May 3, 2011",
+      "may 3, 2011": "76",
+      "76": "Lift Irrigation — West",
+      "lift irrigation — west": "Bengal Pkg-13",
+      "bengal pkg-13": "Suvarna Projects",
+      "23.20 cr": "June 4, 2021",
+      "june 4, 2021": "77",
+      "77": "Flyover — Delhi Pkg-99",
+      "flyover — delhi pkg-99": "Meridian Constructors &",
+      "23.16 cr": "May 18, 2016",
+      "may 18, 2016": "78",
+      "78": "Stormwater Drainage —",
+      "odisha pkg-59": "Public Health",
+      "22.58 cr": "February 18,",
+      "february 18,": "2023",
+      "79": "ROB — Jharkhand",
+      "rob — jharkhand": "Pkg-29",
+      "pkg-29": "Arunodaya",
+      "22.38 cr": "July 12, 2023",
+      "july 12, 2023": "80",
+      "80": "June 11, 2012",
+      "june 11, 2012": "DOC-PPP-001",
+      "page 6 of 64": "STP — West Bengal",
+      "stp — west bengal": "Pkg-73",
+      "pkg-73": "Suvarna Projects",
+      "21.99 cr": "81",
+      "81": "STP — Jharkhand Pkg-94",
+      "stp — jharkhand pkg-94": "Subarnarekha Valley",
+      "21.93 cr": "September",
+      "14, 2014": "82",
+      "82": "WTP Augmentation —",
+      "maharashtra pkg-93": "Public Works",
+      "21.42 cr": "May 26, 2021",
+      "may 26, 2021": "83",
+      "83": "Rigid Pavement —",
+      "jharkhand pkg-56": "National Expressway",
+      "21.15 cr": "March 6,",
+      "march 6,": "2017",
+      "84": "Process Piping Package",
+      "— gujarat pkg-33": "Trishakti Power",
+      "21.04 cr": "September 2,",
+      "september 2,": "2017",
+      "85": "STP — Gujarat Pkg-3",
+      "stp — gujarat pkg-3": "Public Works",
+      "20.92 cr": "April 11, 2016",
+      "april 11, 2016": "86",
+      "86": "Highway Construction",
+      "— maharashtra pkg-91": "Subarnarekha Valley",
+      "20.87 cr": "February 5,",
+      "february 5,": "2012",
+      "87": "Residential Quarters —",
+      "delhi pkg-88": "Arunodaya",
+      "20.05 cr": "October 25,",
+      "88": "Check Dam — Rajasthan",
+      "check dam — rajasthan": "Pkg-27",
+      "pkg-27": "Irrigation & Waterways",
+      "19.52 cr": "September 7,",
+      "89": "Road Widening —",
+      "road widening —": "Maharashtra Pkg-21",
+      "maharashtra pkg-21": "Public Works",
+      "19.33 cr": "April 22, 2011",
+      "april 22, 2011": "90",
+      "90": "Stormwater Drainage —",
+      "madhya pradesh pkg-24": "Meridian Constructors &",
+      "19.19 cr": "April 13, 2018",
+      "april 13, 2018": "91",
+      "91": "Bituminous Overlay —",
+      "bituminous overlay —": "Odisha Pkg-63",
+      "odisha pkg-63": "Public Health",
+      "18.44 cr": "October 29,",
+      "october 29,": "2020",
+      "92": "STP — Odisha Pkg-45",
+      "stp — odisha pkg-45": "Public Health",
+      "18.28 cr": "July 13, 2020",
+      "july 13, 2020": "93",
+      "93": "WTP Augmentation —",
+      "west bengal pkg-30": "Lakshya Engineering &",
+      "18.26 cr": "June 28, 2021",
+      "june 28, 2021": "DOC-PPP-001",
+      "page 7 of 64": "94",
+      "94": "Road Widening —",
+      "madhya pradesh pkg-42": "Meridian Constructors &",
+      "may 22, 2022": "95",
+      "95": "Hospital Block — Odisha",
+      "hospital block — odisha": "Pkg-39",
+      "pkg-39": "Peninsular Petroleum",
+      "18.17 cr": "December 5,",
+      "december 5,": "2014",
+      "96": "Water Treatment Plant",
+      "— west bengal pkg-44": "Trishakti Power",
+      "17.83 cr": "April 16, 2016",
+      "april 16, 2016": "97",
+      "97": "Pumping Station —",
+      "rajasthan pkg-100": "Irrigation & Waterways",
+      "17.73 cr": "December 13,",
+      "december 13,": "2011",
+      "98": "Sewerage Network —",
+      "maharashtra pkg-87": "Public Works",
+      "17.66 cr": "February 23,",
+      "99": "Flyover — Gujarat Pkg-8",
+      "flyover — gujarat pkg-8": "Meridian Constructors &",
+      "17.08 cr": "November",
+      "17, 2010": "100",
+      "100": "Water Treatment Plant",
+      "— delhi pkg-86": "Peninsular Petroleum",
+      "16.40 cr": "February 4,",
+      "101": "Residential Quarters —",
+      "west bengal pkg-67": "Lakshya Engineering &",
+      "16.17 cr": "February 8,",
+      "102": "Stormwater Drainage —",
+      "tamil nadu pkg-52": "Mahanadi Steel",
+      "15.52 cr": "February 10,",
+      "february 10,": "2015",
+      "103": "Substation EPC — Tamil",
+      "substation epc — tamil": "Nadu Pkg-19",
+      "nadu pkg-19": "Mahanadi Steel",
+      "15.39 cr": "August 13,",
+      "104": "WTP Augmentation —",
+      "west bengal pkg-51": "Lakshya Engineering &",
+      "14.92 cr": "December 16,",
+      "december 16,": "2022",
+      "105": "Road Widening —",
+      "odisha pkg-98": "Peninsular Petroleum",
+      "14.85 cr": "September",
+      "27, 2019": "106",
+      "106": "Institutional Building —",
+      "gujarat pkg-32": "Mahanadi Steel",
+      "14.57 cr": "December 7,",
+      "december 7,": "2023",
+      "107": "Flyover — Uttar Pradesh",
+      "flyover — uttar pradesh": "Pkg-43",
+      "pkg-43": "Trishakti Power",
+      "14.03 cr": "March 30,",
+      "march 30,": "2019",
+      "2019": "108",
+      "108": "Material Handling Plant",
+      "— uttar pradesh pkg-89": "Trishakti Power",
+      "13.65 cr": "January 15,",
+      "january 15,": "2023",
+      "109": "irrigation",
+      "july 29, 2010": "DOC-PPP-001",
+      "page 8 of 64": "Canal Lining — Uttar",
+      "canal lining — uttar": "Pradesh Pkg-48",
+      "pradesh pkg-48": "Subarnarekha Valley",
+      "13.56 cr": "110",
+      "110": "STP — Gujarat Pkg-66",
+      "stp — gujarat pkg-66": "Public Health",
+      "13.40 cr": "July 4, 2017",
+      "july 4, 2017": "111",
+      "111": "Rigid Pavement — Delhi",
+      "rigid pavement — delhi": "Pkg-28",
+      "pkg-28": "Suvarna Projects",
+      "13.02 cr": "May 19, 2019",
+      "may 19, 2019": "112",
+      "112": "Material Handling Plant",
+      "— uttar pradesh pkg-47": "National Expressway",
+      "12.94 cr": "September",
+      "20, 2013": "113",
+      "113": "Institutional Building —",
+      "west bengal pkg-74": "Mega Infrastructure",
+      "12.80 cr": "August 11,",
+      "august 11,": "2018",
+      "114": "Material Handling Plant",
+      "— uttar pradesh pkg-26": "Irrigation & Waterways",
+      "dept, govt of uttar": "Pradesh",
+      "pradesh": "industrial epc",
+      "12.33 cr": "July 16, 2025",
+      "july 16, 2025": "115",
+      "115": "Check Dam — Delhi",
+      "pkg-55": "Trishakti Power",
+      "12.13 cr": "June 23, 2017",
+      "june 23, 2017": "116",
+      "116": "WTP Augmentation —",
+      "tamil nadu pkg-9": "Mahanadi Steel",
+      "11.32 cr": "April 17, 2024",
+      "april 17, 2024": "117",
+      "117": "Residential Quarters —",
+      "odisha pkg-4": "Peninsular Petroleum",
+      "11.23 cr": "May 17, 2023",
+      "may 17, 2023": "118",
+      "118": "Process Piping Package",
+      "— uttar pradesh pkg-40": "National Expressway",
+      "10.13 cr": "July 17, 2014",
+      "july 17, 2014": "119",
+      "119": "Road Widening — West",
+      "road widening — west": "Bengal Pkg-14",
+      "bengal pkg-14": "Trishakti Power",
+      "10.11 cr": "September",
+      "30, 2024": "120",
+      "120": "Box Culvert Chain —",
+      "box culvert chain —": "Tamil Nadu Pkg-92",
+      "tamil nadu pkg-92": "Tamil Nadu Municipal",
+      "10.05 cr": "February 14,",
+      "february 14,": "2012",
+      "121": "Hospital Block — West",
+      "bengal pkg-18": "Lakshya Engineering &",
+      "inr 9.80": "Cr",
+      "march 22,": "2013",
+      "122": "Flyover — Jharkhand",
+      "flyover — jharkhand": "Pkg-78",
+      "pkg-78": "Subarnarekha Valley",
+      "june 9, 2019": "123",
+      "123": "Flyover — Delhi Pkg-15",
+      "flyover — delhi pkg-15": "Suvarna Projects",
+      "inr 9.08": "Cr",
+      "page 9 of 64": "124",
+      "124": "Hospital Block —",
+      "hospital block —": "Rajasthan Pkg-53",
+      "rajasthan pkg-53": "Central Works &",
+      "inr 9.03": "Cr",
+      "july 28, 2015": "125",
+      "125": "RCC Bridge — Jharkhand",
+      "rcc bridge — jharkhand": "Pkg-22",
+      "pkg-22": "Jharkhand Municipal",
+      "inr 8.74": "Cr",
+      "june 1, 2013": "126",
+      "126": "Box Culvert Chain —",
+      "madhya pradesh pkg-57": "Meridian Constructors &",
+      "inr 7.29": "Cr",
+      "october 21,": "2020",
+      "127": "Rural Road Upgradation",
+      "rural road upgradation": "— Jharkhand Pkg-153",
+      "— jharkhand pkg-153": "Jharkhand Municipal",
+      "maintenance": "INR 6.95",
+      "inr 6.95": "Cr",
+      "november 3,": "2017",
+      "128": "Pipeline Laying —",
+      "pipeline laying —": "Jharkhand Pkg-131",
+      "jharkhand pkg-131": "Jal Nigam, Jharkhand",
+      "water supply": "INR 6.92",
+      "inr 6.92": "Cr",
+      "august 17,": "2021",
+      "129": "Community Centre —",
+      "community centre —": "Jharkhand Pkg-133",
+      "jharkhand pkg-133": "Central Works &",
+      "small": "buildings",
+      "inr 6.87": "Cr",
+      "march 25,": "2012",
+      "130": "WTP Augmentation —",
+      "delhi pkg-37": "Trishakti Power",
+      "inr 6.75": "Cr",
+      "august 27,": "2020",
+      "131": "Material Handling Plant",
+      "— maharashtra pkg-96": "Maharashtra Municipal",
+      "inr 6.08": "Cr",
+      "may 4, 2013": "132",
+      "132": "Road Widening — Uttar",
+      "road widening — uttar": "Pradesh Pkg-84",
+      "pradesh pkg-84": "Jal Nigam, Uttar Pradesh",
+      "inr 5.85": "Cr",
+      "june 7, 2018": "133",
+      "133": "Drainage Works — Uttar",
+      "drainage works — uttar": "Pradesh Pkg-144",
+      "pradesh pkg-144": "Lakshya Engineering &",
+      "inr 5.67": "Cr",
+      "january 3,": "2017",
+      "134": "Anganwadi Centre —",
+      "anganwadi centre —": "Jharkhand Pkg-142",
+      "jharkhand pkg-142": "National Expressway",
+      "inr 5.43": "Cr",
+      "march 9,": "2013",
+      "135": "Handpump Installation",
+      "handpump installation": "— Uttar Pradesh",
+      "— uttar pradesh": "Pkg-134",
+      "pkg-134": "Irrigation & Waterways",
+      "inr 4.80": "Cr",
+      "december 27,": "2024",
+      "136": "Drainage Works — Tamil",
+      "drainage works — tamil": "Nadu Pkg-141",
+      "nadu pkg-141": "Mahanadi Steel",
+      "inr 3.99": "Cr",
+      "april 12, 2023": "137",
+      "137": "Pipeline Laying — Tamil",
+      "pipeline laying — tamil": "Nadu Pkg-143",
+      "nadu pkg-143": "Mahanadi Steel",
+      "inr 3.14": "Cr",
+      "november 4,": "2016",
+      "138": "School Building —",
+      "school building —": "Madhya Pradesh",
+      "pkg-145": "Mega Infrastructure",
+      "inr 3.00": "Cr",
+      "june 26, 2025": "DOC-PPP-001",
+      "page 10 of 64": "139",
+      "139": "Rural Road Upgradation",
+      "— jharkhand pkg-150": "Arunodaya",
+      "inr 2.99": "Cr",
+      "26, 2017": "140",
+      "140": "Pipeline Laying —",
+      "maharashtra pkg-140": "Peninsular Petroleum",
+      "inr 2.82": "Cr",
+      "141": "Community Centre —",
+      "uttar pradesh pkg-139": "National Expressway",
+      "inr 2.80": "Cr",
+      "january 30,": "2020",
+      "142": "Mini Water Supply —",
+      "mini water supply —": "Madhya Pradesh",
+      "pkg-146": "Suvarna Projects",
+      "143": "Bituminous Overlay —",
+      "odisha pkg-35": "Public Health",
+      "inr 2.77": "Cr",
+      "october 15,": "2025",
+      "144": "Anganwadi Centre —",
+      "gujarat pkg-151": "Trishakti Power",
+      "inr 2.50": "Cr",
+      "june 3, 2020": "145",
+      "145": "Drainage Works —",
+      "drainage works —": "Gujarat Pkg-135",
+      "gujarat pkg-135": "Public Health",
+      "inr 2.33": "Cr",
+      "october 16,": "2010",
+      "146": "Patch Repair — Delhi",
+      "patch repair — delhi": "Pkg-132",
+      "pkg-132": "Subarnarekha Valley",
+      "inr 2.04": "Cr",
+      "february 17,": "2015",
+      "147": "School Building — Delhi",
+      "school building — delhi": "Pkg-154",
+      "pkg-154": "Subarnarekha Valley",
+      "inr 1.94": "Cr",
+      "september 5,": "2017",
+      "148": "Pipeline Laying — Delhi",
+      "pipeline laying — delhi": "Pkg-137",
+      "pkg-137": "Trishakti Power",
+      "inr 1.92": "Cr",
+      "january 31,": "2018",
+      "149": "Patch Repair —",
+      "patch repair —": "Maharashtra Pkg-147",
+      "maharashtra pkg-147": "Maharashtra Municipal",
+      "inr 1.90": "Cr",
+      "august 18,": "2021",
+      "150": "Mini Water Supply —",
+      "west bengal pkg-152": "Irrigation & Waterways",
+      "inr 1.67": "Cr",
+      "151": "Handpump Installation",
+      "— gujarat pkg-155": "Gujarat Municipal",
+      "gujarat municipal": "Corporation",
+      "inr 1.64": "Cr",
+      "152": "School Building — Delhi",
+      "pkg-148": "Trishakti Power",
+      "inr 1.54": "Cr",
+      "april 16, 2022": "DOC-PPP-001",
+      "page 11 of 64": "153",
+      "153": "School Building —",
+      "odisha pkg-136": "Public Health",
+      "inr 1.22": "Cr",
+      "may 8, 2015": "154",
+      "154": "Patch Repair — Gujarat",
+      "patch repair — gujarat": "Pkg-138",
+      "pkg-138": "Public Works",
+      "inr 1.20": "Cr",
+      "155": "Mini Water Supply —",
+      "delhi pkg-149": "Suvarna Projects",
+      "inr 1.06": "Cr",
+      "april 10, 2011": "DOC-PPP-001",
+      "page 12 of 64": "1. Greenfield exPressWay — West BenGal PkG-110",
+      "1. greenfield expressway — west bengal pkg-110": "Client",
+      "trishakti power generation corporation (prime)": "Category",
+      "executed value": "INR 200.00 Cr",
+      "inr 200.00 cr": "Completed",
+      "january 12, 2015 · certificate cc/25/2015/110": "Expressways works for Trishakti Power Generation Corporation completed 2015.",
+      "2. ring road — uttar pradesh pkg-113": "Client",
+      "national special projects office (jv partner)": "Category",
+      "july 10, 2022 · certificate cc/17/2022/113": "Expressways works for National Special Projects Office completed 2022.",
+      "3. six-lane highway — west bengal pkg-116": "Client",
+      "february 11, 2020 · certificate cc/25/2020/116": "Expressways works for Trishakti Power Generation Corporation completed 2020.",
+      "page 13 of 64": "4. hydro tUnnel — madhya Pradesh PkG-108",
+      "4. hydro tunnel — madhya pradesh pkg-108": "Client",
+      "mega infrastructure authority (prime)": "Category",
+      "inr 198.88 cr": "Completed",
+      "october 25, 2014 · certificate cc/16/2014/108": "Tunnels works for Mega Infrastructure Authority completed 2014.",
+      "5. rail tunnel — jharkhand pkg-102": "Client",
+      "subarnarekha valley corporation (prime)": "Category",
+      "inr 172.22 cr": "Completed",
+      "march 5, 2015 · certificate cc/60/2015/102": "Tunnels works for Subarnarekha Valley Corporation completed 2015.",
+      "6. six-lane highway — tamil nadu pkg-119": "Client",
+      "tamil nadu municipal corporation (jv partner)": "Category",
+      "inr 146.48 cr": "Completed",
+      "september 22, 2018 · certificate cc/4/2018/119": "Expressways works for Tamil Nadu Municipal Corporation completed 2018.",
+      "page 14 of 64": "7. rinG road — Uttar Pradesh PkG-107",
+      "7. ring road — uttar pradesh pkg-107": "Client",
+      "national expressway development authority (prime)": "Category",
+      "inr 132.97 cr": "Completed",
+      "august 16, 2012 · certificate cc/3/2012/107": "Expressways works for National Expressway Development Authority completed 2012.",
+      "8. extradosed bridge — madhya pradesh pkg-127": "Client",
+      "meridian constructors & co. (prime)": "Category",
+      "inr 129.88 cr": "Completed",
+      "november 13, 2020 · certificate cc/47/2020/127": "Large Bridges works for Meridian Constructors & Co. completed 2020.",
+      "9. rail tunnel — gujarat pkg-114": "Client",
+      "jal nigam, gujarat (jv partner)": "Category",
+      "inr 127.78 cr": "Completed",
+      "august 23, 2010 · certificate cc/41/2010/114": "Tunnels works for Jal Nigam, Gujarat completed 2010.",
+      "page 15 of 64": "10. CaBle stayed BridGe — delhi PkG-109",
+      "10. cable stayed bridge — delhi pkg-109": "Client",
+      "national special projects office (prime)": "Category",
+      "inr 113.60 cr": "Completed",
+      "december 24, 2013 · certificate cc/51/2013/109": "Large Bridges works for National Special Projects Office completed 2013.",
+      "11. steel truss bridge — gujarat pkg-112": "Client",
+      "inr 106.19 cr": "Completed",
+      "may 31, 2019 · certificate cc/8/2019/112": "Large Bridges works for Trishakti Power Generation Corporation completed 2019.",
+      "12. hydro tunnel — west bengal pkg-105": "Client",
+      "suvarna projects limited (prime)": "Category",
+      "inr 101.57 cr": "Completed",
+      "april 2, 2018 · certificate cc/12/2018/105": "Tunnels works for Suvarna Projects Limited completed 2018.",
+      "page 16 of 64": "13. six-lane hiGhWay — Uttar Pradesh PkG-101",
+      "13. six-lane highway — uttar pradesh pkg-101": "Client",
+      "lakshya engineering & construction (prime)": "Category",
+      "inr 97.72 cr": "Completed",
+      "february 8, 2018 · certificate cc/32/2018/101": "Expressways works for Lakshya Engineering & Construction completed 2018.",
+      "14. hydro tunnel — west bengal pkg-126": "Client",
+      "inr 95.46 cr": "Completed",
+      "august 13, 2010 · certificate cc/33/2010/126": "Tunnels works for Mega Infrastructure Authority completed 2010.",
+      "15. cable stayed bridge — uttar pradesh pkg-121": "Client",
+      "jal nigam, uttar pradesh (jv partner)": "Category",
+      "inr 91.04 cr": "Completed",
+      "february 12, 2011 · certificate cc/58/2011/121": "Large Bridges works for Jal Nigam, Uttar Pradesh completed 2011.",
+      "page 17 of 64": "16. six-lane hiGhWay — maharashtra PkG-104",
+      "16. six-lane highway — maharashtra pkg-104": "Client",
+      "inr 86.09 cr": "Completed",
+      "june 28, 2016 · certificate cc/26/2016/104": "Expressways works for Subarnarekha Valley Corporation completed 2016.",
+      "17. cable stayed bridge — jharkhand pkg-115": "Client",
+      "jal nigam, jharkhand (jv partner)": "Category",
+      "inr 81.44 cr": "Completed",
+      "february 23, 2018 · certificate cc/7/2018/115": "Large Bridges works for Jal Nigam, Jharkhand completed 2018.",
+      "18. extradosed bridge — rajasthan pkg-124": "Client",
+      "inr 77.59 cr": "Completed",
+      "march 1, 2021 · certificate cc/39/2021/124": "Large Bridges works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2021.",
+      "page 18 of 64": "19. hiGhWay tUnnel — West BenGal PkG-120",
+      "19. highway tunnel — west bengal pkg-120": "Client",
+      "inr 74.66 cr": "Completed",
+      "may 20, 2023 · certificate cc/22/2023/120": "Tunnels works for Irrigation & Waterways Dept, Govt of West Bengal completed 2023.",
+      "20. material handling plant — jharkhand pkg-12": "Client",
+      "jal nigam, jharkhand (prime)": "Category",
+      "inr 73.02 cr": "Completed",
+      "july 27, 2020 · certificate cc/7/2020/012": "Industrial Epc works for Jal Nigam, Jharkhand completed 2020.",
+      "21. stp — uttar pradesh pkg-31": "Client",
+      "sewerage drainage": "Executed Value",
+      "inr 72.10 cr": "Completed",
+      "november 8, 2024 · certificate cc/59/2024/031": "Sewerage Drainage works for Trishakti Power Generation Corporation completed 2024.",
+      "page 19 of 64": "22. riGid Pavement — tamil nadU PkG-70",
+      "22. rigid pavement — tamil nadu pkg-70": "Client",
+      "mahanadi steel corporation (prime)": "Category",
+      "roads highways": "Executed Value",
+      "inr 68.24 cr": "Completed",
+      "february 4, 2011 · certificate cc/44/2011/070": "Roads Highways works for Mahanadi Steel Corporation completed 2011.",
+      "23. rcc bridge — tamil nadu pkg-64": "Client",
+      "mahanadi steel corporation (jv partner)": "Category",
+      "bridges flyovers": "Executed Value",
+      "inr 68.09 cr": "Completed",
+      "january 26, 2017 · certificate cc/44/2017/064": "Bridges Flyovers works for Mahanadi Steel Corporation completed 2017.",
+      "24. steel truss bridge — maharashtra pkg-103": "Client",
+      "inr 58.69 cr": "Completed",
+      "september 30, 2010 · certificate cc/52/2010/103": "Large Bridges works for Public Works Department, Govt of Maharashtra completed 2010.",
+      "page 20 of 64": "25. rCC BridGe — maharashtra PkG-50",
+      "25. rcc bridge — maharashtra pkg-50": "Client",
+      "maharashtra municipal corporation (prime)": "Category",
+      "inr 57.37 cr": "Completed",
+      "february 28, 2021 · certificate cc/21/2021/050": "Bridges Flyovers works for Maharashtra Municipal Corporation completed 2021.",
+      "26. ring road — maharashtra pkg-125": "Client",
+      "inr 52.99 cr": "Completed",
+      "march 1, 2010 · certificate cc/52/2010/125": "Expressways works for Public Works Department, Govt of Maharashtra completed 2010.",
+      "27. rail tunnel — rajasthan pkg-111": "Client",
+      "arunodaya infrastructure (jv partner)": "Category",
+      "inr 52.63 cr": "Completed",
+      "april 14, 2019 · certificate cc/14/2019/111": "Tunnels works for Arunodaya Infrastructure completed 2019.",
+      "page 21 of 64": "28. CheCk dam — maharashtra PkG-69",
+      "28. check dam — maharashtra pkg-69": "Client",
+      "peninsular petroleum corporation (prime)": "Category",
+      "inr 49.11 cr": "Completed",
+      "january 26, 2021 · certificate cc/11/2021/069": "Irrigation works for Peninsular Petroleum Corporation completed 2021.",
+      "29. hydro tunnel — jharkhand pkg-117": "Client",
+      "arunodaya infrastructure (prime)": "Category",
+      "inr 47.41 cr": "Completed",
+      "march 19, 2022 · certificate cc/31/2022/117": "Tunnels works for Arunodaya Infrastructure completed 2022.",
+      "30. check dam — gujarat pkg-62": "Client",
+      "inr 46.73 cr": "Completed",
+      "march 20, 2013 · certificate cc/35/2013/062": "Irrigation works for Public Works Department, Govt of Gujarat completed 2013.",
+      "page 22 of 64": "31. material handlinG Plant — Jharkhand PkG-61",
+      "31. material handling plant — jharkhand pkg-61": "Client",
+      "inr 44.90 cr": "Completed",
+      "july 31, 2021 · certificate cc/54/2021/061": "Industrial Epc works for National Expressway Development Authority completed 2021.",
+      "inr 43.42 cr": "Completed",
+      "january 8, 2013 · certificate cc/16/2013/068": "Industrial Epc works for Mega Infrastructure Authority completed 2013.",
+      "33. residential quarters — uttar pradesh pkg-25": "Client",
+      "inr 41.71 cr": "Completed",
+      "june 5, 2021 · certificate cc/59/2021/025": "Buildings works for Trishakti Power Generation Corporation completed 2021.",
+      "page 23 of 64": "34. institUtional BUildinG — delhi PkG-81",
+      "34. institutional building — delhi pkg-81": "Client",
+      "inr 41.58 cr": "Completed",
+      "april 21, 2025 · certificate cc/51/2025/081": "Buildings works for National Special Projects Office completed 2025.",
+      "35. extradosed bridge — uttar pradesh pkg-130": "Client",
+      "jal nigam, uttar pradesh (prime)": "Category",
+      "inr 41.45 cr": "Completed",
+      "may 18, 2018 · certificate cc/58/2018/130": "Large Bridges works for Jal Nigam, Uttar Pradesh completed 2018.",
+      "36. process piping package — delhi pkg-82": "Client",
+      "subarnarekha valley corporation (jv partner)": "Category",
+      "inr 41.42 cr": "Completed",
+      "july 20, 2016 · certificate cc/9/2016/082": "Industrial Epc works for Subarnarekha Valley Corporation completed 2016.",
+      "page 24 of 64": "37. Canal lininG — delhi PkG-34",
+      "37. canal lining — delhi pkg-34": "Client",
+      "inr 41.35 cr": "Completed",
+      "august 20, 2010 · certificate cc/51/2010/034": "Irrigation works for National Special Projects Office completed 2010.",
+      "38. process piping package — delhi pkg-75": "Client",
+      "inr 41.34 cr": "Completed",
+      "november 9, 2023 · certificate cc/42/2023/075": "Industrial Epc works for Trishakti Power Generation Corporation completed 2023.",
+      "39. hospital block — west bengal pkg-60": "Client",
+      "inr 40.37 cr": "Completed",
+      "september 7, 2024 · certificate cc/22/2024/060": "Buildings works for Irrigation & Waterways Dept, Govt of West Bengal completed 2024.",
+      "page 25 of 64": "40. extradosed BridGe — GUJarat PkG-106",
+      "40. extradosed bridge — gujarat pkg-106": "Client",
+      "inr 40.00 cr": "Completed",
+      "december 8, 2012 · certificate cc/34/2012/106": "Large Bridges works for National Special Projects Office completed 2012.",
+      "41. steel truss bridge — rajasthan pkg-118": "Client",
+      "central works & buildings bureau (jv partner)": "Category",
+      "october 2, 2017 · certificate cc/36/2017/118": "Large Bridges works for Central Works & Buildings Bureau completed 2017.",
+      "42. six-lane highway — odisha pkg-122": "Client",
+      "public health engineering dept, odisha (prime)": "Category",
+      "june 12, 2011 · certificate cc/57/2011/122": "Expressways works for Public Health Engineering Dept, Odisha completed 2011.",
+      "page 26 of 64": "43. rail tUnnel — West BenGal PkG-123",
+      "43. rail tunnel — west bengal pkg-123": "Client",
+      "february 26, 2010 · certificate cc/25/2010/123": "Tunnels works for Trishakti Power Generation Corporation completed 2010.",
+      "44. ring road — west bengal pkg-128": "Client",
+      "may 23, 2023 · certificate cc/18/2023/128": "Expressways works for Public Works Department, Govt of West Bengal completed 2023.",
+      "45. hydro tunnel — uttar pradesh pkg-129": "Client",
+      "april 20, 2016 · certificate cc/37/2016/129": "Tunnels works for National Expressway Development Authority completed 2016.",
+      "page 27 of 64": "46. hiGhWay ConstrUCtion — raJasthan PkG-77",
+      "46. highway construction — rajasthan pkg-77": "Client",
+      "inr 39.90 cr": "Completed",
+      "october 23, 2013 · certificate cc/14/2013/077": "Roads Highways works for Arunodaya Infrastructure completed 2013.",
+      "47. rob — gujarat pkg-71": "Client",
+      "jal nigam, gujarat (prime)": "Category",
+      "inr 38.81 cr": "Completed",
+      "february 20, 2025 · certificate cc/24/2025/071": "Bridges Flyovers works for Jal Nigam, Gujarat completed 2025.",
+      "48. sewerage network — odisha pkg-17": "Client",
+      "inr 38.54 cr": "Completed",
+      "march 27, 2024 · certificate cc/23/2024/017": "Sewerage Drainage works for Public Health Engineering Dept, Odisha completed 2024.",
+      "page 28 of 64": "49. riGid Pavement — madhya Pradesh PkG-7",
+      "49. rigid pavement — madhya pradesh pkg-7": "Client",
+      "inr 37.52 cr": "Completed",
+      "may 9, 2020 · certificate cc/27/2020/007": "Roads Highways works for Mahanadi Steel Corporation completed 2020.",
+      "50. check dam — delhi pkg-76": "Client",
+      "suvarna projects limited (jv partner)": "Category",
+      "inr 37.04 cr": "Completed",
+      "october 23, 2017 · certificate cc/46/2017/076": "Irrigation works for Suvarna Projects Limited completed 2017.",
+      "51. rob — delhi pkg-36": "Client",
+      "inr 36.63 cr": "Completed",
+      "may 11, 2016 · certificate cc/48/2016/036": "Bridges Flyovers works for Arunodaya Infrastructure completed 2016.",
+      "page 29 of 64": "52. PUmPinG station — odisha PkG-79",
+      "52. pumping station — odisha pkg-79": "Client",
+      "central works & buildings bureau (prime)": "Category",
+      "water treatment": "Executed Value",
+      "inr 35.86 cr": "Completed",
+      "june 30, 2018 · certificate cc/2/2018/079": "Water Treatment works for Central Works & Buildings Bureau completed 2018.",
+      "53. institutional building — odisha pkg-95": "Client",
+      "inr 35.22 cr": "Completed",
+      "february 22, 2018 · certificate cc/2/2018/095": "Buildings works for Central Works & Buildings Bureau completed 2018.",
+      "54. water treatment plant — madhya pradesh pkg-23": "Client",
+      "inr 34.92 cr": "Completed",
+      "august 28, 2022 · certificate cc/27/2022/023": "Water Treatment works for Mahanadi Steel Corporation completed 2022.",
+      "page 30 of 64": "55. rCC BridGe — GUJarat PkG-1",
+      "55. rcc bridge — gujarat pkg-1": "Client",
+      "inr 33.38 cr": "Completed",
+      "february 6, 2011 · certificate cc/34/2011/001": "Bridges Flyovers works for National Special Projects Office completed 2011.",
+      "56. stp — jharkhand pkg-38": "Client",
+      "inr 32.14 cr": "Completed",
+      "september 7, 2013 · certificate cc/19/2013/038": "Sewerage Drainage works for Central Works & Buildings Bureau completed 2013.",
+      "57. hospital block — west bengal pkg-46": "Client",
+      "lakshya engineering & construction (jv partner)": "Category",
+      "inr 31.89 cr": "Completed",
+      "february 3, 2016 · certificate cc/15/2016/046": "Buildings works for Lakshya Engineering & Construction completed 2016.",
+      "page 31 of 64": "58. WtP aUGmentation — Jharkhand PkG-72",
+      "58. wtp augmentation — jharkhand pkg-72": "Client",
+      "jharkhand municipal corporation (prime)": "Category",
+      "inr 31.46 cr": "Completed",
+      "december 11, 2010 · certificate cc/55/2010/072": "Water Treatment works for Jharkhand Municipal Corporation completed 2010.",
+      "59. check dam — uttar pradesh pkg-83": "Client",
+      "inr 31.40 cr": "Completed",
+      "june 12, 2016 · certificate cc/50/2016/083": "Irrigation works for Mega Infrastructure Authority completed 2016.",
+      "60. lift irrigation — rajasthan pkg-41": "Client",
+      "inr 31.07 cr": "Completed",
+      "july 26, 2021 · certificate cc/5/2021/041": "Irrigation works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2021.",
+      "page 32 of 64": "61. CheCk dam — maharashtra PkG-97",
+      "61. check dam — maharashtra pkg-97": "Client",
+      "inr 30.73 cr": "Completed",
+      "april 12, 2018 · certificate cc/52/2018/097": "Irrigation works for Public Works Department, Govt of Maharashtra completed 2018.",
+      "62. rigid pavement — madhya pradesh pkg-49": "Client",
+      "inr 29.87 cr": "Completed",
+      "february 26, 2025 · certificate cc/27/2025/049": "Roads Highways works for Mahanadi Steel Corporation completed 2025.",
+      "63. pumping station — uttar pradesh pkg-65": "Client",
+      "inr 28.41 cr": "Completed",
+      "november 15, 2018 · certificate cc/58/2018/065": "Water Treatment works for Jal Nigam, Uttar Pradesh completed 2018.",
+      "page 33 of 64": "64. stormWater drainaGe — GUJarat PkG-80",
+      "64. stormwater drainage — gujarat pkg-80": "Client",
+      "inr 28.38 cr": "Completed",
+      "march 12, 2013 · certificate cc/8/2013/080": "Sewerage Drainage works for Trishakti Power Generation Corporation completed 2013.",
+      "65. process piping package — tamil nadu pkg-54": "Client",
+      "inr 27.05 cr": "Completed",
+      "june 6, 2015 · certificate cc/44/2015/054": "Industrial Epc works for Mahanadi Steel Corporation completed 2015.",
+      "66. pumping station — tamil nadu pkg-16": "Client",
+      "tamil nadu municipal corporation (prime)": "Category",
+      "inr 26.80 cr": "Completed",
+      "march 2, 2013 · certificate cc/4/2013/016": "Water Treatment works for Tamil Nadu Municipal Corporation completed 2013.",
+      "page 34 of 64": "67. Water treatment Plant — raJasthan PkG-58",
+      "67. water treatment plant — rajasthan pkg-58": "Client",
+      "inr 26.39 cr": "Completed",
+      "september 27, 2013 · certificate cc/5/2013/058": "Water Treatment works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2013.",
+      "68. canal lining — tamil nadu pkg-90": "Client",
+      "inr 26.09 cr": "Completed",
+      "june 20, 2014 · certificate cc/1/2014/090": "Irrigation works for Public Works Department, Govt of Tamil Nadu completed 2014.",
+      "69. rob — uttar pradesh pkg-85": "Client",
+      "inr 25.10 cr": "Completed",
+      "march 3, 2020 · certificate cc/59/2020/085": "Bridges Flyovers works for Trishakti Power Generation Corporation completed 2020.",
+      "page 35 of 64": "70. WtP aUGmentation — Uttar Pradesh PkG-2",
+      "70. wtp augmentation — uttar pradesh pkg-2": "Client",
+      "inr 24.85 cr": "Completed",
+      "january 11, 2013 · certificate cc/50/2013/002": "Water Treatment works for Mega Infrastructure Authority completed 2013.",
+      "71. substation epc — madhya pradesh pkg-5": "Client",
+      "inr 24.41 cr": "Completed",
+      "april 26, 2012 · certificate cc/29/2012/005": "Industrial Epc works for Suvarna Projects Limited completed 2012.",
+      "72. lift irrigation — odisha pkg-6": "Client",
+      "inr 24.31 cr": "Completed",
+      "february 7, 2020 · certificate cc/57/2020/006": "Irrigation works for Public Health Engineering Dept, Odisha completed 2020.",
+      "page 36 of 64": "73. institUtional BUildinG — Uttar Pradesh PkG-11",
+      "73. institutional building — uttar pradesh pkg-11": "Client",
+      "inr 24.05 cr": "Completed",
+      "october 8, 2024 · certificate cc/45/2024/011": "Buildings works for Peninsular Petroleum Corporation completed 2024.",
+      "74. lift irrigation — madhya pradesh pkg-20": "Client",
+      "inr 23.92 cr": "Completed",
+      "july 7, 2013 · certificate cc/20/2013/020": "Irrigation works for National Expressway Development Authority completed 2013.",
+      "75. sewerage network — rajasthan pkg-10": "Client",
+      "inr 23.48 cr": "Completed",
+      "may 3, 2011 · certificate cc/39/2011/010": "Sewerage Drainage works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2011.",
+      "page 37 of 64": "76. lift irriGation — West BenGal PkG-13",
+      "76. lift irrigation — west bengal pkg-13": "Client",
+      "inr 23.20 cr": "Completed",
+      "june 4, 2021 · certificate cc/12/2021/013": "Irrigation works for Suvarna Projects Limited completed 2021.",
+      "77. flyover — delhi pkg-99": "Client",
+      "inr 23.16 cr": "Completed",
+      "may 18, 2016 · certificate cc/30/2016/099": "Bridges Flyovers works for Meridian Constructors & Co. completed 2016.",
+      "78. stormwater drainage — odisha pkg-59": "Client",
+      "inr 22.58 cr": "Completed",
+      "february 18, 2023 · certificate cc/23/2023/059": "Sewerage Drainage works for Public Health Engineering Dept, Odisha completed 2023.",
+      "page 38 of 64": "79. roB — Jharkhand PkG-29",
+      "79. rob — jharkhand pkg-29": "Client",
+      "inr 22.38 cr": "Completed",
+      "july 12, 2023 · certificate cc/31/2023/029": "Bridges Flyovers works for Arunodaya Infrastructure completed 2023.",
+      "80. stp — west bengal pkg-73": "Client",
+      "inr 21.99 cr": "Completed",
+      "june 11, 2012 · certificate cc/12/2012/073": "Sewerage Drainage works for Suvarna Projects Limited completed 2012.",
+      "81. stp — jharkhand pkg-94": "Client",
+      "inr 21.93 cr": "Completed",
+      "september 14, 2014 · certificate cc/60/2014/094": "Sewerage Drainage works for Subarnarekha Valley Corporation completed 2014.",
+      "page 39 of 64": "82. WtP aUGmentation — maharashtra PkG-93",
+      "82. wtp augmentation — maharashtra pkg-93": "Client",
+      "inr 21.42 cr": "Completed",
+      "may 26, 2021 · certificate cc/52/2021/093": "Water Treatment works for Public Works Department, Govt of Maharashtra completed 2021.",
+      "83. rigid pavement — jharkhand pkg-56": "Client",
+      "inr 21.15 cr": "Completed",
+      "march 6, 2017 · certificate cc/54/2017/056": "Roads Highways works for National Expressway Development Authority completed 2017.",
+      "84. process piping package — gujarat pkg-33": "Client",
+      "inr 21.04 cr": "Completed",
+      "september 2, 2017 · certificate cc/8/2017/033": "Industrial Epc works for Trishakti Power Generation Corporation completed 2017.",
+      "page 40 of 64": "85. stP — GUJarat PkG-3",
+      "85. stp — gujarat pkg-3": "Client",
+      "public works department, govt of gujarat (prime)": "Category",
+      "inr 20.92 cr": "Completed",
+      "april 11, 2016 · certificate cc/35/2016/003": "Sewerage Drainage works for Public Works Department, Govt of Gujarat completed 2016.",
+      "86. highway construction — maharashtra pkg-91": "Client",
+      "inr 20.87 cr": "Completed",
+      "february 5, 2012 · certificate cc/26/2012/091": "Roads Highways works for Subarnarekha Valley Corporation completed 2012.",
+      "87. residential quarters — delhi pkg-88": "Client",
+      "inr 20.05 cr": "Completed",
+      "october 25, 2023 · certificate cc/48/2023/088": "Buildings works for Arunodaya Infrastructure completed 2023.",
+      "page 41 of 64": "88. CheCk dam — raJasthan PkG-27",
+      "88. check dam — rajasthan pkg-27": "Client",
+      "inr 19.52 cr": "Completed",
+      "september 7, 2023 · certificate cc/5/2023/027": "Irrigation works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2023.",
+      "89. road widening — maharashtra pkg-21": "Client",
+      "inr 19.33 cr": "Completed",
+      "april 22, 2011 · certificate cc/52/2011/021": "Roads Highways works for Public Works Department, Govt of Maharashtra completed 2011.",
+      "90. stormwater drainage — madhya pradesh pkg-24": "Client",
+      "inr 19.19 cr": "Completed",
+      "april 13, 2018 · certificate cc/47/2018/024": "Sewerage Drainage works for Meridian Constructors & Co. completed 2018.",
+      "page 42 of 64": "91. BitUminoUs overlay — odisha PkG-63",
+      "91. bituminous overlay — odisha pkg-63": "Client",
+      "inr 18.44 cr": "Completed",
+      "october 29, 2020 · certificate cc/57/2020/063": "Roads Highways works for Public Health Engineering Dept, Odisha completed 2020.",
+      "92. stp — odisha pkg-45": "Client",
+      "inr 18.28 cr": "Completed",
+      "july 13, 2020 · certificate cc/23/2020/045": "Sewerage Drainage works for Public Health Engineering Dept, Odisha completed 2020.",
+      "93. wtp augmentation — west bengal pkg-30": "Client",
+      "inr 18.26 cr": "Completed",
+      "june 28, 2021 · certificate cc/49/2021/030": "Water Treatment works for Lakshya Engineering & Construction completed 2021.",
+      "page 43 of 64": "94. road WideninG — madhya Pradesh PkG-42",
+      "94. road widening — madhya pradesh pkg-42": "Client",
+      "may 22, 2022 · certificate cc/47/2022/042": "Roads Highways works for Meridian Constructors & Co. completed 2022.",
+      "95. hospital block — odisha pkg-39": "Client",
+      "inr 18.17 cr": "Completed",
+      "december 5, 2014 · certificate cc/28/2014/039": "Buildings works for Peninsular Petroleum Corporation completed 2014.",
+      "96. water treatment plant — west bengal pkg-44": "Client",
+      "inr 17.83 cr": "Completed",
+      "april 16, 2016 · certificate cc/25/2016/044": "Water Treatment works for Trishakti Power Generation Corporation completed 2016.",
+      "page 44 of 64": "97. PUmPinG station — raJasthan PkG-100",
+      "97. pumping station — rajasthan pkg-100": "Client",
+      "inr 17.73 cr": "Completed",
+      "december 13, 2011 · certificate cc/39/2011/100": "Water Treatment works for Irrigation & Waterways Dept, Govt of Rajasthan completed 2011.",
+      "98. sewerage network — maharashtra pkg-87": "Client",
+      "inr 17.66 cr": "Completed",
+      "february 23, 2011 · certificate cc/52/2011/087": "Sewerage Drainage works for Public Works Department, Govt of Maharashtra completed 2011.",
+      "99. flyover — gujarat pkg-8": "Client",
+      "meridian constructors & co. (jv partner)": "Category",
+      "inr 17.08 cr": "Completed",
+      "november 17, 2010 · certificate cc/13/2010/008": "Bridges Flyovers works for Meridian Constructors & Co. completed 2010.",
+      "page 45 of 64": "100. Water treatment Plant — delhi PkG-86",
+      "100. water treatment plant — delhi pkg-86": "Client",
+      "inr 16.40 cr": "Completed",
+      "february 4, 2016 · certificate cc/62/2016/086": "Water Treatment works for Peninsular Petroleum Corporation completed 2016.",
+      "101. residential quarters — west bengal pkg-67": "Client",
+      "inr 16.17 cr": "Completed",
+      "february 8, 2016 · certificate cc/15/2016/067": "Buildings works for Lakshya Engineering & Construction completed 2016.",
+      "102. stormwater drainage — tamil nadu pkg-52": "Client",
+      "inr 15.52 cr": "Completed",
+      "february 10, 2015 · certificate cc/44/2015/052": "Sewerage Drainage works for Mahanadi Steel Corporation completed 2015.",
+      "page 46 of 64": "103. sUBstation ePC — tamil nadU PkG-19",
+      "103. substation epc — tamil nadu pkg-19": "Client",
+      "inr 15.39 cr": "Completed",
+      "august 13, 2014 · certificate cc/44/2014/019": "Industrial Epc works for Mahanadi Steel Corporation completed 2014.",
+      "104. wtp augmentation — west bengal pkg-51": "Client",
+      "inr 14.92 cr": "Completed",
+      "december 16, 2022 · certificate cc/49/2022/051": "Water Treatment works for Lakshya Engineering & Construction completed 2022.",
+      "105. road widening — odisha pkg-98": "Client",
+      "peninsular petroleum corporation (jv partner)": "Category",
+      "inr 14.85 cr": "Completed",
+      "september 27, 2019 · certificate cc/28/2019/098": "Roads Highways works for Peninsular Petroleum Corporation completed 2019.",
+      "page 47 of 64": "106. institUtional BUildinG — GUJarat PkG-32",
+      "106. institutional building — gujarat pkg-32": "Client",
+      "inr 14.57 cr": "Completed",
+      "december 7, 2023 · certificate cc/61/2023/032": "Buildings works for Mahanadi Steel Corporation completed 2023.",
+      "107. flyover — uttar pradesh pkg-43": "Client",
+      "inr 14.03 cr": "Completed",
+      "march 30, 2019 · certificate cc/59/2019/043": "Bridges Flyovers works for Trishakti Power Generation Corporation completed 2019.",
+      "inr 13.65 cr": "Completed",
+      "january 15, 2023 · certificate cc/59/2023/089": "Industrial Epc works for Trishakti Power Generation Corporation completed 2023.",
+      "page 48 of 64": "109. Canal lininG — Uttar Pradesh PkG-48",
+      "109. canal lining — uttar pradesh pkg-48": "Client",
+      "inr 13.56 cr": "Completed",
+      "july 29, 2010 · certificate cc/43/2010/048": "Irrigation works for Subarnarekha Valley Corporation completed 2010.",
+      "110. stp — gujarat pkg-66": "Client",
+      "public health engineering dept, gujarat (prime)": "Category",
+      "inr 13.40 cr": "Completed",
+      "july 4, 2017 · certificate cc/40/2017/066": "Sewerage Drainage works for Public Health Engineering Dept, Gujarat completed 2017.",
+      "111. rigid pavement — delhi pkg-28": "Client",
+      "inr 13.02 cr": "Completed",
+      "may 19, 2019 · certificate cc/46/2019/028": "Roads Highways works for Suvarna Projects Limited completed 2019.",
+      "page 49 of 64": "112. material handlinG Plant — Uttar Pradesh PkG-47",
+      "inr 12.94 cr": "Completed",
+      "september 20, 2013 · certificate cc/3/2013/047": "Industrial Epc works for National Expressway Development Authority completed 2013.",
+      "113. institutional building — west bengal pkg-74": "Client",
+      "inr 12.80 cr": "Completed",
+      "august 11, 2018 · certificate cc/33/2018/074": "Buildings works for Mega Infrastructure Authority completed 2018.",
+      "partner)": "Category",
+      "inr 12.33 cr": "Completed",
+      "july 16, 2025 · certificate cc/56/2025/026": "Industrial Epc works for Irrigation & Waterways Dept, Govt of Uttar Pradesh completed 2025.",
+      "page 50 of 64": "115. CheCk dam — delhi PkG-55",
+      "115. check dam — delhi pkg-55": "Client",
+      "inr 12.13 cr": "Completed",
+      "june 23, 2017 · certificate cc/42/2017/055": "Irrigation works for Trishakti Power Generation Corporation completed 2017.",
+      "116. wtp augmentation — tamil nadu pkg-9": "Client",
+      "inr 11.32 cr": "Completed",
+      "april 17, 2024 · certificate cc/10/2024/009": "Water Treatment works for Mahanadi Steel Corporation completed 2024.",
+      "117. residential quarters — odisha pkg-4": "Client",
+      "inr 11.23 cr": "Completed",
+      "may 17, 2023 · certificate cc/28/2023/004": "Buildings works for Peninsular Petroleum Corporation completed 2023.",
+      "page 51 of 64": "118. ProCess PiPinG PaCkaGe — Uttar Pradesh PkG-40",
+      "inr 10.13 cr": "Completed",
+      "july 17, 2014 · certificate cc/37/2014/040": "Industrial Epc works for National Expressway Development Authority completed 2014.",
+      "119. road widening — west bengal pkg-14": "Client",
+      "inr 10.11 cr": "Completed",
+      "september 30, 2024 · certificate cc/25/2024/014": "Roads Highways works for Trishakti Power Generation Corporation completed 2024.",
+      "120. box culvert chain — tamil nadu pkg-92": "Client",
+      "inr 10.05 cr": "Completed",
+      "february 14, 2012 · certificate cc/4/2012/092": "Bridges Flyovers works for Tamil Nadu Municipal Corporation completed 2012.",
+      "page 52 of 64": "121. hosPital BloCk — West BenGal PkG-18",
+      "121. hospital block — west bengal pkg-18": "Client",
+      "inr 9.80 cr": "Completed",
+      "march 22, 2013 · certificate cc/49/2013/018": "Buildings works for Lakshya Engineering & Construction completed 2013.",
+      "122. flyover — jharkhand pkg-78": "Client",
+      "june 9, 2019 · certificate cc/60/2019/078": "Bridges Flyovers works for Subarnarekha Valley Corporation completed 2019.",
+      "123. flyover — delhi pkg-15": "Client",
+      "inr 9.08 cr": "Completed",
+      "march 2, 2023 · certificate cc/46/2023/015": "Bridges Flyovers works for Suvarna Projects Limited completed 2023.",
+      "page 53 of 64": "124. hosPital BloCk — raJasthan PkG-53",
+      "124. hospital block — rajasthan pkg-53": "Client",
+      "inr 9.03 cr": "Completed",
+      "july 28, 2015 · certificate cc/36/2015/053": "Buildings works for Central Works & Buildings Bureau completed 2015.",
+      "125. rcc bridge — jharkhand pkg-22": "Client",
+      "jharkhand municipal corporation (jv partner)": "Category",
+      "inr 8.74 cr": "Completed",
+      "june 1, 2013 · certificate cc/55/2013/022": "Bridges Flyovers works for Jharkhand Municipal Corporation completed 2013.",
+      "126. box culvert chain — madhya pradesh pkg-57": "Client",
+      "inr 7.29 cr": "Completed",
+      "october 21, 2020 · certificate cc/47/2020/057": "Bridges Flyovers works for Meridian Constructors & Co. completed 2020.",
+      "page 54 of 64": "127. rUral road UPGradation — Jharkhand PkG-153",
+      "127. rural road upgradation — jharkhand pkg-153": "Client",
+      "roads maintenance": "Executed Value",
+      "inr 6.95 cr": "Completed",
+      "november 3, 2017 · certificate cc/55/2017/153": "Roads Maintenance works for Jharkhand Municipal Corporation completed 2017.",
+      "128. pipeline laying — jharkhand pkg-131": "Client",
+      "inr 6.92 cr": "Completed",
+      "august 17, 2021 · certificate cc/7/2021/131": "Water Supply works for Jal Nigam, Jharkhand completed 2021.",
+      "129. community centre — jharkhand pkg-133": "Client",
+      "small buildings": "Executed Value",
+      "inr 6.87 cr": "Completed",
+      "march 25, 2012 · certificate cc/19/2012/133": "Small Buildings works for Central Works & Buildings Bureau completed 2012.",
+      "page 55 of 64": "130. WtP aUGmentation — delhi PkG-37",
+      "130. wtp augmentation — delhi pkg-37": "Client",
+      "inr 6.75 cr": "Completed",
+      "august 27, 2020 · certificate cc/42/2020/037": "Water Treatment works for Trishakti Power Generation Corporation completed 2020.",
+      "131. material handling plant — maharashtra pkg-96": "Client",
+      "inr 6.08 cr": "Completed",
+      "may 4, 2013 · certificate cc/21/2013/096": "Industrial Epc works for Maharashtra Municipal Corporation completed 2013.",
+      "132. road widening — uttar pradesh pkg-84": "Client",
+      "inr 5.85 cr": "Completed",
+      "june 7, 2018 · certificate cc/58/2018/084": "Roads Highways works for Jal Nigam, Uttar Pradesh completed 2018.",
+      "page 56 of 64": "133. drainaGe Works — Uttar Pradesh PkG-144",
+      "133. drainage works — uttar pradesh pkg-144": "Client",
+      "inr 5.67 cr": "Completed",
+      "january 3, 2017 · certificate cc/32/2017/144": "Roads Maintenance works for Lakshya Engineering & Construction completed 2017.",
+      "134. anganwadi centre — jharkhand pkg-142": "Client",
+      "inr 5.43 cr": "Completed",
+      "march 9, 2013 · certificate cc/54/2013/142": "Small Buildings works for National Expressway Development Authority completed 2013.",
+      "inr 4.80 cr": "Completed",
+      "december 27, 2024 · certificate cc/56/2024/134": "Water Supply works for Irrigation & Waterways Dept, Govt of Uttar Pradesh completed 2024.",
+      "page 57 of 64": "136. drainaGe Works — tamil nadU PkG-141",
+      "136. drainage works — tamil nadu pkg-141": "Client",
+      "inr 3.99 cr": "Completed",
+      "april 12, 2023 · certificate cc/44/2023/141": "Roads Maintenance works for Mahanadi Steel Corporation completed 2023.",
+      "137. pipeline laying — tamil nadu pkg-143": "Client",
+      "inr 3.14 cr": "Completed",
+      "november 4, 2016 · certificate cc/10/2016/143": "Water Supply works for Mahanadi Steel Corporation completed 2016.",
+      "138. school building — madhya pradesh pkg-145": "Client",
+      "inr 3.00 cr": "Completed",
+      "june 26, 2025 · certificate cc/16/2025/145": "Small Buildings works for Mega Infrastructure Authority completed 2025.",
+      "page 58 of 64": "139. rUral road UPGradation — Jharkhand PkG-150",
+      "139. rural road upgradation — jharkhand pkg-150": "Client",
+      "inr 2.99 cr": "Completed",
+      "september 26, 2017 · certificate cc/31/2017/150": "Roads Maintenance works for Arunodaya Infrastructure completed 2017.",
+      "140. pipeline laying — maharashtra pkg-140": "Client",
+      "inr 2.82 cr": "Completed",
+      "august 28, 2019 · certificate cc/11/2019/140": "Water Supply works for Peninsular Petroleum Corporation completed 2019.",
+      "141. community centre — uttar pradesh pkg-139": "Client",
+      "inr 2.80 cr": "Completed",
+      "january 30, 2020 · certificate cc/37/2020/139": "Small Buildings works for National Expressway Development Authority completed 2020.",
+      "page 59 of 64": "142. mini Water sUPPly — madhya Pradesh PkG-146",
+      "142. mini water supply — madhya pradesh pkg-146": "Client",
+      "february 10, 2014 · certificate cc/29/2014/146": "Water Supply works for Suvarna Projects Limited completed 2014.",
+      "143. bituminous overlay — odisha pkg-35": "Client",
+      "inr 2.77 cr": "Completed",
+      "october 15, 2025 · certificate cc/57/2025/035": "Roads Highways works for Public Health Engineering Dept, Odisha completed 2025.",
+      "144. anganwadi centre — gujarat pkg-151": "Client",
+      "inr 2.50 cr": "Completed",
+      "june 3, 2020 · certificate cc/8/2020/151": "Small Buildings works for Trishakti Power Generation Corporation completed 2020.",
+      "page 60 of 64": "145. drainaGe Works — GUJarat PkG-135",
+      "145. drainage works — gujarat pkg-135": "Client",
+      "inr 2.33 cr": "Completed",
+      "october 16, 2010 · certificate cc/40/2010/135": "Roads Maintenance works for Public Health Engineering Dept, Gujarat completed 2010.",
+      "146. patch repair — delhi pkg-132": "Client",
+      "inr 2.04 cr": "Completed",
+      "february 17, 2015 · certificate cc/9/2015/132": "Roads Maintenance works for Subarnarekha Valley Corporation completed 2015.",
+      "147. school building — delhi pkg-154": "Client",
+      "inr 1.94 cr": "Completed",
+      "september 5, 2017 · certificate cc/9/2017/154": "Small Buildings works for Subarnarekha Valley Corporation completed 2017.",
+      "page 61 of 64": "148. PiPeline layinG — delhi PkG-137",
+      "148. pipeline laying — delhi pkg-137": "Client",
+      "inr 1.92 cr": "Completed",
+      "january 31, 2018 · certificate cc/42/2018/137": "Water Supply works for Trishakti Power Generation Corporation completed 2018.",
+      "149. patch repair — maharashtra pkg-147": "Client",
+      "maharashtra municipal corporation (jv partner)": "Category",
+      "inr 1.90 cr": "Completed",
+      "august 18, 2021 · certificate cc/21/2021/147": "Roads Maintenance works for Maharashtra Municipal Corporation completed 2021.",
+      "150. mini water supply — west bengal pkg-152": "Client",
+      "inr 1.67 cr": "Completed",
+      "february 17, 2025 · certificate cc/22/2025/152": "Water Supply works for Irrigation & Waterways Dept, Govt of West Bengal completed 2025.",
+      "page 62 of 64": "151. handPUmP installation — GUJarat PkG-155",
+      "151. handpump installation — gujarat pkg-155": "Client",
+      "gujarat municipal corporation (prime)": "Category",
+      "inr 1.64 cr": "Completed",
+      "august 28, 2024 · certificate cc/38/2024/155": "Water Supply works for Gujarat Municipal Corporation completed 2024.",
+      "152. school building — delhi pkg-148": "Client",
+      "inr 1.54 cr": "Completed",
+      "april 16, 2022 · certificate cc/42/2022/148": "Small Buildings works for Trishakti Power Generation Corporation completed 2022.",
+      "153. school building — odisha pkg-136": "Client",
+      "inr 1.22 cr": "Completed",
+      "may 8, 2015 · certificate cc/57/2015/136": "Small Buildings works for Public Health Engineering Dept, Odisha completed 2015.",
+      "page 63 of 64": "154. PatCh rePair — GUJarat PkG-138",
+      "154. patch repair — gujarat pkg-138": "Client",
+      "inr 1.20 cr": "Completed",
+      "march 2, 2018 · certificate cc/35/2018/138": "Roads Maintenance works for Public Works Department, Govt of Gujarat completed 2018.",
+      "155. mini water supply — delhi pkg-149": "Client",
+      "inr 1.06 cr": "Completed",
+      "april 10, 2011 · certificate cc/46/2011/149": "Water Supply works for Suvarna Projects Limited completed 2011."
+    },
     "money_mentions": [
       [
-        "INR\n\n\n127.78\n\n\nCr",
+        "INR\n200.00\nCr",
+        2000000000.0
+      ],
+      [
+        "INR\n200.00\nCr",
+        2000000000.0
+      ],
+      [
+        "INR\n200.00\nCr",
+        2000000000.0
+      ],
+      [
+        "INR\n198.88\nCr",
+        1988800000.0
+      ],
+      [
+        "INR\n172.22\nCr",
+        1722200000.0
+      ],
+      [
+        "INR\n146.48\nCr",
+        1464800000.0
+      ],
+      [
+        "INR\n132.97\nCr",
+        1329700000.0
+      ],
+      [
+        "INR\n129.88\nCr",
+        1298800000.0
+      ],
+      [
+        "INR\n127.78\nCr",
         1277800000.0
       ],
       [
-        "INR\n\n\n113.60\n\n\nCr",
+        "INR\n113.60\nCr",
         1136000000.0
       ],
       [
-        "INR\n\n\n106.19\n\n\nCr",
+        "INR\n106.19\nCr",
         1061900000.0
       ],
       [
-        "INR\n\n\n101.57\n\n\nCr",
+        "INR\n101.57\nCr",
         1015699999.9999999
       ],
       [
-        "INR\n\n\n97.72 Cr",
+        "INR\n97.72 Cr",
         977200000.0
       ],
       [
-        "INR\n\n\n95.46 Cr",
+        "INR\n95.46 Cr",
         954599999.9999999
       ],
       [
-        "INR\n\n\n91.04 Cr",
+        "INR\n91.04 Cr",
         910400000.0000001
       ],
       [
-        "INR\n\n\n86.09 Cr",
+        "INR\n86.09 Cr",
         860900000.0
       ],
       [
-        "INR\n\n\n81.44 Cr",
+        "INR\n81.44 Cr",
         814400000.0
       ],
       [
-        "INR\n\n\n77.59 Cr",
+        "INR\n77.59 Cr",
         775900000.0
       ],
       [
-        "INR\n\n\n74.66 Cr",
+        "INR\n74.66 Cr",
         746600000.0
       ],
       [
-        "INR\n\n\n73.02 Cr",
+        "INR\n73.02 Cr",
         730200000.0
       ],
       [
-        "INR\n\n\n72.10 Cr",
+        "INR\n72.10 Cr",
         721000000.0
       ],
       [
-        "INR\n\n\n68.24 Cr",
+        "INR\n68.24 Cr",
         682400000.0
       ],
       [
-        "INR\n\n\n52.99 Cr",
-        529900000.0
-      ],
-      [
-        "INR\n\n\n52.63 Cr",
-        526300000.0
-      ],
-      [
-        "INR\n\n\n49.11 Cr",
-        491100000.0
-      ],
-      [
-        "INR\n\n\n47.41 Cr",
-        474099999.99999994
-      ],
-      [
-        "INR\n\n\n46.73 Cr",
-        467299999.99999994
-      ],
-      [
-        "INR\n\n\n44.90 Cr",
-        449000000.0
-      ],
-      [
-        "INR\n\n\n43.42 Cr",
-        434200000.0
-      ],
-      [
-        "INR\n\n\n41.71 Cr",
-        417100000.0
-      ],
-      [
-        "INR\n\n\n41.58 Cr",
-        415800000.0
-      ],
-      [
-        "INR\n\n\n68.09 Cr",
+        "INR\n68.09 Cr",
         680900000.0
       ],
       [
-        "INR\n\n\n58.69 Cr",
+        "INR\n58.69 Cr",
         586900000.0
       ],
       [
-        "INR\n\n\n57.37 Cr",
+        "INR\n57.37 Cr",
         573700000.0
       ],
       [
-        "INR\n\n\n41.45 Cr",
+        "INR\n52.99 Cr",
+        529900000.0
+      ],
+      [
+        "INR\n52.63 Cr",
+        526300000.0
+      ],
+      [
+        "INR\n49.11 Cr",
+        491100000.0
+      ],
+      [
+        "INR\n47.41 Cr",
+        474099999.99999994
+      ],
+      [
+        "INR\n46.73 Cr",
+        467299999.99999994
+      ],
+      [
+        "INR\n44.90 Cr",
+        449000000.0
+      ],
+      [
+        "INR\n43.42 Cr",
+        434200000.0
+      ],
+      [
+        "INR\n41.71 Cr",
+        417100000.0
+      ],
+      [
+        "INR\n41.58 Cr",
+        415800000.0
+      ],
+      [
+        "INR\n41.45 Cr",
         414500000.0
       ],
       [
-        "INR\n\n\n41.42 Cr",
+        "INR\n41.42 Cr",
         414200000.0
       ],
       [
-        "INR\n\n\n41.35 Cr",
+        "INR\n41.35 Cr",
         413500000.0
       ],
       [
-        "INR\n\n\n41.34 Cr",
+        "INR\n41.34 Cr",
         413400000.00000006
       ],
       [
-        "INR\n\n\n40.37 Cr",
+        "INR\n40.37 Cr",
         403700000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "INR\n\n\n40.00 Cr",
+        "INR\n40.00 Cr",
         400000000.0
       ],
       [
-        "rs\n\n\n\n48",
-        48.0
-      ],
-      [
-        "INR\n\n\n37.04 Cr",
-        370400000.0
-      ],
-      [
-        "INR\n\n\n39.90 Cr",
+        "INR\n39.90 Cr",
         399000000.0
       ],
       [
-        "INR\n\n\n38.81 Cr",
+        "INR\n38.81 Cr",
         388100000.0
       ],
       [
-        "INR\n\n\n38.54 Cr",
+        "INR\n38.54 Cr",
         385400000.0
       ],
       [
-        "INR\n\n\n37.52 Cr",
+        "INR\n37.52 Cr",
         375200000.00000006
       ],
       [
-        "INR\n\n\n36.63 Cr",
+        "INR\n37.04 Cr",
+        370400000.0
+      ],
+      [
+        "INR\n36.63 Cr",
         366300000.0
       ],
       [
-        "INR\n\n\n35.86 Cr",
+        "INR\n35.86 Cr",
         358600000.0
       ],
       [
-        "INR\n\n\n35.22 Cr",
+        "INR\n35.22 Cr",
         352200000.0
       ],
       [
-        "INR\n\n\n34.92 Cr",
+        "INR\n34.92 Cr",
         349200000.0
       ],
       [
-        "INR\n\n\n33.38 Cr",
+        "INR\n33.38 Cr",
         333800000.0
       ],
       [
-        "INR\n\n\n32.14 Cr",
+        "INR\n32.14 Cr",
         321400000.0
       ],
       [
-        "INR\n\n\n31.89 Cr",
+        "INR\n31.89 Cr",
         318900000.0
       ],
       [
-        "INR\n\n\n31.46 Cr",
+        "INR\n31.46 Cr",
         314600000.0
       ],
       [
-        "INR\n\n\n31.40 Cr",
+        "INR\n31.40 Cr",
         314000000.0
       ],
       [
-        "INR\n\n\n31.07 Cr",
+        "INR\n31.07 Cr",
         310700000.0
       ],
       [
-        "INR\n\n\n30.73 Cr",
+        "INR\n30.73 Cr",
         307300000.0
       ],
       [
-        "INR\n\n\n29.87 Cr",
+        "INR\n29.87 Cr",
         298700000.0
       ],
       [
-        "INR\n\n\n28.41 Cr",
+        "INR\n28.41 Cr",
         284100000.0
       ],
       [
-        "INR\n\n\n28.38 Cr",
+        "INR\n28.38 Cr",
         283800000.0
       ],
       [
-        "INR\n\n\n27.05 Cr",
+        "INR\n27.05 Cr",
         270500000.0
       ],
       [
-        "INR\n\n\n23.20 Cr",
-        232000000.0
-      ],
-      [
-        "INR\n\n\n26.80 Cr",
+        "INR\n26.80 Cr",
         268000000.0
       ],
       [
-        "INR\n\n\n26.39 Cr",
+        "INR\n26.39 Cr",
         263900000.0
       ],
       [
-        "INR\n\n\n26.09 Cr",
+        "INR\n26.09 Cr",
         260900000.0
       ],
       [
-        "INR\n\n\n25.10 Cr",
+        "INR\n25.10 Cr",
         251000000.0
       ],
       [
-        "INR\n\n\n24.85 Cr",
+        "INR\n24.85 Cr",
         248500000.0
       ],
       [
-        "INR\n\n\n24.41 Cr",
+        "INR\n24.41 Cr",
         244100000.0
       ],
       [
-        "INR\n\n\n24.31 Cr",
+        "INR\n24.31 Cr",
         243100000.0
       ],
       [
-        "INR\n\n\n24.05 Cr",
+        "INR\n24.05 Cr",
         240500000.0
       ],
       [
-        "INR\n\n\n23.92 Cr",
+        "INR\n23.92 Cr",
         239200000.00000003
       ],
       [
-        "INR\n\n\n23.48 Cr",
+        "INR\n23.48 Cr",
         234800000.0
       ],
       [
-        "INR\n\n\n23.16 Cr",
+        "INR\n23.20 Cr",
+        232000000.0
+      ],
+      [
+        "INR\n23.16 Cr",
         231600000.0
       ],
       [
-        "INR\n\n\n22.58 Cr",
+        "INR\n22.58 Cr",
         225799999.99999997
       ],
       [
-        "INR\n\n\n22.38 Cr",
+        "INR\n22.38 Cr",
         223800000.0
       ],
       [
-        "INR\n\n\n21.99 Cr",
+        "INR\n21.99 Cr",
         219899999.99999997
       ],
       [
-        "INR\n\n\n21.93 Cr",
+        "INR\n21.93 Cr",
         219300000.0
       ],
       [
-        "INR\n\n\n21.42 Cr",
+        "INR\n21.42 Cr",
         214200000.00000003
       ],
       [
-        "INR\n\n\n21.15 Cr",
+        "INR\n21.15 Cr",
         211500000.0
       ],
       [
-        "INR\n\n\n21.04 Cr",
+        "INR\n21.04 Cr",
         210400000.0
       ],
       [
-        "INR\n\n\n20.92 Cr",
+        "INR\n20.92 Cr",
         209200000.00000003
       ],
       [
-        "INR\n\n\n20.87 Cr",
+        "INR\n20.87 Cr",
         208700000.0
       ],
       [
-        "INR\n\n\n20.05 Cr",
+        "INR\n20.05 Cr",
         200500000.0
       ],
       [
-        "INR\n\n\n19.52 Cr",
+        "INR\n19.52 Cr",
         195200000.0
       ],
       [
-        "INR\n\n\n19.33 Cr",
+        "INR\n19.33 Cr",
         193299999.99999997
       ],
       [
-        "INR\n\n\n19.19 Cr",
+        "INR\n19.19 Cr",
         191900000.0
       ],
       [
-        "INR\n\n\n18.44 Cr",
+        "INR\n18.44 Cr",
         184400000.0
       ],
       [
-        "INR\n\n\n18.28 Cr",
+        "INR\n18.28 Cr",
         182800000.0
       ],
       [
-        "INR\n\n\n18.26 Cr",
+        "INR\n18.26 Cr",
         182600000.00000003
       ],
       [
-        "INR\n\n\n18.26 Cr",
+        "INR\n18.26 Cr",
         182600000.00000003
       ],
       [
-        "INR\n\n\n18.17 Cr",
+        "INR\n18.17 Cr",
         181700000.00000003
       ],
       [
-        "INR\n\n\n17.83 Cr",
+        "INR\n17.83 Cr",
         178299999.99999997
       ],
       [
-        "INR\n\n\n17.73 Cr",
+        "INR\n17.73 Cr",
         177300000.0
       ],
       [
-        "INR\n\n\n17.66 Cr",
+        "INR\n17.66 Cr",
         176600000.0
       ],
       [
-        "INR\n\n\n17.08 Cr",
+        "INR\n17.08 Cr",
         170799999.99999997
       ],
       [
-        "INR\n\n\n16.40 Cr",
+        "INR\n16.40 Cr",
         164000000.0
       ],
       [
-        "INR\n\n\n16.17 Cr",
+        "INR\n16.17 Cr",
         161700000.00000003
       ],
       [
-        "INR\n\n\n15.52 Cr",
+        "INR\n15.52 Cr",
         155200000.0
       ],
       [
-        "INR\n\n\n15.39 Cr",
+        "INR\n15.39 Cr",
         153900000.0
       ],
       [
-        "INR\n\n\n14.92 Cr",
+        "INR\n14.92 Cr",
         149200000.0
       ],
       [
-        "INR\n\n\n14.85 Cr",
+        "INR\n14.85 Cr",
         148500000.0
       ],
       [
-        "INR\n\n\n14.57 Cr",
+        "INR\n14.57 Cr",
         145700000.0
       ],
       [
-        "INR\n\n\n14.03 Cr",
+        "INR\n14.03 Cr",
         140300000.0
       ],
       [
-        "INR\n\n\n13.65 Cr",
+        "INR\n13.65 Cr",
         136500000.0
       ],
       [
-        "INR\n\n\n13.56 Cr",
+        "INR\n13.56 Cr",
         135600000.0
       ],
       [
-        "INR\n\n\n13.40 Cr",
+        "INR\n13.40 Cr",
         134000000.0
       ],
       [
-        "INR\n\n\n13.02 Cr",
+        "INR\n13.02 Cr",
         130200000.0
       ],
       [
-        "INR 9.80\n\n\nCr",
-        98000000.0
-      ],
-      [
-        "INR 9.08\n\n\nCr",
-        90800000.0
-      ],
-      [
-        "INR\n\n\n12.94 Cr",
+        "INR\n12.94 Cr",
         129400000.0
       ],
       [
-        "INR\n\n\n12.80 Cr",
+        "INR\n12.80 Cr",
         128000000.0
       ],
       [
-        "INR\n\n\n12.33 Cr",
+        "INR\n12.33 Cr",
         123300000.0
       ],
       [
-        "INR\n\n\n12.13 Cr",
+        "INR\n12.13 Cr",
         121300000.00000001
       ],
       [
-        "INR\n\n\n11.32 Cr",
+        "INR\n11.32 Cr",
         113200000.0
       ],
       [
-        "INR\n\n\n11.23 Cr",
+        "INR\n11.23 Cr",
         112300000.0
       ],
       [
-        "INR\n\n\n10.13 Cr",
+        "INR\n10.13 Cr",
         101300000.00000001
       ],
       [
-        "INR\n\n\n10.11 Cr",
+        "INR\n10.11 Cr",
         101100000.0
       ],
       [
-        "INR\n\n\n10.05 Cr",
+        "INR\n10.05 Cr",
         100500000.0
       ],
       [
-        "INR 9.80\n\n\nCr",
+        "INR 9.80\nCr",
         98000000.0
       ],
       [
-        "INR 9.03\n\n\nCr",
+        "INR 9.80\nCr",
+        98000000.0
+      ],
+      [
+        "INR 9.08\nCr",
+        90800000.0
+      ],
+      [
+        "INR 9.03\nCr",
         90300000.0
       ],
       [
-        "INR 8.74\n\n\nCr",
+        "INR 8.74\nCr",
         87400000.0
       ],
       [
-        "INR 7.29\n\n\nCr",
+        "INR 7.29\nCr",
         72900000.0
       ],
       [
-        "INR 6.95\n\n\nCr",
+        "INR 6.95\nCr",
         69500000.0
       ],
       [
-        "INR 6.92\n\n\nCr",
+        "INR 6.92\nCr",
         69200000.0
       ],
       [
-        "INR 6.87\n\n\nCr",
+        "INR 6.87\nCr",
         68700000.0
       ],
       [
-        "INR 6.75\n\n\nCr",
+        "INR 6.75\nCr",
         67500000.0
       ],
       [
-        "INR 6.08\n\n\nCr",
+        "INR 6.08\nCr",
         60800000.0
       ],
       [
-        "INR 5.85\n\n\nCr",
+        "INR 5.85\nCr",
         58500000.0
       ],
       [
-        "INR 5.67\n\n\nCr",
+        "INR 5.67\nCr",
         56700000.0
       ],
       [
-        "INR 5.43\n\n\nCr",
+        "INR 5.43\nCr",
         54300000.0
       ],
       [
-        "INR 4.80\n\n\nCr",
+        "INR 4.80\nCr",
         48000000.0
       ],
       [
-        "INR 3.99\n\n\nCr",
+        "INR 3.99\nCr",
         39900000.0
       ],
       [
-        "INR 3.14\n\n\nCr",
+        "INR 3.14\nCr",
         31400000.0
       ],
       [
-        "INR 3.00\n\n\nCr",
+        "INR 3.00\nCr",
         30000000.0
       ],
       [
-        "INR 2.99\n\n\nCr",
+        "INR 2.99\nCr",
         29900000.000000004
       ],
       [
-        "INR 2.82\n\n\nCr",
+        "INR 2.82\nCr",
         28200000.0
       ],
       [
-        "INR 2.80\n\n\nCr",
+        "INR 2.80\nCr",
         28000000.0
       ],
       [
-        "INR 2.80\n\n\nCr",
+        "INR 2.80\nCr",
         28000000.0
       ],
       [
-        "INR 2.77\n\n\nCr",
+        "INR 2.77\nCr",
         27700000.0
       ],
       [
-        "INR 2.50\n\n\nCr",
+        "INR 2.50\nCr",
         25000000.0
       ],
       [
-        "INR 2.33\n\n\nCr",
+        "INR 2.33\nCr",
         23300000.0
       ],
       [
-        "INR 2.04\n\n\nCr",
+        "INR 2.04\nCr",
         20400000.0
       ],
       [
-        "INR 1.94\n\n\nCr",
+        "INR 1.94\nCr",
         19400000.0
       ],
       [
-        "INR 1.92\n\n\nCr",
+        "INR 1.92\nCr",
         19200000.0
       ],
       [
-        "INR 1.90\n\n\nCr",
+        "INR 1.90\nCr",
         19000000.0
       ],
       [
-        "INR 1.67\n\n\nCr",
+        "INR 1.67\nCr",
         16700000.0
       ],
       [
-        "INR 1.64\n\n\nCr",
+        "INR 1.64\nCr",
         16399999.999999998
       ],
       [
-        "INR 1.54\n\n\nCr",
+        "INR 1.54\nCr",
         15400000.0
       ],
       [
-        "INR 1.06\n\n\nCr",
-        10600000.0
-      ],
-      [
-        "INR 1.22\n\n\nCr",
+        "INR 1.22\nCr",
         12200000.0
       ],
       [
-        "INR 1.20\n\n\nCr",
+        "INR 1.20\nCr",
         12000000.0
+      ],
+      [
+        "INR 1.06\nCr",
+        10600000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 200.00 Cr",
+        2000000000.0
+      ],
+      [
+        "INR 198.88 Cr",
+        1988800000.0
+      ],
+      [
+        "INR 172.22 Cr",
+        1722200000.0
+      ],
+      [
+        "INR 146.48 Cr",
+        1464800000.0
+      ],
+      [
+        "INR 132.97 Cr",
+        1329700000.0
+      ],
+      [
+        "INR 129.88 Cr",
+        1298800000.0
+      ],
+      [
+        "INR 127.78 Cr",
+        1277800000.0
+      ],
+      [
+        "INR 113.60 Cr",
+        1136000000.0
+      ],
+      [
+        "INR 106.19 Cr",
+        1061900000.0
+      ],
+      [
+        "INR 101.57 Cr",
+        1015699999.9999999
+      ],
+      [
+        "INR 97.72 Cr",
+        977200000.0
+      ],
+      [
+        "INR 95.46 Cr",
+        954599999.9999999
+      ],
+      [
+        "INR 91.04 Cr",
+        910400000.0000001
+      ],
+      [
+        "INR 86.09 Cr",
+        860900000.0
+      ],
+      [
+        "INR 81.44 Cr",
+        814400000.0
+      ],
+      [
+        "INR 77.59 Cr",
+        775900000.0
+      ],
+      [
+        "INR 74.66 Cr",
+        746600000.0
+      ],
+      [
+        "INR 73.02 Cr",
+        730200000.0
+      ],
+      [
+        "INR 72.10 Cr",
+        721000000.0
+      ],
+      [
+        "INR 68.24 Cr",
+        682400000.0
+      ],
+      [
+        "INR 68.09 Cr",
+        680900000.0
+      ],
+      [
+        "INR 58.69 Cr",
+        586900000.0
+      ],
+      [
+        "INR 57.37 Cr",
+        573700000.0
+      ],
+      [
+        "INR 52.99 Cr",
+        529900000.0
+      ],
+      [
+        "INR 52.63 Cr",
+        526300000.0
+      ],
+      [
+        "INR 49.11 Cr",
+        491100000.0
+      ],
+      [
+        "INR 47.41 Cr",
+        474099999.99999994
+      ],
+      [
+        "INR 46.73 Cr",
+        467299999.99999994
+      ],
+      [
+        "INR 44.90 Cr",
+        449000000.0
+      ],
+      [
+        "INR 43.42 Cr",
+        434200000.0
+      ],
+      [
+        "INR 41.71 Cr",
+        417100000.0
+      ],
+      [
+        "INR 41.58 Cr",
+        415800000.0
+      ],
+      [
+        "INR 41.45 Cr",
+        414500000.0
+      ],
+      [
+        "INR 41.42 Cr",
+        414200000.0
+      ],
+      [
+        "INR 41.35 Cr",
+        413500000.0
+      ],
+      [
+        "INR 41.34 Cr",
+        413400000.00000006
+      ],
+      [
+        "INR 40.37 Cr",
+        403700000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 40.00 Cr",
+        400000000.0
+      ],
+      [
+        "INR 39.90 Cr",
+        399000000.0
+      ],
+      [
+        "INR 38.81 Cr",
+        388100000.0
+      ],
+      [
+        "INR 38.54 Cr",
+        385400000.0
+      ],
+      [
+        "INR 37.52 Cr",
+        375200000.00000006
+      ],
+      [
+        "INR 37.04 Cr",
+        370400000.0
+      ],
+      [
+        "INR 36.63 Cr",
+        366300000.0
+      ],
+      [
+        "INR 35.86 Cr",
+        358600000.0
+      ],
+      [
+        "INR 35.22 Cr",
+        352200000.0
+      ],
+      [
+        "INR 34.92 Cr",
+        349200000.0
+      ],
+      [
+        "INR 33.38 Cr",
+        333800000.0
+      ],
+      [
+        "INR 32.14 Cr",
+        321400000.0
+      ],
+      [
+        "INR 31.89 Cr",
+        318900000.0
+      ],
+      [
+        "INR 31.46 Cr",
+        314600000.0
+      ],
+      [
+        "INR 31.40 Cr",
+        314000000.0
+      ],
+      [
+        "INR 31.07 Cr",
+        310700000.0
+      ],
+      [
+        "INR 30.73 Cr",
+        307300000.0
+      ],
+      [
+        "INR 29.87 Cr",
+        298700000.0
+      ],
+      [
+        "INR 28.41 Cr",
+        284100000.0
+      ],
+      [
+        "INR 28.38 Cr",
+        283800000.0
+      ],
+      [
+        "INR 27.05 Cr",
+        270500000.0
+      ],
+      [
+        "INR 26.80 Cr",
+        268000000.0
+      ],
+      [
+        "INR 26.39 Cr",
+        263900000.0
+      ],
+      [
+        "INR 26.09 Cr",
+        260900000.0
+      ],
+      [
+        "INR 25.10 Cr",
+        251000000.0
+      ],
+      [
+        "INR 24.85 Cr",
+        248500000.0
+      ],
+      [
+        "INR 24.41 Cr",
+        244100000.0
+      ],
+      [
+        "INR 24.31 Cr",
+        243100000.0
+      ],
+      [
+        "INR 24.05 Cr",
+        240500000.0
+      ],
+      [
+        "INR 23.92 Cr",
+        239200000.00000003
+      ],
+      [
+        "INR 23.48 Cr",
+        234800000.0
+      ],
+      [
+        "INR 23.20 Cr",
+        232000000.0
+      ],
+      [
+        "INR 23.16 Cr",
+        231600000.0
+      ],
+      [
+        "INR 22.58 Cr",
+        225799999.99999997
+      ],
+      [
+        "INR 22.38 Cr",
+        223800000.0
+      ],
+      [
+        "INR 21.99 Cr",
+        219899999.99999997
+      ],
+      [
+        "INR 21.93 Cr",
+        219300000.0
+      ],
+      [
+        "INR 21.42 Cr",
+        214200000.00000003
+      ],
+      [
+        "INR 21.15 Cr",
+        211500000.0
+      ],
+      [
+        "INR 21.04 Cr",
+        210400000.0
+      ],
+      [
+        "INR 20.92 Cr",
+        209200000.00000003
+      ],
+      [
+        "INR 20.87 Cr",
+        208700000.0
+      ],
+      [
+        "INR 20.05 Cr",
+        200500000.0
+      ],
+      [
+        "INR 19.52 Cr",
+        195200000.0
+      ],
+      [
+        "INR 19.33 Cr",
+        193299999.99999997
+      ],
+      [
+        "INR 19.19 Cr",
+        191900000.0
+      ],
+      [
+        "INR 18.44 Cr",
+        184400000.0
+      ],
+      [
+        "INR 18.28 Cr",
+        182800000.0
+      ],
+      [
+        "INR 18.26 Cr",
+        182600000.00000003
+      ],
+      [
+        "INR 18.26 Cr",
+        182600000.00000003
+      ],
+      [
+        "INR 18.17 Cr",
+        181700000.00000003
+      ],
+      [
+        "INR 17.83 Cr",
+        178299999.99999997
+      ],
+      [
+        "INR 17.73 Cr",
+        177300000.0
+      ],
+      [
+        "INR 17.66 Cr",
+        176600000.0
+      ],
+      [
+        "INR 17.08 Cr",
+        170799999.99999997
+      ],
+      [
+        "INR 16.40 Cr",
+        164000000.0
+      ],
+      [
+        "INR 16.17 Cr",
+        161700000.00000003
+      ],
+      [
+        "INR 15.52 Cr",
+        155200000.0
+      ],
+      [
+        "INR 15.39 Cr",
+        153900000.0
+      ],
+      [
+        "INR 14.92 Cr",
+        149200000.0
+      ],
+      [
+        "INR 14.85 Cr",
+        148500000.0
+      ],
+      [
+        "INR 14.57 Cr",
+        145700000.0
+      ],
+      [
+        "INR 14.03 Cr",
+        140300000.0
+      ],
+      [
+        "INR 13.65 Cr",
+        136500000.0
+      ],
+      [
+        "INR 13.56 Cr",
+        135600000.0
+      ],
+      [
+        "INR 13.40 Cr",
+        134000000.0
+      ],
+      [
+        "INR 13.02 Cr",
+        130200000.0
+      ],
+      [
+        "INR 12.94 Cr",
+        129400000.0
+      ],
+      [
+        "INR 12.80 Cr",
+        128000000.0
+      ],
+      [
+        "INR 12.33 Cr",
+        123300000.0
+      ],
+      [
+        "INR 12.13 Cr",
+        121300000.00000001
+      ],
+      [
+        "INR 11.32 Cr",
+        113200000.0
+      ],
+      [
+        "INR 11.23 Cr",
+        112300000.0
+      ],
+      [
+        "INR 10.13 Cr",
+        101300000.00000001
+      ],
+      [
+        "INR 10.11 Cr",
+        101100000.0
+      ],
+      [
+        "INR 10.05 Cr",
+        100500000.0
+      ],
+      [
+        "INR 9.80 Cr",
+        98000000.0
+      ],
+      [
+        "INR 9.80 Cr",
+        98000000.0
+      ],
+      [
+        "INR 9.08 Cr",
+        90800000.0
+      ],
+      [
+        "INR 9.03 Cr",
+        90300000.0
+      ],
+      [
+        "INR 8.74 Cr",
+        87400000.0
+      ],
+      [
+        "INR 7.29 Cr",
+        72900000.0
+      ],
+      [
+        "INR 6.95 Cr",
+        69500000.0
+      ],
+      [
+        "INR 6.92 Cr",
+        69200000.0
+      ],
+      [
+        "INR 6.87 Cr",
+        68700000.0
+      ],
+      [
+        "INR 6.75 Cr",
+        67500000.0
+      ],
+      [
+        "INR 6.08 Cr",
+        60800000.0
+      ],
+      [
+        "INR 5.85 Cr",
+        58500000.0
+      ],
+      [
+        "INR 5.67 Cr",
+        56700000.0
+      ],
+      [
+        "INR 5.43 Cr",
+        54300000.0
+      ],
+      [
+        "INR 4.80 Cr",
+        48000000.0
+      ],
+      [
+        "INR 3.99 Cr",
+        39900000.0
+      ],
+      [
+        "INR 3.14 Cr",
+        31400000.0
+      ],
+      [
+        "INR 3.00 Cr",
+        30000000.0
+      ],
+      [
+        "INR 2.99 Cr",
+        29900000.000000004
+      ],
+      [
+        "INR 2.82 Cr",
+        28200000.0
+      ],
+      [
+        "INR 2.80 Cr",
+        28000000.0
+      ],
+      [
+        "INR 2.80 Cr",
+        28000000.0
+      ],
+      [
+        "INR 2.77 Cr",
+        27700000.0
+      ],
+      [
+        "INR 2.50 Cr",
+        25000000.0
+      ],
+      [
+        "INR 2.33 Cr",
+        23300000.0
+      ],
+      [
+        "INR 2.04 Cr",
+        20400000.0
+      ],
+      [
+        "INR 1.94 Cr",
+        19400000.0
+      ],
+      [
+        "INR 1.92 Cr",
+        19200000.0
+      ],
+      [
+        "INR 1.90 Cr",
+        19000000.0
+      ],
+      [
+        "INR 1.67 Cr",
+        16700000.0
+      ],
+      [
+        "INR 1.64 Cr",
+        16399999.999999998
+      ],
+      [
+        "INR 1.54 Cr",
+        15400000.0
+      ],
+      [
+        "INR 1.22 Cr",
+        12200000.0
+      ],
+      [
+        "INR 1.20 Cr",
+        12000000.0
+      ],
+      [
+        "INR 1.06 Cr",
+        10600000.0
       ]
     ],
     "extracted_dates": [],
-    "summary_text": "DOC-PPP-001 Page 1 of 64\n\n\nRail Tunnel — Gujarat\n\n\nPkg-114\n\n\n10 Cable Stayed Bridge —\n\n\nDelhi Pkg-109\n\n\n11 Steel Truss Bridge —\n\n\nGujarat Pkg-112\n\n\n12 Hydro Tunnel — West\n\n\nBengal Pkg-105\n\n\n13 Six-Lane Highway —\n\n\nUttar Pradesh Pkg-101\n\n\n14 Hydro Tunnel — West\n\n\nBengal Pkg-126\n\n\n15 Cable Stayed Bridge —\n\n\nUttar Pradesh Pkg-121\n\n\n16 Six-Lane Highway —\n\n\nMaharashtra Pkg-104\n\n\n17 Cable Stayed Bridge —\n\n\nJharkhand Pkg-115\n\n\n18 Extradosed Bridge —\n\n\nRajasthan Pkg-124\n\n\n19 Highway Tunnel — West\n\n\nBengal Pkg-120\n\n\n20 Material Handling Plant\n\n\n— Jharkhand Pkg-12\n\n\n21 STP — Uttar Pradesh\n\n\nPkg-31\n\n\n22 Rigid Pavement — Tamil\n\n\nNadu Pkg-70\n\n\n\nNational Special Projects\n\n\nOffice\n\n\nTrishakti Power\n\n\nGeneration Corporation\n\n\nSuvarna Projects\n\n\nLimited\n\n\nLakshya Engineering &\n\n\nConstruction\n\n\nMega Infrastructure\n\n\nAuthority\n\n\n\nINR\n\n\n127.78\n\n\nCr\n\n\nlarge bridges INR\n\n\n113.60\n\n\nCr\n\n\nlarge bridges INR\n\n\n106.19\n\n\nCr\n\n\ntunnels INR\n\n\n101.57\n\n\nCr\n\n\nexpressways INR\n\n\n97.72 Cr\n\n\ntunnels INR\n\n\n95.46 Cr\n\n\n\nJal Ni"
+    "summary_text": "National Infrastructure Corp. Ltd.\nPast Performance Portfolio · CIN U45201WB2005PLC904417\nPortfolio of ComPleted Works\nPPP/Marc\n155 completed works\nindex of Works\n#\nWork\nClient\nCategory\nValue\nCompleted\n1\nGreenfield Expressway\n— West Bengal Pkg-110\nTrishakti Power\nGeneration Corporation\nexpressways\nINR\n200.00\nCr\nJanuary 12,\n2015\n2\nRing Road — Uttar\nPradesh Pkg-113\nNational Special Projects\nOffice\nexpressways\nINR\n200.00\nCr\nJuly 10, 2022\n3\nSix-Lane Highway —\nWest Bengal Pkg-116\nTrishakti Power\nGeneration Corporation\nexpressways\nINR\n200.00\nCr\nFebruary 11,\n2020\n4\nHydro Tunnel —\nMadhya Pradesh\nPkg-108\nMega Infrastructure\nAuthority\ntunnels\nINR\n198.88\nCr\nOctober 25,\n2014\n5\nRail Tunnel —\nJharkhand Pkg-102\nSubarnarekha Valley\nCorporation\ntunnels\nINR\n172.22\nCr\nMarch 5,\n2015\n6\nSix-Lane Highway —\nTamil Nadu Pkg-119\nTamil Nadu Municipal\nCorporation\nexpressways\nINR\n146.48\nCr\nSeptember\n22, 2018\n7\nRing Road — Uttar\nPradesh Pkg-107\nNational Expressway\nDevelopment Authority\nexpressways\nINR\n132.97\nCr\nAugu"
   }
 }

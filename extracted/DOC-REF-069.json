@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-069.pdf",
   "size_bytes": 12464,
-  "char_count": 661,
+  "char_count": 588,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "Subject: Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Jharkhand Pkg-78”",
+    "project_name": "Flyover — Jharkhand Pkg-78",
+    "package_code": "Pkg-78",
+    "issuing_client": "Subarnarekha Valley Corporation",
     "contract_value": 98000000.0,
     "raw_contract_value": "INR 9.80 Cr",
-    "completion_date": null,
-    "recommendation_summary": "# **Subarnarekha Valley Corporation** \n\npsu · Jharkhand \n\n**Ref: REF/69/78** \n\nDate: 31/03/2026 \n\n**Subject:** Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Jharkhand Pkg-78” \n\nTo whomsoever it may concern, \n\nThe contractor's planning, quality control and coordination with this office were of a good standard, and the work was commissioned without outstanding defects. \n\n|**Work Executed**|Flyover — Jharkhand Pkg-78|\n|---|---|\n|**Value**|INR 9.80 Cr|\n|**Completed**|09/06/2019|"
+    "completion_date": "09/06/2019",
+    "recommendation_summary": "Subarnarekha Valley Corporation\npsu · Jharkhand\nRef: REF/69/78\nDate: 31/03/2026\nSubject: Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Jharkhand Pkg-78”\nTo whomsoever it may concern,\nThe contractor's planning, quality control and coordination with this office were of a good standard, and the\nwork was commissioned without outstanding defects.\nWork Executed\nFlyover — Jharkhand Pkg-78\nValue\nINR 9.80 Cr\nCompleted\n09/06/2019\nContact for Verification\nKavita Sharma · ee@dept.gov.in"
   }
 }

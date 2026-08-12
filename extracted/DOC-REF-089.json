@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-089.pdf",
   "size_bytes": 12309,
-  "char_count": 660,
+  "char_count": 587,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "Subject: Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Delhi Pkg-99”",
+    "project_name": "Flyover — Delhi Pkg-99",
+    "package_code": "Pkg-99",
+    "issuing_client": "Meridian Constructors & Co.",
     "contract_value": 231600000.0,
     "raw_contract_value": "INR 23,16,00,000/-",
-    "completion_date": null,
-    "recommendation_summary": "# **Meridian Constructors & Co.** \n\nprivate · Delhi \n\n**Ref: REF/89/99** \n\nDate: March 31, 2026 \n\n**Subject:** Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Delhi Pkg-99” \n\nTo whomsoever it may concern, \n\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction. Their performance on schedule, quality, and safety was commendable. \n\n|**Work Executed**|Flyover — Delhi Pkg-99|\n|---|---|\n|**Value**|INR 23,16,00,000/-|\n|**Completed**|May "
+    "completion_date": "May 18, 2016",
+    "recommendation_summary": "Meridian Constructors & Co.\nprivate · Delhi\nRef: REF/89/99\nDate: March 31, 2026\nSubject: Performance of M/s National Infrastructure Corp. Ltd. — “Flyover — Delhi Pkg-99”\nTo whomsoever it may concern,\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction.\nTheir performance on schedule, quality, and safety was commendable.\nWork Executed\nFlyover — Delhi Pkg-99\nValue\nINR 23,16,00,000/-\nCompleted\nMay 18, 2016\nContact for Verification\nManoj Nair · ee@dept."
   }
 }

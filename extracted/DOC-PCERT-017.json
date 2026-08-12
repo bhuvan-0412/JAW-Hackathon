@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-017.pdf",
   "size_bytes": 48451,
-  "char_count": 1085,
+  "char_count": 953,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Deepa Chatterjee",
+    "engineer_name": null,
     "employee_id": "EMP-012",
     "certification_type": "PMP",
     "credential_id": "PMI-200017",

@@ -3,74 +3,17 @@
   "doc_type": "ra_bill",
   "filename": "ra_bill/DOC-RABILL-00425.pdf",
   "size_bytes": 29841,
-  "char_count": 1272,
+  "char_count": 1047,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
     "client_name": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
-    "bill_number": null,
-    "bill_date": null,
+    "bill_number": "AR-2022-00425",
+    "bill_date": "April 18, 2022",
     "contract_value": null,
-    "billed_value": null,
-    "boq_items": [
-      {
-        "item_no": "1",
-        "description": "Earthwork in excavation & embankment",
-        "unit": "cum",
-        "rate": 292.0,
-        "qty": 10899.801,
-        "amount": 3182742.0
-      },
-      {
-        "item_no": "2",
-        "description": "Granular sub-base (GSB)",
-        "unit": "cum",
-        "rate": 1256.0,
-        "qty": 3360.062,
-        "amount": 4220238.0
-      },
-      {
-        "item_no": "4",
-        "description": "Dense bituminous macadam (DBM)",
-        "unit": "MT",
-        "rate": 6537.0,
-        "qty": 422.277,
-        "amount": 2760424.0
-      },
-      {
-        "item_no": "5",
-        "description": "Bituminous concrete (BC)",
-        "unit": "MT",
-        "rate": 6526.0,
-        "qty": 592.597,
-        "amount": 3867286.0
-      },
-      {
-        "item_no": "6",
-        "description": "RCC M30 for structures",
-        "unit": "cum",
-        "rate": 7927.0,
-        "qty": 756.816,
-        "amount": 5999279.0
-      },
-      {
-        "item_no": "8",
-        "description": "RCC kerb & channel",
-        "unit": "rmt",
-        "rate": 393.0,
-        "qty": 24414.013,
-        "amount": 9594707.0
-      },
-      {
-        "item_no": "9",
-        "description": "Road markings & signage",
-        "unit": "LS",
-        "rate": 43071660.0,
-        "qty": 0.224,
-        "amount": 9648403.0
-      }
-    ]
+    "billed_value": 46342233.0,
+    "boq_items": []
   }
 }

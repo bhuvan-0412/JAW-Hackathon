@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-131.pdf",
   "size_bytes": 98656,
-  "char_count": 2229,
+  "char_count": 2040,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "This letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory.",
+    "project_name": "School Building — Delhi Pkg-154",
+    "package_code": "Pkg-154",
+    "issuing_client": "Subarnarekha Valley Corporation",
     "contract_value": 19400000.0,
     "raw_contract_value": "INR 1,94,00,000/-",
-    "completion_date": null,
-    "recommendation_summary": "# **Subarnarekha Valley Corporation** \n\nPSU CLIENT · Delhi · IN \n\n## **Reference Letter** \n\nTo Whomsoever It May Concern \n\n**Ref: REF/9/131** \n\nDate: 2026-03-31 \n\nTo Whomsoever It May Concern, \n\nThis letter is issued at the request of **National Infrastructure Corp. Ltd.** to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory. \n\n### **1. Project Details** \n\n|**Project Name**|School Building — Delhi Pkg-154"
+    "completion_date": "2017-09-05",
+    "recommendation_summary": "Subarnarekha Valley Corporation\nPSU CLIENT · Delhi · IN\nReference Letter\nTo Whomsoever It May Concern\nRef: REF/9/131\nDate: 2026-03-31\nTo Whomsoever It May Concern,\nThis letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency\nhas executed work for this organisation as detailed below and that their performance has been found\nsatisfactory.\n1. Project Details\nProject Name\nSchool Building — Delhi Pkg-154\nScope of Work\nSmall Buildings works for Subarnarekh"
   }
 }

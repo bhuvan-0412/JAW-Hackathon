@@ -3,17 +3,17 @@
   "doc_type": "final_ra_bill",
   "filename": "final_ra_bill/DOC-FINBILL-0071.pdf",
   "size_bytes": 69552,
-  "char_count": 12789,
+  "char_count": 22452,
   "page_count": 20,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
     "client_name": "Public Health Engineering Dept, Odisha · 14 RA bills",
-    "bill_number": null,
-    "bill_date": null,
-    "contract_value": null,
-    "billed_value": null,
+    "bill_number": "Date",
+    "bill_date": "Value of Work",
+    "contract_value": 1271800000.0,
+    "billed_value": 811000000.0,
     "boq_items": []
   }
 }

@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-029.pdf",
   "size_bytes": 15816,
-  "char_count": 702,
+  "char_count": 631,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "Subject: Performance of M/s National Infrastructure Corp. Ltd. — “Process Piping Package — Gujarat Pkg-33” To whomsoever it may concern,",
+    "project_name": "Process Piping Package — Gujarat Pkg-33",
+    "package_code": "Pkg-33",
+    "issuing_client": "Trishakti Power Generation Corporation",
     "contract_value": 210400000.0,
     "raw_contract_value": "INR 21.04 Cr",
-    "completion_date": null,
-    "recommendation_summary": "# **Trishakti Power Generation Corporation** \n\npsu · Gujarat \n\n**Ref: REF/29/33** \n\nDate: 2026-03-31 \n\n**Subject:** Performance of M/s National Infrastructure Corp. Ltd. — “Process Piping Package — Gujarat Pkg-33” To whomsoever it may concern, \n\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction. Their performance on schedule, quality, and safety was commendable. \n\n|**Work Executed**|Process Piping Package — Gujarat Pkg-33|\n|---|---|\n|**Value**|IN"
+    "completion_date": "2017-09-02",
+    "recommendation_summary": "Trishakti Power Generation Corporation\npsu · Gujarat\nRef: REF/29/33\nDate: 2026-03-31\nSubject: Performance of M/s National Infrastructure Corp. Ltd. — “Process Piping Package — Gujarat Pkg-33”\nTo whomsoever it may concern,\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction. Their\nperformance on schedule, quality, and safety was commendable.\nWork Executed\nProcess Piping Package — Gujarat Pkg-33\nValue\nINR 21.04 Cr\nCompleted\n2017-09-02\nContact for Ver"
   }
 }

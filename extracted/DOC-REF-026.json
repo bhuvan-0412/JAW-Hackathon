@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-026.pdf",
   "size_bytes": 13498,
-  "char_count": 658,
+  "char_count": 589,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "Subject: Performance of M/s National Infrastructure Corp. Ltd. — “ROB — Jharkhand Pkg-29”",
+    "project_name": "ROB — Jharkhand Pkg-29",
+    "package_code": "Pkg-29",
+    "issuing_client": "Arunodaya Infrastructure",
     "contract_value": 223800000.0,
     "raw_contract_value": "Rs. 2238.00 Lakh",
-    "completion_date": null,
-    "recommendation_summary": "**Arunodaya Infrastructure** \n\nprivate · Jharkhand \n\n**Ref: REF/26/29** \n\nDate: 31 Mar 2026 \n\n**Subject:** Performance of M/s National Infrastructure Corp. Ltd. — “ROB — Jharkhand Pkg-29” \n\nTo whomsoever it may concern, \n\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction. Their performance on schedule, quality, and safety was commendable. \n\n|**Work Executed**|ROB — Jharkhand Pkg-29|\n|---|---|\n|**Value**|Rs. 2238.00 Lakh|\n|**Completed**|12 Jul 202"
+    "completion_date": "12 Jul 2023",
+    "recommendation_summary": "Arunodaya Infrastructure\nprivate · Jharkhand\nRef: REF/26/29\nDate: 31 Mar 2026\nSubject: Performance of M/s National Infrastructure Corp. Ltd. — “ROB — Jharkhand Pkg-29”\nTo whomsoever it may concern,\nWe confirm that National Infrastructure Corp. Ltd. executed the referenced work to our satisfaction. Their performance on schedule,\nquality, and safety was commendable.\nWork Executed\nROB — Jharkhand Pkg-29\nValue\nRs. 2238.00 Lakh\nCompleted\n12 Jul 2023\nContact for Verification\nHarish Banerjee · ee@dept."
   }
 }

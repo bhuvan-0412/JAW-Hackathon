@@ -3,17 +3,15 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-031.pdf",
   "size_bytes": 60129,
-  "char_count": 50,
+  "char_count": 2097,
   "page_count": 2,
-  "extraction_warnings": [
-    "Low char_count warning (50 chars on 2 pages)"
-  ],
+  "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": null,
-    "employee_id": null,
-    "designation": null,
-    "total_experience": null,
-    "qualification": null,
+    "engineer_name": "Suresh Das",
+    "employee_id": "EMP-031",
+    "designation": "Project Manager",
+    "total_experience": "17 years",
+    "qualification": "M.Tech Structural",
     "projects_led": []
   }
 }

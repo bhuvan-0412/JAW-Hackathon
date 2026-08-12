@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-031.pdf",
   "size_bytes": 48364,
-  "char_count": 1081,
+  "char_count": 949,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Rajesh Rao",
+    "engineer_name": null,
     "employee_id": "EMP-026",
     "certification_type": "PMP",
     "credential_id": "PMI-200031",

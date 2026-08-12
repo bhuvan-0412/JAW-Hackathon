@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-098.pdf",
   "size_bytes": 56057,
-  "char_count": 2263,
+  "char_count": 2067,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "This letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory.",
+    "project_name": "Greenfield Expressway — West Bengal Pkg-110",
+    "package_code": "Pkg-110",
+    "issuing_client": "Trishakti Power Generation Corporation",
     "contract_value": 2000000000.0,
     "raw_contract_value": "Rs. 20000.00 Lakh",
-    "completion_date": null,
-    "recommendation_summary": "# **<u>Trishakti Power Generation Corporation</u>** \n\nPSU CLIENT · West Bengal · IN \n\n## **REFERENCE LETTER** \n\nTo Whomsoever It May Concern \n\n**Ref: REF/25/98** \n\nDate: 31/03/2026 \n\nTo Whomsoever It May Concern, \n\nThis letter is issued at the request of **National Infrastructure Corp. Ltd.** to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory. \n\n### **1. PROJECT DETAILS** \n\n|**Project Name**|Greenfield "
+    "completion_date": "2015-01-12",
+    "recommendation_summary": "Trishakti Power Generation Corporation\nPSU CLIENT · West Bengal · IN\nREFERENCE LETTER\nTo Whomsoever It May Concern\nRef: REF/25/98\nDate: 31/03/2026\nTo Whomsoever It May Concern,\nThis letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said\nagency has executed work for this organisation as detailed below and that their performance has been\nfound satisfactory.\n1. PROJECT DETAILS\nProject Name\nGreenfield Expressway — West Bengal Pkg-110\nScope of Work\nExpressways "
   }
 }

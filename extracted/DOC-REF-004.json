@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-004.pdf",
   "size_bytes": 60690,
-  "char_count": 2225,
+  "char_count": 2039,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "issuing_client": "This letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory.",
+    "project_name": "Residential Quarters — Odisha Pkg-4",
+    "package_code": "Pkg-4",
+    "issuing_client": "Peninsular Petroleum Corporation",
     "contract_value": 112300000.0,
     "raw_contract_value": "INR 11.23 Cr",
-    "completion_date": null,
-    "recommendation_summary": "# **Peninsular Petroleum Corporation** \n\nPSU CLIENT · Odisha · IN \n\n## **Reference Letter** \n\nTo Whomsoever It May Concern \n\n**Ref: REF/28/4** \n\nDate: 2026-03-31 \n\nTo Whomsoever It May Concern, \n\nThis letter is issued at the request of **National Infrastructure Corp. Ltd.** to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory. \n\n### **1. Project Details** \n\n|**Project Name**|Residential Quarters — Odisha "
+    "completion_date": "2023-05-17",
+    "recommendation_summary": "Peninsular Petroleum Corporation\nPSU CLIENT · Odisha · IN\nReference Letter\nTo Whomsoever It May Concern\nRef: REF/28/4\nDate: 2026-03-31\nTo Whomsoever It May Concern,\nThis letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has\nexecuted work for this organisation as detailed below and that their performance has been found satisfactory.\n1. Project Details\nProject Name\nResidential Quarters — Odisha Pkg-4\nScope of Work\nBuildings works for Peninsular P"
   }
 }

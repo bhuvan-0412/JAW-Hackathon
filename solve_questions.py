@@ -152,45 +152,14 @@ CLIENT_SYNONYMS = {
     "tamil nadu municipal": "Tamil Nadu Municipal Corporation",
 }
 
+from entity_resolver import GeneralizableEntityResolver
+
+_ENTITY_RESOLVER = GeneralizableEntityResolver()
+
 def find_client_in_text(text, conn):
-    text_l = text.lower()
-    c = conn.cursor()
-    
-    # 1. Check exact canonical client names in text (longest first)
-    db_clients = [r[0] for r in c.execute("SELECT DISTINCT client_name FROM completion_certificates WHERE client_name IS NOT NULL").fetchall()]
-    db_clients = sorted(db_clients, key=lambda x: len(x), reverse=True)
-    for cl in db_clients:
-        if cl.lower() in text_l:
-            return cl
-            
-    # 2. Check RECEIVABLES_TOTALS keys
-    for cl in RECEIVABLES_TOTALS.keys():
-        if cl.lower() in text_l:
-            return cl
-
-    # 3. Check CLIENT_SYNONYMS (longest key first)
-    syn_keys = sorted(CLIENT_SYNONYMS.keys(), key=lambda x: len(x), reverse=True)
-    for syn_k in syn_keys:
-        if syn_k in text_l:
-            return CLIENT_SYNONYMS[syn_k]
-
-    # 4. Check package code regex in text
-    m_pkg = re.search(r'\bpkg[\s\-]*(\d+)\b', text, re.IGNORECASE)
-    if m_pkg:
-        pkg_code = f"Pkg-{m_pkg.group(1)}"
-        r = c.execute("SELECT client_name FROM completion_certificates WHERE LOWER(package_code) = LOWER(?) AND client_name IS NOT NULL", (pkg_code,)).fetchone()
-        if r:
-            return r[0]
-
-    # 5. Check engineer lookup fallback
-    first_names = ["pooja", "farhan", "sunita", "imran", "suresh", "manoj", "rohit", "kavita", "meera", "naveen", "lakshmi", "sanjay", "neha", "rahul", "tanvir", "jaya", "deepa", "priya", "priti", "gautam", "amit", "uma", "asha", "rajesh"]
-    for fn in first_names:
-        if fn in text_l:
-            r = c.execute("SELECT client_name FROM completion_certificates WHERE LOWER(project_lead) LIKE LOWER(?) AND client_name IS NOT NULL", (f"%{fn}%",)).fetchone()
-            if r:
-                return r[0]
-
-    return None
+    if not text:
+        return None
+    return _ENTITY_RESOLVER.resolve_client(text, conn)
 
 def find_engineer_in_text(text, conn):
     c = conn.cursor()

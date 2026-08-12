@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-029.pdf",
   "size_bytes": 48374,
-  "char_count": 1147,
+  "char_count": 947,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Rahul Menon",
+    "engineer_name": null,
     "employee_id": "EMP-024",
     "certification_type": "PMP",
     "credential_id": "PMI-200029",

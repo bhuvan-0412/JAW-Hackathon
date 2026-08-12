@@ -3,17 +3,15 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-034.pdf",
   "size_bytes": 59965,
-  "char_count": 50,
+  "char_count": 2082,
   "page_count": 2,
-  "extraction_warnings": [
-    "Low char_count warning (50 chars on 2 pages)"
-  ],
+  "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": null,
-    "employee_id": null,
-    "designation": null,
-    "total_experience": null,
-    "qualification": null,
+    "engineer_name": "Sunita Joshi",
+    "employee_id": "EMP-034",
+    "designation": "Project Manager",
+    "total_experience": "12 years",
+    "qualification": "B.Com",
     "projects_led": []
   }
 }

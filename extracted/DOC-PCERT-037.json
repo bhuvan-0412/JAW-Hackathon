@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-037.pdf",
   "size_bytes": 48529,
-  "char_count": 1157,
+  "char_count": 957,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Priti Pillai",
+    "engineer_name": null,
     "employee_id": "EMP-032",
     "certification_type": "PMP",
     "credential_id": "PMI-200037",

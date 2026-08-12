@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-042.pdf",
   "size_bytes": 48577,
-  "char_count": 1148,
+  "char_count": 948,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Naveen Roy",
+    "engineer_name": null,
     "employee_id": "EMP-037",
     "certification_type": "PMP",
     "credential_id": "PMI-200042",

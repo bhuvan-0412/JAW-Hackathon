@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-010.pdf",
   "size_bytes": 52647,
-  "char_count": 959,
+  "char_count": 894,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Institutional Building — Uttar Pradesh Pkg-11",
-    "package_code": "Pkg-11",
-    "issuing_client": "This office has engaged M/s National Infrastructure Corp. Ltd. for the work “Institutional Building — Uttar Pradesh Pkg-11” (INR 24.05 Cr), completed on October 8, 2024. On the basis of that engagement we record the following:",
+    "project_name": "I",
+    "package_code": null,
+    "issuing_client": "Peninsular Petroleum Corporation",
     "contract_value": 240500000.0,
     "raw_contract_value": "INR 24.05 Cr",
-    "completion_date": null,
-    "recommendation_summary": "# **Peninsular Petroleum Corporation** \n\nLetter of Recommendation \n\n## **Letter of recommendation** \n\n**Our ref: 10** \n\nMarch 31, 2026 \n\nThis office has engaged **M/s National Infrastructure Corp. Ltd.** for the work “Institutional Building — Uttar Pradesh Pkg-11” (INR 24.05 Cr), completed on October 8, 2024. On the basis of that engagement we record the following: \n\n- Adherence to the sanctioned programme of work and milestone dates; \n\n- \n\n- Quality of workmanship accepted at inspection without"
+    "completion_date": "October 8, 2024",
+    "recommendation_summary": "Peninsular Petroleum Corporation\nLetter of Recommendation\nLetter of recommendation\nOur ref: 10\nMarch 31, 2026\nThis office has engaged M/s National Infrastructure Corp. Ltd. for the work “Institutional\nBuilding — Uttar Pradesh Pkg-11” (INR 24.05 Cr), completed on October 8, 2024. On the basis of\nthat engagement we record the following:\nAdherence to the sanctioned programme of work and milestone dates;\nQuality of workmanship accepted at inspection without material objection;\nCompliance with safety"
   }
 }

@@ -116,14 +116,14 @@ def validate_single_answer(qid: str, answer: Any, answer_type: str) -> list[dict
             })
 
     elif answer_type == "money":
-        min_v = bounds.get("min", 0.0)
+        min_v = bounds.get("min", -100_000_000_000.0)
         max_v = bounds.get("max", 100_000_000_000.0)
-        if num_val < min_v:
+        if num_val < 0.0:
             issues.append({
                 "qid": qid,
-                "severity": "ERROR",
+                "severity": "WARNING",
                 "code": "NEGATIVE_MONEY",
-                "message": f"Money value cannot be negative ({num_val})."
+                "message": f"Money value is negative ({num_val}). Verify question explicitly asks for signed difference."
             })
         elif num_val > COMPANY_METADATA["total_delivered_value_inr"] * 2:
             issues.append({

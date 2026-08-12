@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-021.pdf",
   "size_bytes": 48476,
-  "char_count": 1087,
+  "char_count": 955,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Imran Joshi",
+    "engineer_name": null,
     "employee_id": "EMP-016",
     "certification_type": "PMP",
     "credential_id": "PMI-200021",

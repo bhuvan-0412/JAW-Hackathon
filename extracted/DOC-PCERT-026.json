@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-026.pdf",
   "size_bytes": 48663,
-  "char_count": 1082,
+  "char_count": 950,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Manoj Verma",
+    "engineer_name": null,
     "employee_id": "EMP-021",
     "certification_type": "PMP",
     "credential_id": "PMI-200026",

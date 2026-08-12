@@ -3,11 +3,11 @@
   "doc_type": "personnel_certificate",
   "filename": "personnel_certificate/DOC-PCERT-040.pdf",
   "size_bytes": 48633,
-  "char_count": 1095,
+  "char_count": 963,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "engineer_name": "Tanvir Malhotra",
+    "engineer_name": null,
     "employee_id": "EMP-035",
     "certification_type": "PMP",
     "credential_id": "PMI-200040",
