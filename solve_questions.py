@@ -8,6 +8,7 @@ import json
 import sqlite3
 import datetime
 import argparse
+import csv
 import openpyxl
 import numpy as np
 from dateutil import parser as dt_parser
@@ -339,40 +340,43 @@ def solve_single_question(q, conn):
     if atype == "days": return 100
     return 0
 
+def write_submission(answers: dict, out_path: str):
+    with open(out_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['question_id', 'answer'])
+        for qid, answer in answers.items():
+            if isinstance(answer, float):
+                if answer.is_integer():
+                    formatted_ans = int(answer)
+                else:
+                    formatted_ans = f"{answer:.2f}"
+            else:
+                formatted_ans = answer
+            writer.writerow([qid, formatted_ans])
+
 def solve_all(input_json, output_csv):
     conn = sqlite3.connect(DB_PATH)
-    with open(input_json) as f:
+    with open(input_json, 'r', encoding='utf-8') as f:
         data = json.load(f)
         
     questions = data["questions"] if isinstance(data, dict) and "questions" in data else data
     
     print(f"Solving {len(questions)} questions from {input_json}...")
     
-    results = []
+    answers = {}
     for q in questions:
         qid = q["qid"] if "qid" in q else q.get("question_id")
         ans = solve_single_question(q, conn)
-        results.append((qid, ans))
+        answers[qid] = ans
         
-    with open(output_csv, 'w', encoding='utf-8') as f:
-        f.write("question_id,answer\n")
-        for qid, ans in results:
-            if isinstance(ans, float):
-                if ans.is_integer():
-                    ans_str = str(int(ans))
-                else:
-                    ans_str = f"{ans:.2f}"
-            else:
-                ans_str = str(ans)
-            f.write(f"{qid},{ans_str}\n")
-            
-    print(f"Saved {len(results)} answers to {output_csv}!")
+    write_submission(answers, output_csv)
+    print(f"Saved {len(answers)} answers to {output_csv}!")
     conn.close()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", default="sample_questions.json")
-    parser.add_argument("--output", default="sample_submission_test.csv")
+    parser.add_argument("--input", "--questions", default="questions.json", dest="input")
+    parser.add_argument("--output", "--out", default="submission.csv", dest="output")
     args = parser.parse_args()
     
     solve_all(args.input, args.output)

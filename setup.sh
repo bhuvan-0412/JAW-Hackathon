@@ -1,12 +1,19 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
-echo "=== Setting up environment for Hackathon Pipeline ==="
+echo "================================================="
+echo " Setting up environment for Hackathon Pipeline"
+echo "================================================="
 
-# Check Python version
-python3 --version || python --version
+# Check Python environment
+PYTHON_BIN=$(which python3 || which python)
+echo "Using Python: $PYTHON_BIN"
+$PYTHON_BIN --version
 
-# Install dependencies from requirements.txt
-pip install -r requirements.txt --quiet --no-index --find-links ./wheels 2>/dev/null || pip install -r requirements.txt --quiet
+# Ensure output and cache directories exist
+mkdir -p ./extracted ./reports ./submissions
 
-echo "=== Environment Setup Complete ==="
+echo "================================================="
+echo " Setup complete! Ready for pipeline run."
+echo "================================================="
+exit 0

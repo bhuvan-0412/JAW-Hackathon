@@ -1,56 +1,60 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
-# Default arguments
-DOCS_DIR="documents"
-QUESTIONS_FILE="questions.json"
-OUT_FILE="submission.csv"
+DOCS=""
+QUESTIONS=""
+OUT=""
 
 # Parse CLI flags
 while [[ $# -gt 0 ]]; do
-  case $1 in
+  case "$1" in
     --docs)
-      DOCS_DIR="$2"
+      DOCS="$2"
       shift 2
       ;;
     --questions)
-      QUESTIONS_FILE="$2"
+      QUESTIONS="$2"
       shift 2
       ;;
     --out)
-      OUT_FILE="$2"
+      OUT="$2"
       shift 2
       ;;
     *)
-      echo "Unknown option $1"
+      echo "Unknown argument: $1" >&2
       exit 1
       ;;
   esac
 done
 
+if [[ -z "$DOCS" || -z "$QUESTIONS" || -z "$OUT" ]]; then
+  echo "Usage: ./run.sh --docs DIR --questions FILE --out FILE" >&2
+  exit 1
+fi
+
+PYTHON_BIN=$(which python || which python3 || echo "python")
+
 echo "================================================="
 echo " Starting End-to-End Hackathon Pipeline Run"
-echo "   Docs Dir:      $DOCS_DIR"
-echo "   Questions:     $QUESTIONS_FILE"
-echo "   Output CSV:    $OUT_FILE"
+echo "   Docs Dir:      $DOCS"
+echo "   Questions:     $QUESTIONS"
+echo "   Output CSV:    $OUT"
+echo "   Python Bin:    $PYTHON_BIN"
 echo "================================================="
 
-# Stage 1: Extraction Stage (Generic Recursive Scan)
-echo "[Stage 1/4] Running Generic Extraction Pipeline..."
-python extract_pipeline.py --docs "$DOCS_DIR" --output-dir extracted
+# Stage 1: Document Ingestion
+echo "[1/3] Ingesting documents from $DOCS ..."
+$PYTHON_BIN extract_pipeline.py --docs "$DOCS" --output-dir ./extracted/
 
-# Stage 2: Entity Resolution
-echo "[Stage 2/4] Running Generalizable Entity Resolution..."
-python build_entities.py --extracted-dir extracted --out entities.json
+# Stage 2: Entity Graph & Database Index Population
+echo "[2/3] Building entity graph & index database ..."
+$PYTHON_BIN build_entities.py --extracted-dir ./extracted/ --out ./entities.json
+$PYTHON_BIN build_index.py --extracted-dir ./extracted/ --db estate_index.db
 
-# Stage 3: Index Population
-echo "[Stage 3/4] Building SQLite Index..."
-python build_index.py --extracted-dir extracted --db estate_index.db
-
-# Stage 4: Reasoning & Solver
-echo "[Stage 4/4] Executing Reasoning Engine..."
-python solve_questions.py --input "$QUESTIONS_FILE" --output "$OUT_FILE"
+# Stage 3: Question Answering Engine
+echo "[3/3] Answering questions from $QUESTIONS ..."
+$PYTHON_BIN solve_questions.py --input "$QUESTIONS" --output "$OUT"
 
 echo "================================================="
-echo " Pipeline Complete! Submission saved to $OUT_FILE"
+echo " Done. Successfully wrote $OUT"
 echo "================================================="
