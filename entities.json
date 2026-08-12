@@ -13,8 +13,8 @@
       ],
       "project_name": "RCC Bridge \u2014 Gujarat Pkg-1",
       "client_raw_names": [
-        "National Special Projects Office (government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (government)"
       ],
       "contract_value": 333800000.0,
       "start_date": null,
@@ -38,9 +38,9 @@
       ],
       "project_name": "Sewerage Network \u2014 Rajasthan Pkg-10",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "The Managing Director / Executive Director",
         "Irrigation & Waterways Dept, Govt of Rajasthan (Government)",
+        "The Managing Director / Executive Director",
+        "Peninsular Petroleum Corporation",
         "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
       "contract_value": 234800000.0,
@@ -56,8 +56,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-004",
-      "client_name": "Peninsular Petroleum Corporation"
+      "client_id": "CLIENT-010",
+      "client_name": "Irrigation & Waterways Department, Government of Rajasthan"
     },
     {
       "package_code": "Pkg-100",
@@ -90,8 +90,8 @@
       ],
       "project_name": "Six-Lane Highway \u2014 Uttar Pradesh Pkg-101",
       "client_raw_names": [
-        "Lakshya Engineering & Construction (private)",
-        "Lakshya Engineering & Construction"
+        "Lakshya Engineering & Construction",
+        "Lakshya Engineering & Construction (private)"
       ],
       "contract_value": 977200000.0,
       "start_date": null,
@@ -106,7 +106,7 @@
       "has_reference_letter": false,
       "has_performance_bond": true,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-102",
@@ -115,8 +115,8 @@
       ],
       "project_name": "Rail Tunnel \u2014 Jharkhand Pkg-102",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 1722200000.0,
       "start_date": null,
@@ -164,8 +164,8 @@
       ],
       "project_name": "Six-Lane Highway \u2014 Maharashtra Pkg-104",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 860900000.0,
       "start_date": null,
@@ -189,9 +189,9 @@
       ],
       "project_name": "Hydro Tunnel \u2014 West Bengal Pkg-105",
       "client_raw_names": [
-        "Central Works & Buildings Bureau",
         "Suvarna Projects Limited",
-        "Suvarna Projects Limited (private)"
+        "Suvarna Projects Limited (private)",
+        "Central Works & Buildings Bureau"
       ],
       "contract_value": 1015699999.9999999,
       "start_date": null,
@@ -207,8 +207,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-020",
-      "client_name": "Central Works & Buildings Bureau"
+      "client_id": "CLIENT-005",
+      "client_name": "Suvarna Projects Limited"
     },
     {
       "package_code": "Pkg-106",
@@ -217,8 +217,8 @@
       ],
       "project_name": "Extradosed Bridge \u2014 Gujarat Pkg-106",
       "client_raw_names": [
-        "National Special Projects Office (Government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (Government)"
       ],
       "contract_value": 400000000.0,
       "start_date": null,
@@ -242,8 +242,8 @@
       ],
       "project_name": "Ring Road \u2014 Uttar Pradesh Pkg-107",
       "client_raw_names": [
-        "National Expressway Development Authority",
-        "National Expressway Development Authority (government)"
+        "National Expressway Development Authority (government)",
+        "National Expressway Development Authority"
       ],
       "contract_value": 1329700000.0,
       "start_date": null,
@@ -291,8 +291,8 @@
       ],
       "project_name": "Cable Stayed Bridge \u2014 Delhi Pkg-109",
       "client_raw_names": [
-        "National Special Projects Office (Government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (Government)"
       ],
       "contract_value": 1136000000.0,
       "start_date": null,
@@ -315,8 +315,8 @@
       ],
       "project_name": "Institutional Building \u2014 Uttar Pradesh Pkg-11",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (psu)"
+        "Peninsular Petroleum Corporation (psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 240500000.0,
       "start_date": null,
@@ -339,8 +339,8 @@
       ],
       "project_name": "Greenfield Expressway \u2014 West Bengal Pkg-110",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 2000000000.0,
       "start_date": null,
@@ -366,8 +366,8 @@
       "project_name": "Rail Tunnel \u2014 Rajasthan Pkg-111",
       "client_raw_names": [
         "Government of India / State Authority \u00b7 Rajasthan \u00b7 IN",
-        "Arunodaya Infrastructure",
         "Arunodaya Infrastructure (Private)",
+        "Arunodaya Infrastructure",
         "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
       "contract_value": 526300000.0,
@@ -393,8 +393,8 @@
       ],
       "project_name": "Steel Truss Bridge \u2014 Gujarat Pkg-112",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 1061900000.0,
       "start_date": null,
@@ -419,8 +419,8 @@
       "project_name": "Ring Road \u2014 Uttar Pradesh Pkg-113",
       "client_raw_names": [
         "Mega Infrastructure Authority",
-        "National Special Projects Office (Government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (Government)"
       ],
       "contract_value": 2000000000.0,
       "start_date": null,
@@ -471,8 +471,8 @@
       ],
       "project_name": "Cable Stayed Bridge \u2014 Jharkhand Pkg-115",
       "client_raw_names": [
-        "Jal Nigam, Jharkhand",
-        "Jal Nigam, Jharkhand (government)"
+        "Jal Nigam, Jharkhand (government)",
+        "Jal Nigam, Jharkhand"
       ],
       "contract_value": 814400000.0,
       "start_date": null,
@@ -495,8 +495,8 @@
       ],
       "project_name": "Six-Lane Highway \u2014 West Bengal Pkg-116",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 2000000000.0,
       "start_date": null,
@@ -520,10 +520,10 @@
       ],
       "project_name": "Hydro Tunnel \u2014 Jharkhand Pkg-117",
       "client_raw_names": [
-        "Arunodaya Infrastructure (Private)",
-        "Arunodaya Infrastructure",
-        "Central Works & Buildings Bureau",
         "The Managing Director / Executive Director",
+        "Arunodaya Infrastructure",
+        "Arunodaya Infrastructure (Private)",
+        "Central Works & Buildings Bureau",
         "Government of India / State Authority \u00b7 Jharkhand \u00b7 IN"
       ],
       "contract_value": 474100000.0,
@@ -540,8 +540,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-019",
-      "client_name": "Arunodaya Infrastructure"
+      "client_id": "CLIENT-006",
+      "client_name": "The Managing Director / Executive Director"
     },
     {
       "package_code": "Pkg-118",
@@ -550,8 +550,8 @@
       ],
       "project_name": "Steel Truss Bridge \u2014 Rajasthan Pkg-118",
       "client_raw_names": [
-        "Central Works & Buildings Bureau",
         "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+        "Central Works & Buildings Bureau",
         "Central Works & Buildings Bureau (Government)"
       ],
       "contract_value": 400000000.0,
@@ -566,8 +566,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-020",
-      "client_name": "Central Works & Buildings Bureau"
+      "client_id": "CLIENT-018",
+      "client_name": "Irrigation & Waterways Department, Government of Uttar Pradesh"
     },
     {
       "package_code": "Pkg-119",
@@ -576,9 +576,9 @@
       ],
       "project_name": "Six-Lane Highway \u2014 Tamil Nadu Pkg-119",
       "client_raw_names": [
-        "Tamil Nadu Municipal Corporation",
         "The Managing Director / Executive Director",
-        "Tamil Nadu Municipal Corporation (Government)"
+        "Tamil Nadu Municipal Corporation (Government)",
+        "Tamil Nadu Municipal Corporation"
       ],
       "contract_value": 1464800000.0,
       "start_date": null,
@@ -593,8 +593,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-013",
-      "client_name": "Tamil Nadu Municipal Corporation"
+      "client_id": "CLIENT-006",
+      "client_name": "The Managing Director / Executive Director"
     },
     {
       "package_code": "Pkg-12",
@@ -603,9 +603,9 @@
       ],
       "project_name": "Material Handling Plant \u2014 Jharkhand Pkg-12",
       "client_raw_names": [
-        "Jal Nigam, Jharkhand",
         "Jal Nigam, Jharkhand (government)",
-        "Suvarna Projects Limited"
+        "Suvarna Projects Limited",
+        "Jal Nigam, Jharkhand"
       ],
       "contract_value": 730200000.0,
       "start_date": null,
@@ -630,8 +630,8 @@
       ],
       "project_name": "Highway Tunnel \u2014 West Bengal Pkg-120",
       "client_raw_names": [
-        "Irrigation & Waterways Dept, Govt of West Bengal",
-        "Irrigation & Waterways Dept, Govt of West"
+        "Irrigation & Waterways Dept, Govt of West",
+        "Irrigation & Waterways Dept, Govt of West Bengal"
       ],
       "contract_value": 746600000.0,
       "start_date": null,
@@ -647,7 +647,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-024",
-      "client_name": "Irrigation & Waterways Department, Government of West Bengal"
+      "client_name": "Irrigation & Waterways Department, Government of West"
     },
     {
       "package_code": "Pkg-121",
@@ -656,8 +656,8 @@
       ],
       "project_name": "Cable Stayed Bridge \u2014 Uttar Pradesh Pkg-121",
       "client_raw_names": [
-        "Jal Nigam, Uttar Pradesh",
-        "Jal Nigam, Uttar Pradesh (Government)"
+        "Jal Nigam, Uttar Pradesh (Government)",
+        "Jal Nigam, Uttar Pradesh"
       ],
       "contract_value": 910400000.0000001,
       "start_date": null,
@@ -706,9 +706,9 @@
       ],
       "project_name": "Rail Tunnel \u2014 West Bengal Pkg-123",
       "client_raw_names": [
+        "Trishakti Power Generation Corporation",
         "Mahanadi Steel Corporation",
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 400000000.0,
       "start_date": null,
@@ -722,8 +722,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-124",
@@ -780,9 +780,9 @@
       ],
       "project_name": "Hydro Tunnel \u2014 West Bengal Pkg-126",
       "client_raw_names": [
+        "Trishakti Power Generation Corporation",
         "Mega Infrastructure Authority (government)",
-        "Mega Infrastructure Authority",
-        "Trishakti Power Generation Corporation"
+        "Mega Infrastructure Authority"
       ],
       "contract_value": 954599999.9999999,
       "start_date": null,
@@ -796,8 +796,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-002",
-      "client_name": "Mega Infrastructure Authority"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-127",
@@ -821,7 +821,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     },
     {
       "package_code": "Pkg-128",
@@ -854,9 +854,9 @@
       ],
       "project_name": "Hydro Tunnel \u2014 Uttar Pradesh Pkg-129",
       "client_raw_names": [
-        "National Expressway Development Authority",
+        "Trishakti Power Generation Corporation",
         "National Expressway Development Authority (government)",
-        "Trishakti Power Generation Corporation"
+        "National Expressway Development Authority"
       ],
       "contract_value": 400000000.0,
       "start_date": null,
@@ -871,8 +871,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-015",
-      "client_name": "National Expressway Development Authority"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-13",
@@ -895,7 +895,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -905,9 +905,9 @@
       ],
       "project_name": "Extradosed Bridge \u2014 Uttar Pradesh Pkg-130",
       "client_raw_names": [
-        "Jal Nigam, Uttar Pradesh",
+        "Irrigation & Waterways Dept, Govt of West",
         "Jal Nigam, Uttar Pradesh (government)",
-        "Irrigation & Waterways Dept, Govt of West"
+        "Jal Nigam, Uttar Pradesh"
       ],
       "contract_value": 414500000.0,
       "start_date": null,
@@ -922,8 +922,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-026",
-      "client_name": "Jal Nigam, Uttar Pradesh"
+      "client_id": "CLIENT-024",
+      "client_name": "Irrigation & Waterways Department, Government of West"
     },
     {
       "package_code": "Pkg-131",
@@ -957,8 +957,8 @@
       "project_name": "Patch Repair \u2014 Delhi Pkg-132",
       "client_raw_names": [
         "Subarnarekha Valley Corporation (Psu)",
-        "Subarnarekha Valley Corporation",
-        "Gujarat Municipal Corporation"
+        "Gujarat Municipal Corporation",
+        "Subarnarekha Valley Corporation"
       ],
       "contract_value": 20400000.0,
       "start_date": null,
@@ -1031,8 +1031,8 @@
       ],
       "project_name": "Drainage Works \u2014 Gujarat Pkg-135",
       "client_raw_names": [
-        "Public Health Engineering Dept, Gujarat (government)",
-        "Public Health Engineering Dept, Gujarat"
+        "Public Health Engineering Dept, Gujarat",
+        "Public Health Engineering Dept, Gujarat (government)"
       ],
       "contract_value": 23300000.0,
       "start_date": null,
@@ -1080,8 +1080,8 @@
       ],
       "project_name": "Pipeline Laying \u2014 Delhi Pkg-137",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 19200000.0,
       "start_date": null,
@@ -1105,8 +1105,8 @@
       ],
       "project_name": "Patch Repair \u2014 Gujarat Pkg-138",
       "client_raw_names": [
-        "Public Works Department, Govt of Gujarat (government)",
-        "Public Works Department, Govt of Gujarat"
+        "Public Works Department, Govt of Gujarat",
+        "Public Works Department, Govt of Gujarat (government)"
       ],
       "contract_value": 12000000.0,
       "start_date": null,
@@ -1154,8 +1154,8 @@
       ],
       "project_name": "Road Widening \u2014 West Bengal Pkg-14",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 101100000.0,
       "start_date": null,
@@ -1179,8 +1179,8 @@
       ],
       "project_name": "Pipeline Laying \u2014 Maharashtra Pkg-140",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (Psu)"
+        "Peninsular Petroleum Corporation (Psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 28200000.0,
       "start_date": null,
@@ -1204,8 +1204,8 @@
       ],
       "project_name": "Drainage Works \u2014 Tamil Nadu Pkg-141",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
-        "Mahanadi Steel Corporation (psu)"
+        "Mahanadi Steel Corporation (psu)",
+        "Mahanadi Steel Corporation"
       ],
       "contract_value": 39900000.0,
       "start_date": null,
@@ -1220,7 +1220,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-142",
@@ -1269,7 +1269,7 @@
       "has_reference_letter": false,
       "has_performance_bond": true,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-144",
@@ -1294,7 +1294,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-145",
@@ -1342,7 +1342,7 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -1376,8 +1376,8 @@
       ],
       "project_name": "School Building \u2014 Delhi Pkg-148",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 15400000.0,
       "start_date": null,
@@ -1415,7 +1415,7 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -1439,7 +1439,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -1449,9 +1449,9 @@
       ],
       "project_name": "Rural Road Upgradation \u2014 Jharkhand Pkg-150",
       "client_raw_names": [
-        "The Managing Director / Executive Director",
         "Arunodaya Infrastructure",
-        "Arunodaya Infrastructure (Private)"
+        "Arunodaya Infrastructure (Private)",
+        "The Managing Director / Executive Director"
       ],
       "contract_value": 29900000.000000004,
       "start_date": null,
@@ -1466,8 +1466,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
-      "client_name": "The Managing Director / Executive Director"
+      "client_id": "CLIENT-019",
+      "client_name": "Arunodaya Infrastructure"
     },
     {
       "package_code": "Pkg-151",
@@ -1476,8 +1476,8 @@
       ],
       "project_name": "Anganwadi Centre \u2014 Gujarat Pkg-151",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 25000000.0,
       "start_date": null,
@@ -1500,8 +1500,8 @@
       ],
       "project_name": "Mini Water Supply \u2014 West Bengal Pkg-152",
       "client_raw_names": [
-        "Irrigation & Waterways Dept, Govt of West Bengal",
-        "Irrigation & Waterways Dept, Govt of West"
+        "Irrigation & Waterways Dept, Govt of West",
+        "Irrigation & Waterways Dept, Govt of West Bengal"
       ],
       "contract_value": 16700000.0,
       "start_date": null,
@@ -1515,7 +1515,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-024",
-      "client_name": "Irrigation & Waterways Department, Government of West Bengal"
+      "client_name": "Irrigation & Waterways Department, Government of West"
     },
     {
       "package_code": "Pkg-153",
@@ -1548,8 +1548,8 @@
       ],
       "project_name": "School Building \u2014 Delhi Pkg-154",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 19400000.0,
       "start_date": null,
@@ -1573,8 +1573,8 @@
       ],
       "project_name": "Handpump Installation \u2014 Gujarat Pkg-155",
       "client_raw_names": [
-        "Gujarat Municipal Corporation (government)",
-        "Gujarat Municipal Corporation"
+        "Gujarat Municipal Corporation",
+        "Gujarat Municipal Corporation (government)"
       ],
       "contract_value": 16399999.999999998,
       "start_date": null,
@@ -1597,9 +1597,9 @@
       ],
       "project_name": "Pumping Station \u2014 Tamil Nadu Pkg-16",
       "client_raw_names": [
-        "Tamil Nadu Municipal Corporation",
+        "Tamil Nadu Municipal Corporation (government)",
         "Mahanadi Steel Corporation",
-        "Tamil Nadu Municipal Corporation (government)"
+        "Tamil Nadu Municipal Corporation"
       ],
       "contract_value": 268000000.0,
       "start_date": null,
@@ -1676,7 +1676,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -1696,7 +1696,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -1724,8 +1724,8 @@
       ],
       "project_name": "Hospital Block \u2014 West Bengal Pkg-18",
       "client_raw_names": [
-        "Lakshya Engineering & Construction (private)",
-        "LAKSHYA ENGINEERING & CONSTRUCTION"
+        "LAKSHYA ENGINEERING & CONSTRUCTION",
+        "Lakshya Engineering & Construction (private)"
       ],
       "contract_value": 98000000.0,
       "start_date": null,
@@ -1740,7 +1740,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-181",
@@ -1777,7 +1777,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -1820,7 +1820,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-190",
@@ -1839,7 +1839,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -1859,7 +1859,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -1894,9 +1894,9 @@
       ],
       "project_name": "Lift Irrigation \u2014 Madhya Pradesh Pkg-20",
       "client_raw_names": [
-        "National Expressway Development Authority",
+        "MAHANADI STEEL CORPORATION",
         "National Expressway Development Authority (government)",
-        "MAHANADI STEEL CORPORATION"
+        "National Expressway Development Authority"
       ],
       "contract_value": 239200000.00000003,
       "start_date": null,
@@ -1911,8 +1911,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-015",
-      "client_name": "National Expressway Development Authority"
+      "client_id": "CLIENT-008",
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-202",
@@ -1949,7 +1949,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2030,7 +2030,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2050,7 +2050,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2070,7 +2070,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2098,9 +2098,9 @@
       ],
       "project_name": "RCC Bridge \u2014 Jharkhand Pkg-22",
       "client_raw_names": [
+        "Trishakti Power Generation Corporation",
         "Jharkhand Municipal Corporation (government)",
-        "Jharkhand Municipal Corporation",
-        "Trishakti Power Generation Corporation"
+        "Jharkhand Municipal Corporation"
       ],
       "contract_value": 87400000.0,
       "start_date": null,
@@ -2115,8 +2115,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-017",
-      "client_name": "Jharkhand Municipal Corporation"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-220",
@@ -2135,7 +2135,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2155,7 +2155,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2165,8 +2165,8 @@
       ],
       "project_name": "Water Treatment Plant \u2014 Madhya Pradesh Pkg-23",
       "client_raw_names": [
-        "Mahanadi Steel Corporation (Psu)",
-        "MAHANADI STEEL CORPORATION"
+        "MAHANADI STEEL CORPORATION",
+        "Mahanadi Steel Corporation (Psu)"
       ],
       "contract_value": 349200000.0,
       "start_date": null,
@@ -2180,7 +2180,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-231",
@@ -2253,7 +2253,7 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "client_name": "The Managing Director / Executive Director"
     },
     {
@@ -2263,8 +2263,8 @@
       ],
       "project_name": "Stormwater Drainage \u2014 Madhya Pradesh Pkg-24",
       "client_raw_names": [
-        "Government of India / State Authority \u00b7 Madhya Pradesh \u00b7 IN",
         "Meridian Constructors & Co.",
+        "Government of India / State Authority \u00b7 Madhya Pradesh \u00b7 IN",
         "Meridian Constructors & Co. (Private)",
         "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
@@ -2283,7 +2283,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     },
     {
       "package_code": "Pkg-25",
@@ -2292,8 +2292,8 @@
       ],
       "project_name": "Residential Quarters \u2014 Uttar Pradesh Pkg-25",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
         "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)",
         "The Managing Director / Executive Director"
       ],
       "contract_value": 417100000.0,
@@ -2380,7 +2380,7 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -2390,9 +2390,9 @@
       ],
       "project_name": "ROB \u2014 Jharkhand Pkg-29",
       "client_raw_names": [
-        "Government of India / State Authority \u00b7 Jharkhand \u00b7 IN",
         "Arunodaya Infrastructure",
-        "Arunodaya Infrastructure (Private)"
+        "Arunodaya Infrastructure (Private)",
+        "Government of India / State Authority \u00b7 Jharkhand \u00b7 IN"
       ],
       "contract_value": 223800000.0,
       "start_date": null,
@@ -2441,9 +2441,9 @@
       ],
       "project_name": "WTP Augmentation \u2014 West Bengal Pkg-30",
       "client_raw_names": [
-        "Lakshya Engineering & Construction (private)",
+        "LAKSHYA ENGINEERING & CONSTRUCTION",
         "The Managing Director / Executive Director",
-        "LAKSHYA ENGINEERING & CONSTRUCTION"
+        "Lakshya Engineering & Construction (private)"
       ],
       "contract_value": 182600000.00000003,
       "start_date": null,
@@ -2459,7 +2459,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-31",
@@ -2468,8 +2468,8 @@
       ],
       "project_name": "STP \u2014 Uttar Pradesh Pkg-31",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 721000000.0,
       "start_date": null,
@@ -2493,8 +2493,8 @@
       ],
       "project_name": "Institutional Building \u2014 Gujarat Pkg-32",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
         "The Managing Director / Executive Director",
+        "Mahanadi Steel Corporation",
         "Mahanadi Steel Corporation (Psu)"
       ],
       "contract_value": 145700000.0,
@@ -2509,8 +2509,8 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_id": "CLIENT-006",
+      "client_name": "The Managing Director / Executive Director"
     },
     {
       "package_code": "Pkg-33",
@@ -2519,9 +2519,9 @@
       ],
       "project_name": "Process Piping Package \u2014 Gujarat Pkg-33",
       "client_raw_names": [
-        "Central Works & Buildings Bureau",
+        "Trishakti Power Generation Corporation",
         "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Central Works & Buildings Bureau"
       ],
       "contract_value": 210400000.0,
       "start_date": null,
@@ -2536,8 +2536,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-020",
-      "client_name": "Central Works & Buildings Bureau"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-34",
@@ -2547,8 +2547,8 @@
       "project_name": "Canal Lining \u2014 Delhi Pkg-34",
       "client_raw_names": [
         "Peninsular Petroleum Corporation",
-        "National Special Projects Office (Government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (Government)"
       ],
       "contract_value": 413500000.0,
       "start_date": null,
@@ -2597,8 +2597,8 @@
       ],
       "project_name": "ROB \u2014 Delhi Pkg-36",
       "client_raw_names": [
-        "Arunodaya Infrastructure (Private)",
-        "Government of India / State Authority \u00b7 Delhi \u00b7 IN"
+        "Government of India / State Authority \u00b7 Delhi \u00b7 IN",
+        "Arunodaya Infrastructure (Private)"
       ],
       "contract_value": 366300000.0,
       "start_date": null,
@@ -2622,9 +2622,9 @@
       ],
       "project_name": "WTP Augmentation \u2014 Delhi Pkg-37",
       "client_raw_names": [
+        "Trishakti Power Generation Corporation",
         "Trishakti Power Generation Corporation (psu)",
-        "Meridian Constructors & Co.",
-        "Trishakti Power Generation Corporation"
+        "Meridian Constructors & Co."
       ],
       "contract_value": 67500000.0,
       "start_date": null,
@@ -2649,8 +2649,8 @@
       ],
       "project_name": "STP \u2014 Jharkhand Pkg-38",
       "client_raw_names": [
-        "Central Works & Buildings Bureau",
         "Trishakti Power Generation Corporation",
+        "Central Works & Buildings Bureau",
         "Central Works & Buildings Bureau (Government)"
       ],
       "contract_value": 321400000.0,
@@ -2665,8 +2665,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-020",
-      "client_name": "Central Works & Buildings Bureau"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-39",
@@ -2675,8 +2675,8 @@
       ],
       "project_name": "Hospital Block \u2014 Odisha Pkg-39",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (Psu)"
+        "Peninsular Petroleum Corporation (Psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 181700000.00000003,
       "start_date": null,
@@ -2699,8 +2699,8 @@
       ],
       "project_name": "Residential Quarters \u2014 Odisha Pkg-4",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (psu)"
+        "Peninsular Petroleum Corporation (psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 112300000.0,
       "start_date": null,
@@ -2724,8 +2724,8 @@
       ],
       "project_name": "Process Piping Package \u2014 Uttar Pradesh Pkg-40",
       "client_raw_names": [
-        "National Expressway Development Authority",
-        "National Expressway Development Authority (government)"
+        "National Expressway Development Authority (government)",
+        "National Expressway Development Authority"
       ],
       "contract_value": 101300000.00000001,
       "start_date": null,
@@ -2789,7 +2789,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     },
     {
       "package_code": "Pkg-43",
@@ -2798,9 +2798,9 @@
       ],
       "project_name": "Flyover \u2014 Uttar Pradesh Pkg-43",
       "client_raw_names": [
+        "Trishakti Power Generation Corporation",
         "Maharashtra Municipal Corporation",
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 140300000.0,
       "start_date": null,
@@ -2814,8 +2814,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-021",
-      "client_name": "Maharashtra Municipal Corporation"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-44",
@@ -2824,8 +2824,8 @@
       ],
       "project_name": "Water Treatment Plant \u2014 West Bengal Pkg-44",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
         "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)",
         "The Managing Director / Executive Director",
         "LAKSHYA ENGINEERING & CONSTRUCTION"
       ],
@@ -2852,9 +2852,9 @@
       ],
       "project_name": "STP \u2014 Odisha Pkg-45",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
         "Public Health Engineering Dept, Odisha",
-        "Public Health Engineering Dept, Odisha (government)"
+        "Public Health Engineering Dept, Odisha (government)",
+        "Mahanadi Steel Corporation"
       ],
       "contract_value": 182800000.0,
       "start_date": null,
@@ -2870,8 +2870,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_id": "CLIENT-007",
+      "client_name": "Public Health Engineering Department, Odisha"
     },
     {
       "package_code": "Pkg-46",
@@ -2880,10 +2880,10 @@
       ],
       "project_name": "Hospital Block \u2014 West Bengal Pkg-46",
       "client_raw_names": [
-        "Government of India / State Authority \u00b7 West Bengal \u00b7 IN",
-        "Lakshya Engineering & Construction (private)",
+        "Lakshya Engineering & Construction",
         "Central Works & Buildings Bureau",
-        "Lakshya Engineering & Construction"
+        "Government of India / State Authority \u00b7 West Bengal \u00b7 IN",
+        "Lakshya Engineering & Construction (private)"
       ],
       "contract_value": 318900000.0,
       "start_date": null,
@@ -2900,7 +2900,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-47",
@@ -2935,8 +2935,8 @@
       ],
       "project_name": "Canal Lining \u2014 Uttar Pradesh Pkg-48",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 135600000.0,
       "start_date": null,
@@ -2959,8 +2959,8 @@
       ],
       "project_name": "Rigid Pavement \u2014 Madhya Pradesh Pkg-49",
       "client_raw_names": [
-        "MAHANADI STEEL CORPORATION",
-        "Mahanadi Steel Corporation (psu)"
+        "Mahanadi Steel Corporation (psu)",
+        "MAHANADI STEEL CORPORATION"
       ],
       "contract_value": 298700000.0,
       "start_date": null,
@@ -2975,7 +2975,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-5",
@@ -2984,8 +2984,8 @@
       ],
       "project_name": "Substation EPC \u2014 Madhya Pradesh Pkg-5",
       "client_raw_names": [
-        "The Managing Director / Executive Director",
         "Suvarna Projects Limited",
+        "The Managing Director / Executive Director",
         "Suvarna Projects Limited (Private)"
       ],
       "contract_value": 244100000.0,
@@ -3002,7 +3002,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-005",
-      "client_name": "The Managing Director / Executive Director"
+      "client_name": "Suvarna Projects Limited"
     },
     {
       "package_code": "Pkg-50",
@@ -3050,7 +3050,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-52",
@@ -3074,7 +3074,7 @@
       "has_reference_letter": false,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-53",
@@ -3107,8 +3107,8 @@
       ],
       "project_name": "Process Piping Package \u2014 Tamil Nadu Pkg-54",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
         "National Expressway Development Authority",
+        "Mahanadi Steel Corporation",
         "Mahanadi Steel Corporation (Psu)"
       ],
       "contract_value": 270500000.0,
@@ -3124,8 +3124,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_id": "CLIENT-015",
+      "client_name": "National Expressway Development Authority"
     },
     {
       "package_code": "Pkg-55",
@@ -3134,8 +3134,8 @@
       ],
       "project_name": "Check Dam \u2014 Delhi Pkg-55",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 121300000.00000001,
       "start_date": null,
@@ -3159,8 +3159,8 @@
       ],
       "project_name": "Rigid Pavement \u2014 Jharkhand Pkg-56",
       "client_raw_names": [
-        "National Expressway Development Authority",
-        "National Expressway Development Authority (government)"
+        "National Expressway Development Authority (government)",
+        "National Expressway Development Authority"
       ],
       "contract_value": 211500000.0,
       "start_date": null,
@@ -3184,9 +3184,9 @@
       ],
       "project_name": "Box Culvert Chain \u2014 Madhya Pradesh Pkg-57",
       "client_raw_names": [
+        "Meridian Constructors & Co. (private)",
         "Government of India / State Authority \u00b7 Madhya Pradesh \u00b7 IN",
-        "Meridian Constructors & Co.",
-        "Meridian Constructors & Co. (private)"
+        "Meridian Constructors & Co."
       ],
       "contract_value": 72900000.0,
       "start_date": null,
@@ -3201,7 +3201,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     },
     {
       "package_code": "Pkg-58",
@@ -3210,9 +3210,9 @@
       ],
       "project_name": "Water Treatment Plant \u2014 Rajasthan Pkg-58",
       "client_raw_names": [
+        "Public Health Engineering Dept, Gujarat",
         "Irrigation & Waterways Dept, Govt of Rajasthan (Government)",
-        "Irrigation & Waterways Dept, Govt of Rajasthan",
-        "Public Health Engineering Dept, Gujarat"
+        "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
       "contract_value": 263900000.0,
       "start_date": null,
@@ -3227,8 +3227,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-010",
-      "client_name": "Irrigation & Waterways Department, Government of Rajasthan"
+      "client_id": "CLIENT-023",
+      "client_name": "Public Health Engineering Department, Gujarat"
     },
     {
       "package_code": "Pkg-59",
@@ -3237,8 +3237,8 @@
       ],
       "project_name": "Stormwater Drainage \u2014 Odisha Pkg-59",
       "client_raw_names": [
-        "The Managing Director / Executive Director",
-        "Public Health Engineering Dept, Odisha"
+        "Public Health Engineering Dept, Odisha",
+        "The Managing Director / Executive Director"
       ],
       "contract_value": 225800000.0,
       "start_date": null,
@@ -3253,8 +3253,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
-      "client_name": "The Managing Director / Executive Director"
+      "client_id": "CLIENT-007",
+      "client_name": "Public Health Engineering Department, Odisha"
     },
     {
       "package_code": "Pkg-6",
@@ -3288,9 +3288,9 @@
       ],
       "project_name": "Hospital Block \u2014 West Bengal Pkg-60",
       "client_raw_names": [
+        "Irrigation & Waterways Dept, Govt of West",
         "Mega Infrastructure Authority",
-        "Irrigation & Waterways Dept, Govt of West Bengal",
-        "Irrigation & Waterways Dept, Govt of West"
+        "Irrigation & Waterways Dept, Govt of West Bengal"
       ],
       "contract_value": 403700000.0,
       "start_date": null,
@@ -3305,8 +3305,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-002",
-      "client_name": "Mega Infrastructure Authority"
+      "client_id": "CLIENT-024",
+      "client_name": "Irrigation & Waterways Department, Government of West"
     },
     {
       "package_code": "Pkg-61",
@@ -3338,8 +3338,8 @@
       ],
       "project_name": "Check Dam \u2014 Gujarat Pkg-62",
       "client_raw_names": [
-        "Public Works Department, Govt of Gujarat (government)",
-        "Public Works Department, Govt of Gujarat"
+        "Public Works Department, Govt of Gujarat",
+        "Public Works Department, Govt of Gujarat (government)"
       ],
       "contract_value": 467299999.99999994,
       "start_date": null,
@@ -3388,8 +3388,8 @@
       ],
       "project_name": "RCC Bridge \u2014 Tamil Nadu Pkg-64",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
         "The Managing Director / Executive Director",
+        "Mahanadi Steel Corporation",
         "Mahanadi Steel Corporation (Psu)"
       ],
       "contract_value": 680900000.0,
@@ -3405,8 +3405,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_id": "CLIENT-006",
+      "client_name": "The Managing Director / Executive Director"
     },
     {
       "package_code": "Pkg-65",
@@ -3415,10 +3415,10 @@
       ],
       "project_name": "Pumping Station \u2014 Uttar Pradesh Pkg-65",
       "client_raw_names": [
-        "The Managing Director / Executive Director",
-        "Jal Nigam, Uttar Pradesh",
         "Jal Nigam, Uttar Pradesh (Government)",
-        "Mega Infrastructure Authority"
+        "Mega Infrastructure Authority",
+        "The Managing Director / Executive Director",
+        "Jal Nigam, Uttar Pradesh"
       ],
       "contract_value": 284100000.0,
       "start_date": null,
@@ -3434,8 +3434,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
-      "client_name": "The Managing Director / Executive Director"
+      "client_id": "CLIENT-026",
+      "client_name": "Jal Nigam, Uttar Pradesh"
     },
     {
       "package_code": "Pkg-66",
@@ -3444,9 +3444,9 @@
       ],
       "project_name": "STP \u2014 Gujarat Pkg-66",
       "client_raw_names": [
-        "The Managing Director / Executive Director",
+        "Public Health Engineering Dept, Gujarat",
         "Public Health Engineering Dept, Gujarat (Government)",
-        "Public Health Engineering Dept, Gujarat"
+        "The Managing Director / Executive Director"
       ],
       "contract_value": 134000000.0,
       "start_date": null,
@@ -3460,8 +3460,8 @@
       ],
       "has_reference_letter": false,
       "has_performance_bond": true,
-      "client_id": "CLIENT-005",
-      "client_name": "The Managing Director / Executive Director"
+      "client_id": "CLIENT-023",
+      "client_name": "Public Health Engineering Department, Gujarat"
     },
     {
       "package_code": "Pkg-67",
@@ -3470,9 +3470,9 @@
       ],
       "project_name": "Residential Quarters \u2014 West Bengal Pkg-67",
       "client_raw_names": [
-        "Government of India / State Authority \u00b7 West Bengal \u00b7 IN",
         "Lakshya Engineering & Construction (Private)",
-        "Lakshya Engineering & Construction"
+        "Lakshya Engineering & Construction",
+        "Government of India / State Authority \u00b7 West Bengal \u00b7 IN"
       ],
       "contract_value": 161700000.00000003,
       "start_date": null,
@@ -3488,7 +3488,7 @@
       "has_reference_letter": true,
       "has_performance_bond": true,
       "client_id": "CLIENT-014",
-      "client_name": "Lakshya Engineering & Construction"
+      "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION"
     },
     {
       "package_code": "Pkg-68",
@@ -3521,8 +3521,8 @@
       ],
       "project_name": "Check Dam \u2014 Maharashtra Pkg-69",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (psu)"
+        "Peninsular Petroleum Corporation (psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 491100000.0,
       "start_date": null,
@@ -3546,8 +3546,8 @@
       ],
       "project_name": "Rigid Pavement \u2014 Madhya Pradesh Pkg-7",
       "client_raw_names": [
-        "Mahanadi Steel Corporation (Psu)",
-        "MAHANADI STEEL CORPORATION"
+        "MAHANADI STEEL CORPORATION",
+        "Mahanadi Steel Corporation (Psu)"
       ],
       "contract_value": 375200000.00000006,
       "start_date": null,
@@ -3562,7 +3562,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-70",
@@ -3571,8 +3571,8 @@
       ],
       "project_name": "Rigid Pavement \u2014 Tamil Nadu Pkg-70",
       "client_raw_names": [
-        "Mahanadi Steel Corporation",
-        "Mahanadi Steel Corporation (psu)"
+        "Mahanadi Steel Corporation (psu)",
+        "Mahanadi Steel Corporation"
       ],
       "contract_value": 682400000.0,
       "start_date": null,
@@ -3587,7 +3587,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-71",
@@ -3598,8 +3598,8 @@
       "client_raw_names": [
         "Trishakti Power Generation Corporation",
         "Government of India / State Authority \u00b7 Gujarat \u00b7 IN",
-        "Jal Nigam, Gujarat (government)",
-        "The Managing Director / Executive Director"
+        "The Managing Director / Executive Director",
+        "Jal Nigam, Gujarat (government)"
       ],
       "contract_value": 388100000.0,
       "start_date": null,
@@ -3624,9 +3624,9 @@
       ],
       "project_name": "WTP Augmentation \u2014 Jharkhand Pkg-72",
       "client_raw_names": [
-        "Jharkhand Municipal Corporation",
         "Jharkhand Municipal Corporation (Government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "Jharkhand Municipal Corporation"
       ],
       "contract_value": 314600000.0,
       "start_date": null,
@@ -3666,7 +3666,7 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -3701,8 +3701,8 @@
       ],
       "project_name": "Process Piping Package \u2014 Delhi Pkg-75",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 413400000.00000006,
       "start_date": null,
@@ -3741,7 +3741,7 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "client_name": "Suvarna Projects Limited"
     },
     {
@@ -3752,8 +3752,8 @@
       "project_name": "Highway Construction \u2014 Rajasthan Pkg-77",
       "client_raw_names": [
         "Government of India / State Authority \u00b7 Rajasthan \u00b7 IN",
-        "Arunodaya Infrastructure",
-        "Arunodaya Infrastructure (Private)"
+        "Arunodaya Infrastructure (Private)",
+        "Arunodaya Infrastructure"
       ],
       "contract_value": 399000000.0,
       "start_date": null,
@@ -3778,9 +3778,9 @@
       ],
       "project_name": "Flyover \u2014 Jharkhand Pkg-78",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
+        "Arunodaya Infrastructure",
         "Subarnarekha Valley Corporation",
-        "Arunodaya Infrastructure"
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 98000000.0,
       "start_date": null,
@@ -3795,8 +3795,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-022",
-      "client_name": "Subarnarekha Valley Corporation"
+      "client_id": "CLIENT-019",
+      "client_name": "Arunodaya Infrastructure"
     },
     {
       "package_code": "Pkg-79",
@@ -3805,8 +3805,8 @@
       ],
       "project_name": "Pumping Station \u2014 Odisha Pkg-79",
       "client_raw_names": [
-        "Central Works & Buildings Bureau",
         "Trishakti Power Generation Corporation",
+        "Central Works & Buildings Bureau",
         "Central Works & Buildings Bureau (Government)"
       ],
       "contract_value": 358600000.0,
@@ -3822,8 +3822,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-020",
-      "client_name": "Central Works & Buildings Bureau"
+      "client_id": "CLIENT-012",
+      "client_name": "Trishakti Power Generation Corporation"
     },
     {
       "package_code": "Pkg-8",
@@ -3832,8 +3832,8 @@
       ],
       "project_name": "Flyover \u2014 Gujarat Pkg-8",
       "client_raw_names": [
-        "Meridian Constructors & Co. (Private)",
-        "MERIDIAN CONSTRUCTORS & CO."
+        "MERIDIAN CONSTRUCTORS & CO.",
+        "Meridian Constructors & Co. (Private)"
       ],
       "contract_value": 170799999.99999997,
       "start_date": null,
@@ -3848,7 +3848,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     },
     {
       "package_code": "Pkg-80",
@@ -3857,8 +3857,8 @@
       ],
       "project_name": "Stormwater Drainage \u2014 Gujarat Pkg-80",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "contract_value": 283800000.0,
       "start_date": null,
@@ -3882,8 +3882,8 @@
       "project_name": "Institutional Building \u2014 Delhi Pkg-81",
       "client_raw_names": [
         "Subarnarekha Valley Corporation",
-        "National Special Projects Office (government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (government)"
       ],
       "contract_value": 415800000.0,
       "start_date": null,
@@ -3907,10 +3907,10 @@
       ],
       "project_name": "Process Piping Package \u2014 Delhi Pkg-82",
       "client_raw_names": [
-        "Tamil Nadu Municipal Corporation",
-        "Subarnarekha Valley Corporation (psu)",
+        "The Managing Director / Executive Director",
         "Subarnarekha Valley Corporation",
-        "The Managing Director / Executive Director"
+        "Subarnarekha Valley Corporation (psu)",
+        "Tamil Nadu Municipal Corporation"
       ],
       "contract_value": 414200000.0,
       "start_date": null,
@@ -3926,8 +3926,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": true,
-      "client_id": "CLIENT-013",
-      "client_name": "Tamil Nadu Municipal Corporation"
+      "client_id": "CLIENT-006",
+      "client_name": "The Managing Director / Executive Director"
     },
     {
       "package_code": "Pkg-83",
@@ -3962,9 +3962,9 @@
       ],
       "project_name": "Road Widening \u2014 Uttar Pradesh Pkg-84",
       "client_raw_names": [
+        "Jal Nigam, Uttar Pradesh (government)",
         "Government of India / State Authority \u00b7 Uttar Pradesh \u00b7 IN",
-        "Jal Nigam, Uttar Pradesh",
-        "Jal Nigam, Uttar Pradesh (government)"
+        "Jal Nigam, Uttar Pradesh"
       ],
       "contract_value": 58500000.0,
       "start_date": null,
@@ -3988,8 +3988,8 @@
       ],
       "project_name": "ROB \u2014 Uttar Pradesh Pkg-85",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 251000000.0,
       "start_date": null,
@@ -4013,9 +4013,9 @@
       ],
       "project_name": "Water Treatment Plant \u2014 Delhi Pkg-86",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
+        "Maharashtra Municipal Corporation",
         "Peninsular Petroleum Corporation (Psu)",
-        "Maharashtra Municipal Corporation"
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 164000000.0,
       "start_date": null,
@@ -4030,8 +4030,8 @@
       ],
       "has_reference_letter": true,
       "has_performance_bond": false,
-      "client_id": "CLIENT-004",
-      "client_name": "Peninsular Petroleum Corporation"
+      "client_id": "CLIENT-021",
+      "client_name": "Maharashtra Municipal Corporation"
     },
     {
       "package_code": "Pkg-87",
@@ -4040,8 +4040,8 @@
       ],
       "project_name": "Sewerage Network \u2014 Maharashtra Pkg-87",
       "client_raw_names": [
-        "Public Works Department, Govt of Maharashtra",
-        "Public Works Department, Govt of Maharashtra (government)"
+        "Public Works Department, Govt of Maharashtra (government)",
+        "Public Works Department, Govt of Maharashtra"
       ],
       "contract_value": 176600000.0,
       "start_date": null,
@@ -4066,8 +4066,8 @@
       ],
       "project_name": "Residential Quarters \u2014 Delhi Pkg-88",
       "client_raw_names": [
-        "Arunodaya Infrastructure (private)",
-        "Government of India / State Authority \u00b7 Delhi \u00b7 IN"
+        "Government of India / State Authority \u00b7 Delhi \u00b7 IN",
+        "Arunodaya Infrastructure (private)"
       ],
       "contract_value": 200500000.0,
       "start_date": null,
@@ -4090,8 +4090,8 @@
       ],
       "project_name": "Material Handling Plant \u2014 Uttar Pradesh Pkg-89",
       "client_raw_names": [
-        "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation",
+        "Trishakti Power Generation Corporation (psu)"
       ],
       "contract_value": 136500000.0,
       "start_date": null,
@@ -4114,9 +4114,9 @@
       ],
       "project_name": "WTP Augmentation \u2014 Tamil Nadu Pkg-9",
       "client_raw_names": [
+        "Mahanadi Steel Corporation (psu)",
         "Mahanadi Steel Corporation",
-        "Irrigation & Waterways Dept, Govt of Rajasthan",
-        "Mahanadi Steel Corporation (psu)"
+        "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
       "contract_value": 113200000.0,
       "start_date": null,
@@ -4132,7 +4132,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-008",
-      "client_name": "Mahanadi Steel Corporation"
+      "client_name": "MAHANADI STEEL CORPORATION"
     },
     {
       "package_code": "Pkg-90",
@@ -4142,8 +4142,8 @@
       "project_name": "Canal Lining \u2014 Tamil Nadu Pkg-90",
       "client_raw_names": [
         "Public Works Department, Govt of Tamil Nadu (government)",
-        "Public Works Department, Govt of Tamil Nadu",
-        "Irrigation & Waterways Dept, Govt of Rajasthan"
+        "Irrigation & Waterways Dept, Govt of Rajasthan",
+        "Public Works Department, Govt of Tamil Nadu"
       ],
       "contract_value": 260900000.0,
       "start_date": null,
@@ -4193,8 +4193,8 @@
       ],
       "project_name": "Box Culvert Chain \u2014 Tamil Nadu Pkg-92",
       "client_raw_names": [
-        "Tamil Nadu Municipal Corporation",
-        "Tamil Nadu Municipal Corporation (government)"
+        "Tamil Nadu Municipal Corporation (government)",
+        "Tamil Nadu Municipal Corporation"
       ],
       "contract_value": 100500000.0,
       "start_date": null,
@@ -4240,8 +4240,8 @@
       ],
       "project_name": "STP \u2014 Jharkhand Pkg-94",
       "client_raw_names": [
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "contract_value": 219300000.0,
       "start_date": null,
@@ -4267,8 +4267,8 @@
       "client_raw_names": [
         "Central Works & Buildings Bureau",
         "The Managing Director / Executive Director",
-        "National Expressway Development Authority",
-        "Central Works & Buildings Bureau (Government)"
+        "Central Works & Buildings Bureau (Government)",
+        "National Expressway Development Authority"
       ],
       "contract_value": 352200000.0,
       "start_date": null,
@@ -4319,8 +4319,8 @@
       "project_name": "Check Dam \u2014 Maharashtra Pkg-97",
       "client_raw_names": [
         "Public Works Department, Govt of Maharashtra (Government)",
-        "Public Works Department, Govt of Maharashtra",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "Public Works Department, Govt of Maharashtra"
       ],
       "contract_value": 307300000.0,
       "start_date": null,
@@ -4345,8 +4345,8 @@
       ],
       "project_name": "Road Widening \u2014 Odisha Pkg-98",
       "client_raw_names": [
-        "Peninsular Petroleum Corporation",
-        "Peninsular Petroleum Corporation (psu)"
+        "Peninsular Petroleum Corporation (psu)",
+        "Peninsular Petroleum Corporation"
       ],
       "contract_value": 148500000.0,
       "start_date": null,
@@ -4370,8 +4370,8 @@
       ],
       "project_name": "Flyover \u2014 Delhi Pkg-99",
       "client_raw_names": [
-        "Meridian Constructors & Co. (Private)",
-        "Meridian Constructors & Co."
+        "Meridian Constructors & Co.",
+        "Meridian Constructors & Co. (Private)"
       ],
       "contract_value": 231600000.0,
       "start_date": null,
@@ -4386,7 +4386,7 @@
       "has_reference_letter": true,
       "has_performance_bond": false,
       "client_id": "CLIENT-009",
-      "client_name": "Meridian Constructors & Co."
+      "client_name": "MERIDIAN CONSTRUCTORS & CO."
     }
   ],
   "clients": [
@@ -4394,19 +4394,20 @@
       "client_id": "CLIENT-019",
       "canonical_name": "Arunodaya Infrastructure",
       "name_variants": [
-        "Arunodaya Infrastructure (private)",
         "Arunodaya Infrastructure",
-        "Arunodaya Infrastructure (Private)"
+        "Arunodaya Infrastructure (Private)",
+        "Arunodaya Infrastructure (private)"
       ],
       "projects": [
         "Pkg-29",
         "Pkg-36",
         "Pkg-77",
+        "Pkg-78",
         "Pkg-88",
         "Pkg-111",
-        "Pkg-117"
+        "Pkg-150"
       ],
-      "total_completed_works": 6
+      "total_completed_works": 7
     },
     {
       "client_id": "CLIENT-020",
@@ -4416,23 +4417,18 @@
         "Central Works & Buildings Bureau (Government)"
       ],
       "projects": [
-        "Pkg-33",
-        "Pkg-38",
         "Pkg-53",
-        "Pkg-79",
         "Pkg-95",
-        "Pkg-105",
-        "Pkg-118",
         "Pkg-133"
       ],
-      "total_completed_works": 8
+      "total_completed_works": 3
     },
     {
       "client_id": "CLIENT-030",
       "canonical_name": "Gujarat Municipal Corporation",
       "name_variants": [
-        "Gujarat Municipal Corporation (government)",
-        "Gujarat Municipal Corporation"
+        "Gujarat Municipal Corporation",
+        "Gujarat Municipal Corporation (government)"
       ],
       "projects": [
         "Pkg-155"
@@ -4447,9 +4443,9 @@
         "Irrigation & Waterways Dept, Govt of Rajasthan"
       ],
       "projects": [
+        "Pkg-10",
         "Pkg-27",
         "Pkg-41",
-        "Pkg-58",
         "Pkg-100",
         "Pkg-124"
       ],
@@ -4463,38 +4459,41 @@
       ],
       "projects": [
         "Pkg-26",
+        "Pkg-118",
         "Pkg-134"
       ],
-      "total_completed_works": 2
+      "total_completed_works": 3
     },
     {
-      "client_id": "CLIENT-025",
+      "client_id": "CLIENT-024",
       "canonical_name": "Irrigation & Waterways Department, Government of West",
       "name_variants": [
         "Irrigation & Waterways Dept, Govt of West"
       ],
-      "projects": [],
-      "total_completed_works": 0
+      "projects": [
+        "Pkg-60",
+        "Pkg-120",
+        "Pkg-130",
+        "Pkg-152"
+      ],
+      "total_completed_works": 4
     },
     {
-      "client_id": "CLIENT-024",
+      "client_id": "CLIENT-025",
       "canonical_name": "Irrigation & Waterways Department, Government of West Bengal",
       "name_variants": [
         "Irrigation & Waterways Dept, Govt of West Bengal"
       ],
-      "projects": [
-        "Pkg-120",
-        "Pkg-152"
-      ],
-      "total_completed_works": 2
+      "projects": [],
+      "total_completed_works": 0
     },
     {
       "client_id": "CLIENT-027",
       "canonical_name": "Jal Nigam, Gujarat",
       "name_variants": [
         "Jal Nigam, Gujarat (Government)",
-        "Jal Nigam, Gujarat (government)",
-        "JAL NIGAM, GUJARAT"
+        "JAL NIGAM, GUJARAT",
+        "Jal Nigam, Gujarat (government)"
       ],
       "projects": [
         "Pkg-114"
@@ -4519,14 +4518,14 @@
       "client_id": "CLIENT-026",
       "canonical_name": "Jal Nigam, Uttar Pradesh",
       "name_variants": [
+        "Jal Nigam, Uttar Pradesh (Government)",
         "Jal Nigam, Uttar Pradesh (government)",
-        "Jal Nigam, Uttar Pradesh",
-        "Jal Nigam, Uttar Pradesh (Government)"
+        "Jal Nigam, Uttar Pradesh"
       ],
       "projects": [
+        "Pkg-65",
         "Pkg-84",
-        "Pkg-121",
-        "Pkg-130"
+        "Pkg-121"
       ],
       "total_completed_works": 3
     },
@@ -4535,24 +4534,23 @@
       "canonical_name": "Jharkhand Municipal Corporation",
       "name_variants": [
         "Jharkhand Municipal Corporation (government)",
-        "Jharkhand Municipal Corporation",
-        "Jharkhand Municipal Corporation (Government)"
+        "Jharkhand Municipal Corporation (Government)",
+        "Jharkhand Municipal Corporation"
       ],
       "projects": [
-        "Pkg-22",
         "Pkg-72",
         "Pkg-153"
       ],
-      "total_completed_works": 3
+      "total_completed_works": 2
     },
     {
       "client_id": "CLIENT-014",
-      "canonical_name": "Lakshya Engineering & Construction",
+      "canonical_name": "LAKSHYA ENGINEERING & CONSTRUCTION",
       "name_variants": [
-        "Lakshya Engineering & Construction (private)",
-        "Lakshya Engineering & Construction",
         "Lakshya Engineering & Construction (Private)",
-        "LAKSHYA ENGINEERING & CONSTRUCTION"
+        "Lakshya Engineering & Construction",
+        "LAKSHYA ENGINEERING & CONSTRUCTION",
+        "Lakshya Engineering & Construction (private)"
       ],
       "projects": [
         "Pkg-18",
@@ -4567,30 +4565,26 @@
     },
     {
       "client_id": "CLIENT-008",
-      "canonical_name": "Mahanadi Steel Corporation",
+      "canonical_name": "MAHANADI STEEL CORPORATION",
       "name_variants": [
-        "Mahanadi Steel Corporation (Psu)",
+        "Mahanadi Steel Corporation (psu)",
         "Mahanadi Steel Corporation",
         "MAHANADI STEEL CORPORATION",
-        "Mahanadi Steel Corporation (psu)"
+        "Mahanadi Steel Corporation (Psu)"
       ],
       "projects": [
         "Pkg-7",
         "Pkg-9",
         "Pkg-19",
+        "Pkg-20",
         "Pkg-23",
-        "Pkg-32",
-        "Pkg-45",
         "Pkg-49",
         "Pkg-52",
-        "Pkg-54",
-        "Pkg-64",
         "Pkg-70",
-        "Pkg-123",
         "Pkg-141",
         "Pkg-143"
       ],
-      "total_completed_works": 14
+      "total_completed_works": 10
     },
     {
       "client_id": "CLIENT-021",
@@ -4600,8 +4594,8 @@
         "Maharashtra Municipal Corporation (Government)"
       ],
       "projects": [
-        "Pkg-43",
         "Pkg-50",
+        "Pkg-86",
         "Pkg-96",
         "Pkg-147"
       ],
@@ -4611,31 +4605,29 @@
       "client_id": "CLIENT-002",
       "canonical_name": "Mega Infrastructure Authority",
       "name_variants": [
-        "Mega Infrastructure Authority (government)",
+        "Mega Infrastructure Authority",
         "Mega Infrastructure Authority (Government)",
-        "Mega Infrastructure Authority"
+        "Mega Infrastructure Authority (government)"
       ],
       "projects": [
         "Pkg-2",
-        "Pkg-60",
         "Pkg-68",
         "Pkg-74",
         "Pkg-83",
         "Pkg-108",
         "Pkg-113",
-        "Pkg-126",
         "Pkg-145"
       ],
-      "total_completed_works": 9
+      "total_completed_works": 7
     },
     {
       "client_id": "CLIENT-009",
-      "canonical_name": "Meridian Constructors & Co.",
+      "canonical_name": "MERIDIAN CONSTRUCTORS & CO.",
       "name_variants": [
-        "Meridian Constructors & Co. (Private)",
         "Meridian Constructors & Co.",
-        "Meridian Constructors & Co. (private)",
-        "MERIDIAN CONSTRUCTORS & CO."
+        "MERIDIAN CONSTRUCTORS & CO.",
+        "Meridian Constructors & Co. (Private)",
+        "Meridian Constructors & Co. (private)"
       ],
       "projects": [
         "Pkg-8",
@@ -4652,29 +4644,28 @@
       "canonical_name": "National Expressway Development Authority",
       "name_variants": [
         "National Expressway Development Authority (Government)",
-        "National Expressway Development Authority",
-        "National Expressway Development Authority (government)"
+        "National Expressway Development Authority (government)",
+        "National Expressway Development Authority"
       ],
       "projects": [
-        "Pkg-20",
         "Pkg-40",
         "Pkg-47",
+        "Pkg-54",
         "Pkg-56",
         "Pkg-61",
         "Pkg-107",
-        "Pkg-129",
         "Pkg-139",
         "Pkg-142"
       ],
-      "total_completed_works": 9
+      "total_completed_works": 8
     },
     {
       "client_id": "CLIENT-001",
       "canonical_name": "National Special Projects Office",
       "name_variants": [
         "National Special Projects Office (Government)",
-        "National Special Projects Office (government)",
-        "National Special Projects Office"
+        "National Special Projects Office",
+        "National Special Projects Office (government)"
       ],
       "projects": [
         "Pkg-1",
@@ -4687,35 +4678,35 @@
       "client_id": "CLIENT-004",
       "canonical_name": "Peninsular Petroleum Corporation",
       "name_variants": [
-        "Peninsular Petroleum Corporation",
+        "Peninsular Petroleum Corporation (psu)",
         "Peninsular Petroleum Corporation (Psu)",
-        "Peninsular Petroleum Corporation (psu)"
+        "Peninsular Petroleum Corporation"
       ],
       "projects": [
         "Pkg-4",
-        "Pkg-10",
         "Pkg-11",
         "Pkg-34",
         "Pkg-39",
         "Pkg-69",
-        "Pkg-86",
         "Pkg-98",
         "Pkg-140"
       ],
-      "total_completed_works": 9
+      "total_completed_works": 7
     },
     {
       "client_id": "CLIENT-023",
       "canonical_name": "Public Health Engineering Department, Gujarat",
       "name_variants": [
-        "Public Health Engineering Dept, Gujarat (government)",
+        "Public Health Engineering Dept, Gujarat",
         "Public Health Engineering Dept, Gujarat (Government)",
-        "Public Health Engineering Dept, Gujarat"
+        "Public Health Engineering Dept, Gujarat (government)"
       ],
       "projects": [
+        "Pkg-58",
+        "Pkg-66",
         "Pkg-135"
       ],
-      "total_completed_works": 1
+      "total_completed_works": 3
     },
     {
       "client_id": "CLIENT-007",
@@ -4729,18 +4720,20 @@
         "Pkg-6",
         "Pkg-17",
         "Pkg-35",
+        "Pkg-45",
+        "Pkg-59",
         "Pkg-63",
         "Pkg-122",
         "Pkg-136"
       ],
-      "total_completed_works": 6
+      "total_completed_works": 8
     },
     {
       "client_id": "CLIENT-003",
       "canonical_name": "Public Works Department, Government of Gujarat",
       "name_variants": [
-        "Public Works Department, Govt of Gujarat (government)",
         "Public Works Department, Govt of Gujarat",
+        "Public Works Department, Govt of Gujarat (government)",
         "Public Works Department, Govt of Gujarat (Government)"
       ],
       "projects": [
@@ -4755,8 +4748,8 @@
       "canonical_name": "Public Works Department, Government of Maharashtra",
       "name_variants": [
         "Public Works Department, Govt of Maharashtra (Government)",
-        "Public Works Department, Govt of Maharashtra",
-        "Public Works Department, Govt of Maharashtra (government)"
+        "Public Works Department, Govt of Maharashtra (government)",
+        "Public Works Department, Govt of Maharashtra"
       ],
       "projects": [
         "Pkg-21",
@@ -4796,12 +4789,11 @@
       "canonical_name": "Subarnarekha Valley Corporation",
       "name_variants": [
         "Subarnarekha Valley Corporation (Psu)",
-        "Subarnarekha Valley Corporation (psu)",
-        "Subarnarekha Valley Corporation"
+        "Subarnarekha Valley Corporation",
+        "Subarnarekha Valley Corporation (psu)"
       ],
       "projects": [
         "Pkg-48",
-        "Pkg-78",
         "Pkg-81",
         "Pkg-91",
         "Pkg-94",
@@ -4810,10 +4802,10 @@
         "Pkg-132",
         "Pkg-154"
       ],
-      "total_completed_works": 9
+      "total_completed_works": 8
     },
     {
-      "client_id": "CLIENT-006",
+      "client_id": "CLIENT-005",
       "canonical_name": "Suvarna Projects Limited",
       "name_variants": [
         "Suvarna Projects Limited",
@@ -4821,44 +4813,44 @@
         "Suvarna Projects Limited (Private)"
       ],
       "projects": [
+        "Pkg-5",
         "Pkg-13",
         "Pkg-15",
         "Pkg-28",
         "Pkg-73",
         "Pkg-76",
+        "Pkg-105",
         "Pkg-146",
         "Pkg-149"
       ],
-      "total_completed_works": 7
+      "total_completed_works": 9
     },
     {
       "client_id": "CLIENT-013",
       "canonical_name": "Tamil Nadu Municipal Corporation",
       "name_variants": [
-        "Tamil Nadu Municipal Corporation",
+        "Tamil Nadu Municipal Corporation (government)",
         "Tamil Nadu Municipal Corporation (Government)",
-        "Tamil Nadu Municipal Corporation (government)"
+        "Tamil Nadu Municipal Corporation"
       ],
       "projects": [
         "Pkg-16",
-        "Pkg-82",
-        "Pkg-92",
-        "Pkg-119"
+        "Pkg-92"
       ],
-      "total_completed_works": 4
+      "total_completed_works": 2
     },
     {
-      "client_id": "CLIENT-005",
+      "client_id": "CLIENT-006",
       "canonical_name": "The Managing Director / Executive Director",
       "name_variants": [
         "The Managing Director / Executive Director"
       ],
       "projects": [
-        "Pkg-5",
-        "Pkg-59",
-        "Pkg-65",
-        "Pkg-66",
-        "Pkg-150",
+        "Pkg-32",
+        "Pkg-64",
+        "Pkg-82",
+        "Pkg-117",
+        "Pkg-119",
         "Pkg-170",
         "Pkg-171",
         "Pkg-184",
@@ -4878,30 +4870,38 @@
       "client_id": "CLIENT-012",
       "canonical_name": "Trishakti Power Generation Corporation",
       "name_variants": [
+        "Trishakti Power Generation Corporation",
         "Trishakti Power Generation Corporation (psu)",
-        "Trishakti Power Generation Corporation (Psu)",
-        "Trishakti Power Generation Corporation"
+        "Trishakti Power Generation Corporation (Psu)"
       ],
       "projects": [
         "Pkg-14",
+        "Pkg-22",
         "Pkg-25",
         "Pkg-31",
+        "Pkg-33",
         "Pkg-37",
+        "Pkg-38",
+        "Pkg-43",
         "Pkg-44",
         "Pkg-55",
         "Pkg-71",
         "Pkg-75",
+        "Pkg-79",
         "Pkg-80",
         "Pkg-85",
         "Pkg-89",
         "Pkg-110",
         "Pkg-112",
         "Pkg-116",
+        "Pkg-123",
+        "Pkg-126",
+        "Pkg-129",
         "Pkg-137",
         "Pkg-148",
         "Pkg-151"
       ],
-      "total_completed_works": 17
+      "total_completed_works": 25
     }
   ],
   "engineers": [

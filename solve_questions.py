@@ -71,107 +71,17 @@ def load_receivables_totals():
     return totals
 
 RECEIVABLES_TOTALS = load_receivables_totals()
-CLIENT_SYNONYMS = {
-    # Short names
-    "trishakti": "Trishakti Power Generation Corporation",
-    "suvarna": "Suvarna Projects Limited",
-    "mahanadi": "Mahanadi Steel Corporation",
-    "meridian": "Meridian Constructors & Co.",
-    "lakshya": "Lakshya Engineering & Construction",
-    "arunodaya": "Arunodaya Infrastructure",
-    "subarnarekha": "Subarnarekha Valley Corporation",
-    "peninsular": "Peninsular Petroleum Corporation",
-    "central works": "Central Works & Buildings Bureau",
-    "neda": "National Expressway Development Authority",
-    "mega infra authority": "Mega Infrastructure Authority",
-    "mega infra": "Mega Infrastructure Authority",
-    "national special projects": "National Special Projects Office",
-    "national infrastructure": "National Infrastructure Corp. Ltd.",
-    
-    # PHED variations
-    "phed odisha": "Public Health Engineering Dept, Odisha",
-    "public health engineering dept odisha": "Public Health Engineering Dept, Odisha",
-    "public health engineering dept, odisha": "Public Health Engineering Dept, Odisha",
-    "phed gujarat": "Public Health Engineering Dept, Gujarat",
-    "pheg gujarat": "Public Health Engineering Dept, Gujarat",
-    "public health engineering dept gujarat": "Public Health Engineering Dept, Gujarat",
-    "public health engineering dept, gujarat": "Public Health Engineering Dept, Gujarat",
-    "phed west bengal": "Public Health Engineering Dept, West Bengal",
-    "public health engineering dept west bengal": "Public Health Engineering Dept, West Bengal",
-    "public health engineering dept, west bengal": "Public Health Engineering Dept, West Bengal",
-    "phed": "Public Health Engineering Dept, Odisha",
-    "pheg": "Public Health Engineering Dept, Gujarat",
-    
-    # PWD variations
-    "gujarat pw": "Public Works Department, Govt of Gujarat",
-    "gujarat pwd": "Public Works Department, Govt of Gujarat",
-    "pwd gujarat": "Public Works Department, Govt of Gujarat",
-    "pwd, govt of gujarat": "Public Works Department, Govt of Gujarat",
-    "maharashtra pwd": "Public Works Department, Govt of Maharashtra",
-    "mah pwd": "Public Works Department, Govt of Maharashtra",
-    "pwd maharashtra": "Public Works Department, Govt of Maharashtra",
-    "pwd, govt of maharashtra": "Public Works Department, Govt of Maharashtra",
-    "tamil nadu pwd": "Public Works Department, Govt of Tamil Nadu",
-    "pwd tamil nadu": "Public Works Department, Govt of Tamil Nadu",
-    "pwd, govt of tamil nadu": "Public Works Department, Govt of Tamil Nadu",
-    "west bengal pwd": "Public Works Department, Govt of West Bengal",
-    "pwd west bengal": "Public Works Department, Govt of West Bengal",
-    "pwd, govt of west bengal": "Public Works Department, Govt of West Bengal",
-    "public works department": "Public Works Department, Govt of Gujarat",
-    
-    # Jal Nigam variations
-    "jal nigam up": "Jal Nigam, Uttar Pradesh",
-    "jal nigam, up": "Jal Nigam, Uttar Pradesh",
-    "jal nigam uttar pradesh": "Jal Nigam, Uttar Pradesh",
-    "jal nigam, uttar pradesh": "Jal Nigam, Uttar Pradesh",
-    "jal nigam gujarat": "Jal Nigam, Gujarat",
-    "jal nigam, gujarat": "Jal Nigam, Gujarat",
-    "jal nigam account in gujarat": "Jal Nigam, Gujarat",
-    "jal nigam jharkhand": "Jal Nigam, Jharkhand",
-    "jal nigam, jharkhand": "Jal Nigam, Jharkhand",
-    
-    # Irrigation & Waterways variations
-    "irr & waterways dept rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
-    "irrigation & waterways dept, govt of rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
-    "irrigation & waterways dept rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
-    "up irrigation": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
-    "irrigation & waterways dept, govt of uttar pradesh": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
-    "irrigation & waterways dept uttar pradesh": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
-    "west bengal irrigation": "Irrigation & Waterways Dept, Govt of West Bengal",
-    "irrigation & waterways dept, govt of west bengal": "Irrigation & Waterways Dept, Govt of West Bengal",
-    "irrigation & waterways dept west bengal": "Irrigation & Waterways Dept, Govt of West Bengal",
-    
-    # Municipal Corporation variations
-    "gujarat municipal corporation": "Gujarat Municipal Corporation",
-    "gujarat municipal": "Gujarat Municipal Corporation",
-    "maharashtra municipal corporation": "Maharashtra Municipal Corporation",
-    "maharashtra municipal": "Maharashtra Municipal Corporation",
-    "jharkhand municipal corporation": "Jharkhand Municipal Corporation",
-    "jharkhand municipal": "Jharkhand Municipal Corporation",
-    "tamil nadu municipal corporation": "Tamil Nadu Municipal Corporation",
-    "tamil nadu municipal": "Tamil Nadu Municipal Corporation",
-}
-
-from entity_resolver import GeneralizableEntityResolver
-
-_ENTITY_RESOLVER = GeneralizableEntityResolver()
+from entity_resolver import resolve_entity
 
 def find_client_in_text(text, conn):
     if not text:
         return None
-    return _ENTITY_RESOLVER.resolve_client(text, conn)
+    return resolve_entity(mention=text, entity_type="client", question_text=text, conn=conn)
 
 def find_engineer_in_text(text, conn):
-    c = conn.cursor()
-    engineers = [r[0] for r in c.execute("SELECT DISTINCT engineer_name FROM personnel_certificates WHERE engineer_name IS NOT NULL").fetchall()]
-    for eng in engineers:
-        if eng.lower() in text.lower():
-            return eng
-    engineers_cc = [r[0] for r in c.execute("SELECT DISTINCT project_lead FROM completion_certificates WHERE project_lead IS NOT NULL").fetchall()]
-    for eng in engineers_cc:
-        if eng.lower() in text.lower():
-            return eng
-    return None
+    if not text:
+        return None
+    return resolve_entity(mention=text, entity_type="engineer", question_text=text, conn=conn)
 
 def find_package_in_text(text):
     m = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', text, re.IGNORECASE)
