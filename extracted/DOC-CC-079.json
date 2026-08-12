@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-079.pdf",
   "size_bytes": 82286,
-  "char_count": 1005,
+  "char_count": 958,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Pumping Station — Odisha Pkg-79",
+    "package_code": "Pkg-79",
+    "client_name": "Central Works & Buildings Bureau",
     "contract_value": 358600000.0,
     "raw_contract_value": "INR 35,86,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Uma Sen",
     "grading_text": null
   }
 }

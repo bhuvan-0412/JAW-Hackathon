@@ -3,28 +3,15 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-020.pdf",
   "size_bytes": 60114,
-  "char_count": 2313,
+  "char_count": 2062,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "engineer_name": "Suresh Desai",
-    "employee_id": null,
+    "employee_id": "EMP-020",
     "designation": "Project Manager",
-    "total_experience": null,
+    "total_experience": "26 years",
     "qualification": "B.Tech Civil",
-    "projects_led": [
-      {
-        "project_name": "",
-        "package_code": "Commercial",
-        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
-        "role": ""
-      },
-      {
-        "project_name": "First Class",
-        "package_code": "",
-        "client": "Higher Secondary (XII)",
-        "role": "CBSE Board"
-      }
-    ]
+    "projects_led": []
   }
 }

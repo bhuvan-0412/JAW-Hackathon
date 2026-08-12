@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-086.pdf",
   "size_bytes": 98991,
-  "char_count": 4610,
+  "char_count": 4313,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Water Treatment Plant — Delhi Pkg-86",
     "package_code": "Pkg-86",
-    "client_name": "Peninsular Petroleum Corp",
+    "client_name": "Peninsular Petroleum Corporation",
     "contract_value": 164000000.0,
     "raw_contract_value": "INR 16.40 Cr",
     "start_date": null,
     "completion_date": "2016-02-04",
     "project_lead": "Sanjay Joshi",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

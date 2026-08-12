@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-145.pdf",
   "size_bytes": 76491,
-  "char_count": 4672,
+  "char_count": 4371,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2025-06-26",
     "project_lead": "Asha Nair",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Good."
   }
 }

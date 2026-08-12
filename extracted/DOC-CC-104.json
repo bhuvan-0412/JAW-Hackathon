@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-104.pdf",
   "size_bytes": 100162,
-  "char_count": 4734,
+  "char_count": 4435,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Six-Lane Highway — Maharashtra Pkg-104",
     "package_code": "Pkg-104",
-    "client_name": "Subarnarekha Valley Corp",
+    "client_name": "Subarnarekha Valley Corporation",
     "contract_value": 860900000.0,
     "raw_contract_value": "INR 86.09 Cr",
     "start_date": null,
     "completion_date": "2016-06-28",
     "project_lead": "Amit Iyer",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

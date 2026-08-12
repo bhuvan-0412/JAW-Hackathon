@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-048.pdf",
   "size_bytes": 51443,
-  "char_count": 930,
+  "char_count": 883,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Canal Lining — Uttar Pradesh Pkg-48",
+    "package_code": "Pkg-48",
+    "client_name": "Subarnarekha Valley Corporation",
     "contract_value": 135600000.0,
     "raw_contract_value": "INR 13.56 Cr",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2010-07-29",
+    "project_lead": "Gautam Joshi",
     "grading_text": null
   }
 }

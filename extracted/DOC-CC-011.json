@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-011.pdf",
   "size_bytes": 54286,
-  "char_count": 952,
+  "char_count": 905,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Institutional Building — Uttar Pradesh Pkg-11",
+    "package_code": "Pkg-11",
+    "client_name": "Peninsular Petroleum Corporation",
     "contract_value": 240500000.0,
     "raw_contract_value": "INR 24.05 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Amit Mukherjee",
     "grading_text": null
   }
 }

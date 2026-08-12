@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-131.pdf",
   "size_bytes": 97697,
-  "char_count": 4681,
+  "char_count": 4380,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Pipeline Laying — Jharkhand Pkg-131",
     "package_code": "Pkg-131",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Jharkhand · IN",
     "contract_value": 69200000.0,
     "raw_contract_value": "INR 6,92,00,000/-",
     "start_date": null,
     "completion_date": "2021-08-17",
     "project_lead": "Gautam Joshi",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Satisfactory."
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-114.pdf",
   "size_bytes": 96863,
-  "char_count": 4801,
+  "char_count": 4226,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Rail Tunnel — Gujarat Pkg-114",
+    "package_code": "Pkg-114",
+    "client_name": "Government of India / State Authority · Gujarat · IN",
     "contract_value": 1277800000.0,
     "raw_contract_value": "Rs. 127.78 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Satisfactory."
+    "completion_date": "2010-08-23",
+    "project_lead": "Farhan Roy",
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

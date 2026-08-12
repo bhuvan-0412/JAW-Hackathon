@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-032.pdf",
   "size_bytes": 52530,
-  "char_count": 3322,
+  "char_count": 2839,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Mahanadi Steel Corp",
+    "project_name": "Institutional Building — Gujarat Pkg-32",
+    "package_code": "Pkg-32",
+    "client_name": "Mahanadi Steel Corporation (Psu)",
     "contract_value": 145700000.0,
     "raw_contract_value": "Rs. 14.57 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2023-12-07",
+    "project_lead": "Deepa Chatterjee",
     "grading_text": null
   }
 }

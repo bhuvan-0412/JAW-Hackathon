@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-129.pdf",
   "size_bytes": 99218,
-  "char_count": 4667,
+  "char_count": 4343,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2016-04-20",
     "project_lead": "Rahul Menon",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

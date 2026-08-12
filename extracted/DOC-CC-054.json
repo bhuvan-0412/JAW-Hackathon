@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-054.pdf",
   "size_bytes": 80189,
-  "char_count": 932,
+  "char_count": 885,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Process Piping Package — Tamil Nadu Pkg-54",
+    "package_code": "Pkg-54",
+    "client_name": "Mahanadi Steel Corporation",
     "contract_value": 270500000.0,
     "raw_contract_value": "INR 27,05,00,000/-",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2015-06-06",
+    "project_lead": "Pooja Bose",
     "grading_text": null
   }
 }

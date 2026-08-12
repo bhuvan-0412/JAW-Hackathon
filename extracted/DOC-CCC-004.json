@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-004.pdf",
   "size_bytes": 12629,
-  "char_count": 724,
+  "char_count": 547,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Residential Quarters — Odisha Pkg-4",
+    "package_code": "Pkg-4",
+    "client_name": "Peninsular Petroleum Corporation (psu)",
     "contract_value": 112300000.0,
     "raw_contract_value": "Rs. 11.23 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "17/05/2023",
+    "project_lead": "Suresh Desai",
     "grading_text": null
   }
 }

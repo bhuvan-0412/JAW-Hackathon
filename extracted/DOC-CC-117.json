@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-117.pdf",
   "size_bytes": 92003,
-  "char_count": 4639,
+  "char_count": 4332,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Hydro Tunnel — Jharkhand Pkg-117",
     "package_code": "Pkg-117",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Jharkhand · IN",
     "contract_value": 474100000.0,
     "raw_contract_value": "Rs. 4741.00 Lakh",
     "start_date": null,
     "completion_date": "2022-03-19",
     "project_lead": "Meera Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

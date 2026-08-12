@@ -1,0 +1,36 @@
+{
+  "doc_id": "DOC-FS-2023",
+  "doc_type": "financial_statement",
+  "filename": "financial_statement/DOC-FS-2023.pdf",
+  "size_bytes": 55034,
+  "char_count": 4100,
+  "page_count": 3,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "key_values": {
+      "`particulars`": "`CURRENT YEAR`",
+      "### `b. expenses`": "`PARTICULARS`",
+      "### `c. profit before tax (a - b)`": "`Profit Before Tax`",
+      "```\npage 1 of 3\n```\n\n```\ndoc-fs-2023\n```\n\n### `d. balance sheet extract (as at 31st march 2024)`": "`PARTICULARS`",
+      "`year`": "`PREVIOUS YEAR`",
+      "`3,615`": "`3,374`",
+      "`1,883`": "`1,507`",
+      "`1,928`": "`1,687`",
+      "`2,892`": "`2,410`",
+      "`1,446`": "`1,205`",
+      "`2,410`": "`2,169`",
+      "`241`": "`241`",
+      "`1,205`": "`964`",
+      "`3,374`": "`2,892`",
+      "`964`": "`844`"
+    },
+    "money_mentions": [
+      [
+        "603 Cr",
+        6030000000.0
+      ]
+    ],
+    "extracted_dates": [],
+    "summary_text": "# **`NATIONAL INFRASTRUCTURE CORP. LTD.`** \n\n```\nAudited Financial Results · CIN U45201WB2005PLC904417 · PAN NAICC4417O\n```\n\n## **`STATEMENT OF PROFIT AND LOSS (EXTRACT)`** \n\n```\nFor the financial year ended 31st March 2024\n```\n\n```\nStatement No: FS-2023-005\n```\n\n```\nCurrency: INR (All amounts in Lakhs unless stated)\n```\n\n### **`A. REVENUE FROM OPERATIONS`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**||**`PREVIOUS YEAR`**||\n|---|---|---|---|---|\n||**`(FY2023-24)`**||**`(FY2022-23)`**||\n|`Contract Revenue (EPC)`||`24,103`||`20,488`|\n|`Other Operating Revenue`||`723`||`603`|\n|**`Total Revenue from Operations`**<br>**`(A)`**||**`24,826`**||**`21,090`**|\n\n\n\n### **`B. EXPENSES`** \n\n|**`PARTICULARS`**|**`CURRENT YEAR`**|**`PREVIOUS YEAR`**|\n|---|---|---|\n|`Cost of Materials Consumed`|`10,123`|`9,641`|\n|`Sub-contracting & Labour`|`4,339`|`4,098`|\n|`Employee Benefit Expenses`|`2,892`|`2,651`|\n|`Depreciation & Amortisation`|`723`|`675`|\n|`Other Expenses`|`1,928`|`1,808`|\n|**`Total Expenses (B)`**|*"
+  }
+}

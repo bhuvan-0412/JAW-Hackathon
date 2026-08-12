@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-043.pdf",
   "size_bytes": 43500,
-  "char_count": 987,
+  "char_count": 940,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Flyover — Uttar Pradesh Pkg-43",
+    "package_code": "Pkg-43",
+    "client_name": "Trishakti Power Generation Corporation",
     "contract_value": 140300000.0,
     "raw_contract_value": "Rs. 1403.00 Lakh",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "30 Mar 2019",
+    "project_lead": "Priti Pillai",
     "grading_text": null
   }
 }

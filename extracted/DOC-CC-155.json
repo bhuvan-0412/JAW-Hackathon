@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-155.pdf",
   "size_bytes": 111740,
-  "char_count": 4675,
+  "char_count": 4408,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Gujarat Municipal Corp",
+    "project_name": "Handpump Installation — Gujarat Pkg-155",
+    "package_code": "Pkg-155",
+    "client_name": "Gujarat Municipal Corporation",
     "contract_value": 16399999.999999998,
     "raw_contract_value": "INR 1.64 Cr",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
-    "grading_text": "Quality assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+    "completion_date": "2024-08-28",
+    "project_lead": "Suresh Desai",
+    "grading_text": "Quality assessment The overall quality of the completed work is graded Satisfactory."
   }
 }

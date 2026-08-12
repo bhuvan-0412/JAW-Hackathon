@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-116.pdf",
   "size_bytes": 89413,
-  "char_count": 4681,
+  "char_count": 4357,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Six-Lane Highway — West Bengal Pkg-116",
     "package_code": "Pkg-116",
-    "client_name": "Trishakti Power Generation Corp",
+    "client_name": "Trishakti Power Generation Corporation",
     "contract_value": 2000000000.0,
     "raw_contract_value": "Rs. 20000.00 Lakh",
     "start_date": null,
     "completion_date": "2020-02-11",
     "project_lead": "Chandan Banerjee",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Very Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Very Good."
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-115.pdf",
   "size_bytes": 47106,
-  "char_count": 924,
+  "char_count": 877,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Cable Stayed Bridge — Jharkhand Pkg-115",
+    "package_code": "Pkg-115",
+    "client_name": "Jal Nigam, Jharkhand",
     "contract_value": 814400000.0,
     "raw_contract_value": "INR 81,44,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Asha Nair",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-030.pdf",
   "size_bytes": 47714,
-  "char_count": 1070,
+  "char_count": 975,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "WTP Augmentation — West Bengal Pkg-30",
+    "package_code": "Pkg-30",
+    "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION",
     "contract_value": 182600000.00000003,
     "raw_contract_value": "Rs. 18.26 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "28/06/2021",
+    "project_lead": "Neha Chopra",
     "grading_text": null
   }
 }

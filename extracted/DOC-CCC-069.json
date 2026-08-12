@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-069.pdf",
   "size_bytes": 12832,
-  "char_count": 756,
+  "char_count": 579,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Check Dam — Maharashtra Pkg-69",
+    "package_code": "Pkg-69",
+    "client_name": "Peninsular Petroleum Corporation (psu)",
     "contract_value": 491100000.0,
     "raw_contract_value": "Rs. 49.11 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "26/01/2021",
+    "project_lead": "Rohit Singh",
     "grading_text": null
   }
 }

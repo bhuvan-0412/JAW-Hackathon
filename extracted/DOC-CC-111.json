@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-111.pdf",
   "size_bytes": 97930,
-  "char_count": 4702,
+  "char_count": 4378,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Rail Tunnel — Rajasthan Pkg-111",
     "package_code": "Pkg-111",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Rajasthan · IN",
     "contract_value": 526300000.0,
     "raw_contract_value": "Rs. 5263.00 Lakh",
     "start_date": null,
     "completion_date": "2019-04-14",
     "project_lead": "Lakshmi Ghosh",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

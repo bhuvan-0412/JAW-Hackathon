@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-057.pdf",
   "size_bytes": 100790,
-  "char_count": 4703,
+  "char_count": 4404,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Box Culvert Chain — Madhya Pradesh Pkg-57",
     "package_code": "Pkg-57",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Madhya Pradesh · IN",
     "contract_value": 72900000.0,
     "raw_contract_value": "INR 7.29 Cr",
     "start_date": null,
     "completion_date": "2020-10-21",
     "project_lead": "Rohit Singh",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

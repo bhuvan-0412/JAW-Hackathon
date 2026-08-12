@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-053.pdf",
   "size_bytes": 49848,
-  "char_count": 923,
+  "char_count": 876,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Hospital Block — Rajasthan Pkg-53",
+    "package_code": "Pkg-53",
+    "client_name": "Central Works & Buildings Bureau",
     "contract_value": 90300000.0,
     "raw_contract_value": "INR 9.03 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Kavita Reddy",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-045.pdf",
   "size_bytes": 101046,
-  "char_count": 4676,
+  "char_count": 4352,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "STP — Odisha Pkg-45",
     "package_code": "Pkg-45",
-    "client_name": "Public Health Engineering Dept",
+    "client_name": "Public Health Engineering Dept, Odisha",
     "contract_value": 182800000.0,
     "raw_contract_value": "Rs. 1828.00 Lakh",
     "start_date": null,
     "completion_date": "2020-07-13",
     "project_lead": "Naveen Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Excellent."
   }
 }

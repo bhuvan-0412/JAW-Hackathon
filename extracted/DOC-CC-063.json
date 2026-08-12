@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-063.pdf",
   "size_bytes": 99220,
-  "char_count": 4662,
+  "char_count": 4338,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Bituminous Overlay — Odisha Pkg-63",
     "package_code": "Pkg-63",
-    "client_name": "Public Health Engineering Dept",
+    "client_name": "Public Health Engineering Dept, Odisha",
     "contract_value": 184400000.0,
     "raw_contract_value": "Rs. 1844.00 Lakh",
     "start_date": null,
     "completion_date": "2020-10-29",
     "project_lead": "Meera Banerjee",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

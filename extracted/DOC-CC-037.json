@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-037.pdf",
   "size_bytes": 85565,
-  "char_count": 974,
+  "char_count": 927,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "WTP Augmentation — Delhi Pkg-37",
+    "package_code": "Pkg-37",
+    "client_name": "Trishakti Power Generation Corporation",
     "contract_value": 67500000.0,
     "raw_contract_value": "INR 6.75 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Sanjay Joshi",
     "grading_text": null
   }
 }

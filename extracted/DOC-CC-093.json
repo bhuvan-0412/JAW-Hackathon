@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-093.pdf",
   "size_bytes": 48660,
-  "char_count": 970,
+  "char_count": 923,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "WTP Augmentation — Maharashtra Pkg-93",
+    "package_code": "Pkg-93",
+    "client_name": "Public Works Department, Govt of Maharashtra",
     "contract_value": 214200000.0,
     "raw_contract_value": "INR 21,42,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Asha Nair",
     "grading_text": null
   }
 }

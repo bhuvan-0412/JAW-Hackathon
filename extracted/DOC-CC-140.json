@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-140.pdf",
   "size_bytes": 113272,
-  "char_count": 4615,
+  "char_count": 4331,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Peninsular Petroleum Corp",
+    "project_name": "Pipeline Laying — Maharashtra Pkg-140",
+    "package_code": "Pkg-140",
+    "client_name": "Peninsular Petroleum Corporation",
     "contract_value": 28200000.0,
     "raw_contract_value": "INR 2.82 Cr",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
-    "grading_text": "Quality assessment**   The overall quality of the completed work is graded **Excellent** ."
+    "completion_date": "2019-08-28",
+    "project_lead": "Rahul Menon",
+    "grading_text": "Quality assessment The overall quality of the completed work is graded Excellent."
   }
 }

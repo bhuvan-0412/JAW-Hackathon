@@ -3,17 +3,17 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00066.pdf",
   "size_bytes": 133330,
-  "char_count": 3525,
+  "char_count": 3266,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Buildings Works",
+    "project_name": null,
     "package_code": null,
     "issuing_bank": "Union Trust Bank of India",
-    "beneficiary": null,
-    "guarantee_amount": 8772000.0,
-    "raw_guarantee_amount": "INR 87.72 Lakh",
+    "beneficiary": "The Managing Director / Executive Director",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": "2020-08-09",
-    "expiry_date": "This Guarantee shall remain valid from 2020-08-09 until 2023-05-15 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2020-08-09 until 2023-05-15 (the \"Expiry Date\")"
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-005.pdf",
   "size_bytes": 48061,
-  "char_count": 972,
+  "char_count": 918,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Substation EPC — Madhya Pradesh Pkg-5",
+    "package_code": "Pkg-5",
+    "client_name": "Suvarna Projects Limited",
     "contract_value": 244100000.0,
     "raw_contract_value": "Rs. 2441.00 Lakh",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "26/04/2012",
+    "project_lead": "Meera Banerjee",
     "grading_text": null
   }
 }

@@ -1,0 +1,68 @@
+{
+  "doc_id": "DOC-RABILL-00435",
+  "doc_type": "ra_bill",
+  "filename": "ra_bill/DOC-RABILL-00435.pdf",
+  "size_bytes": 29891,
+  "char_count": 1208,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": "Mega Infrastructure Authority",
+    "bill_number": null,
+    "bill_date": null,
+    "contract_value": null,
+    "billed_value": null,
+    "boq_items": [
+      {
+        "item_no": "1",
+        "description": "Earthwork in excavation & embankment",
+        "unit": "cum",
+        "rate": 314.0,
+        "qty": 14495.678,
+        "amount": 4551643.0
+      },
+      {
+        "item_no": "3",
+        "description": "Wet mix macadam (WMM)",
+        "unit": "cum",
+        "rate": 1843.0,
+        "qty": 4155.804,
+        "amount": 7659146.0
+      },
+      {
+        "item_no": "4",
+        "description": "Dense bituminous macadam (DBM)",
+        "unit": "MT",
+        "rate": 5586.0,
+        "qty": 2138.983,
+        "amount": 11948360.0
+      },
+      {
+        "item_no": "5",
+        "description": "Bituminous concrete (BC)",
+        "unit": "MT",
+        "rate": 6529.0,
+        "qty": 1979.083,
+        "amount": 12921432.0
+      },
+      {
+        "item_no": "7",
+        "description": "Reinforcement steel Fe500",
+        "unit": "MT",
+        "rate": 67863.0,
+        "qty": 117.016,
+        "amount": 7941063.0
+      },
+      {
+        "item_no": "8",
+        "description": "RCC kerb & channel",
+        "unit": "rmt",
+        "rate": 501.0,
+        "qty": 9552.717,
+        "amount": 4785911.0
+      }
+    ]
+  }
+}

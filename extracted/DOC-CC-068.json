@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-068.pdf",
   "size_bytes": 23867,
-  "char_count": 996,
+  "char_count": 947,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Material Handling Plant — Madhya Pradesh Pkg-68",
+    "package_code": "Pkg-68",
+    "client_name": "Mega Infrastructure Authority",
     "contract_value": 434200000.0,
     "raw_contract_value": "INR 43,42,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Priti Pillai",
     "grading_text": null
   }
 }

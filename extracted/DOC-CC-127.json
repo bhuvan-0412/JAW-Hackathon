@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-127.pdf",
   "size_bytes": 49923,
-  "char_count": 1016,
+  "char_count": 967,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Extradosed Bridge — Madhya Pradesh Pkg-127",
+    "package_code": "Pkg-127",
+    "client_name": "Meridian Constructors & Co.",
     "contract_value": 1298800000.0,
     "raw_contract_value": "INR 129.88 Cr",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "13/11/2020",
+    "project_lead": "Suresh Desai",
     "grading_text": null
   }
 }

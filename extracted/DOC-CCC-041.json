@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-041.pdf",
   "size_bytes": 52647,
-  "char_count": 3332,
+  "char_count": 2852,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Irrigation & Waterways Dept",
+    "project_name": "Lift Irrigation — Rajasthan Pkg-41",
+    "package_code": "Pkg-41",
+    "client_name": "Irrigation & Waterways Dept, Govt of Rajasthan",
     "contract_value": 310700000.0,
     "raw_contract_value": "Rs. 31.07 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2021-07-26",
+    "project_lead": "Suresh Das",
     "grading_text": null
   }
 }

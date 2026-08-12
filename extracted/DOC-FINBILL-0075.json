@@ -1,0 +1,1196 @@
+{
+  "doc_id": "DOC-FINBILL-0075",
+  "doc_type": "final_ra_bill",
+  "filename": "final_ra_bill/DOC-FINBILL-0075.pdf",
+  "size_bytes": 76111,
+  "char_count": 29288,
+  "page_count": 23,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": "Jal Nigam, Gujarat · 17 RA bills",
+    "bill_number": null,
+    "bill_date": "Value of Work",
+    "contract_value": 1797700000.0,
+    "billed_value": 1146400000.0,
+    "boq_items": [
+      {
+        "item_no": "_Awarded Value_",
+        "description": "INR 179.77 Cr",
+        "unit": "",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "INR 114.64 Cr",
+        "description": "",
+        "unit": "**_Period_**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "Unit",
+        "description": "**Rate**",
+        "unit": "**BOQ Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "cum",
+        "description": "287",
+        "unit": "482021.129",
+        "rate": 138340064.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "cum",
+        "description": "1,186",
+        "unit": "86128.793",
+        "rate": 102148748.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "cum",
+        "description": "1,387",
+        "unit": "39432.211",
+        "rate": 54692476.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "MT",
+        "description": "5,917",
+        "unit": "18242.128",
+        "rate": 107938672.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "MT",
+        "description": "6,702",
+        "unit": "27600.539",
+        "rate": 184978815.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "cum",
+        "description": "8,737",
+        "unit": "24253.201",
+        "rate": 211900219.0,
+        "qty": null,
+        "amount": 7.0
+      },
+      {
+        "item_no": "MT",
+        "description": "71,238",
+        "unit": "2046.382",
+        "rate": 145780154.0,
+        "qty": null,
+        "amount": 8.0
+      },
+      {
+        "item_no": "rmt",
+        "description": "439",
+        "unit": "125860.754",
+        "rate": 55252871.0,
+        "qty": null,
+        "amount": 9.0
+      },
+      {
+        "item_no": "LS",
+        "description": "145,356,912",
+        "unit": "1.0",
+        "rate": 145356912.0,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1,146,388,931",
+        "description": "**PaRt iii — Bill-wise aBstRact**",
+        "unit": "**RA**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "AR-2021-00406",
+        "unit": "2021-12-01",
+        "rate": 67434643.0,
+        "qty": 67434643.0,
+        "amount": null
+      },
+      {
+        "item_no": "AR-2022-00407",
+        "description": "2022-01-14",
+        "unit": "67,434,643",
+        "rate": 134869286.0,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "67,434,643",
+        "description": "202,303,929",
+        "unit": "",
+        "rate": 4.0,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "269,738,572",
+        "description": "",
+        "unit": "5",
+        "rate": null,
+        "qty": null,
+        "amount": 67434643.0
+      },
+      {
+        "item_no": "7",
+        "description": "AR-2022-00412",
+        "unit": "2022-08-22",
+        "rate": 67434643.0,
+        "qty": 472042501.0,
+        "amount": null
+      },
+      {
+        "item_no": "AR-2022-00413",
+        "description": "2022-10-05",
+        "unit": "67,434,643",
+        "rate": 539477144.0,
+        "qty": null,
+        "amount": 9.0
+      },
+      {
+        "item_no": "2022-11-18",
+        "description": "67,434,643",
+        "unit": "606,911,787",
+        "rate": null,
+        "qty": 10.0,
+        "amount": null
+      },
+      {
+        "item_no": "67,434,643",
+        "description": "674,346,430",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "741,781,073",
+        "description": "",
+        "unit": "12",
+        "rate": null,
+        "qty": null,
+        "amount": 67434643.0
+      },
+      {
+        "item_no": "14",
+        "description": "AR-2023-00419",
+        "unit": "2023-06-25",
+        "rate": 67434643.0,
+        "qty": 944085002.0,
+        "amount": null
+      },
+      {
+        "item_no": "AR-2023-00420",
+        "description": "2023-08-08",
+        "unit": "67,434,643",
+        "rate": 1011519645.0,
+        "qty": null,
+        "amount": 16.0
+      },
+      {
+        "item_no": "2023-09-21",
+        "description": "67,434,643",
+        "unit": "1,078,954,288",
+        "rate": null,
+        "qty": 17.0,
+        "amount": null
+      },
+      {
+        "item_no": "67,434,643",
+        "description": "1,146,388,931",
+        "unit": "Page 2 of 23 \n\nDOC-FINBILL-0075 \n\n## **PaRt iV — measuRement annexuRe (item-wise, all Bills)** \n\n**item 1 — eaRthwoRk in excaVation & emBankment (cum @ 287)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "Structure S-7",
+        "unit": "4",
+        "rate": 23.18,
+        "qty": 10.55,
+        "amount": 8.431
+      },
+      {
+        "item_no": "10650.759",
+        "description": "14,980,324",
+        "unit": "",
+        "rate": 3.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "2202.44",
+        "description": "7,862,284",
+        "unit": "",
+        "rate": 6.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "8074.82",
+        "description": "20,495,397",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "3241.558",
+        "description": "5,173,008",
+        "unit": "Page 3 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "9017.626",
+        "description": "13,023,942",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "8757.837",
+        "description": "9,485,212",
+        "unit": "",
+        "rate": 12.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "1380.829",
+        "description": "8,039,193",
+        "unit": "",
+        "rate": 14.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "13001.348<br>6045.821",
+        "description": "20,240,275",
+        "unit": "Page 4 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "5184.925",
+        "description": "5,366,044",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "5547.55",
+        "description": "10,574,362",
+        "unit": "",
+        "rate": 17.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "426871.853",
+        "description": "**122,512,222**",
+        "unit": "**item 2 — gRanulaR suB-Base (gsB) (cum @ 1,186)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "3",
+        "description": "Structure S-8",
+        "unit": "2",
+        "rate": 5.7,
+        "qty": 7.62,
+        "amount": 25.111
+      },
+      {
+        "item_no": "1146.577",
+        "description": "11,137,314",
+        "unit": "",
+        "rate": 4.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "Page 5 of 23 \n\nDOC-FINBILL-0075",
+        "description": "4",
+        "unit": "Structure S-23",
+        "rate": 3.0,
+        "qty": 39.33,
+        "amount": 9.48
+      },
+      {
+        "item_no": "1675.233",
+        "description": "13,868,738",
+        "unit": "",
+        "rate": 6.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "3530.506",
+        "description": "22,079,849",
+        "unit": "",
+        "rate": 7.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "2111.538",
+        "description": "11,817,856",
+        "unit": "",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "1594.597",
+        "description": "5,636,277",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "1782.818<br>1911.63",
+        "description": "14,003,558",
+        "unit": "Page 6 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 12.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "2102.651",
+        "description": "10,775,376",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "451.639",
+        "description": "8,870,358",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "95382.949",
+        "description": "**113,124,179**",
+        "unit": "Page 7 of 23 \n\nDOC-FINBILL-0075 \n\n### **item 3 — wet mix macadam (wmm) (cum @ 1,387)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "Grid 2–A / level 4",
+        "unit": "6",
+        "rate": 27.43,
+        "qty": 7.97,
+        "amount": 0.939
+      },
+      {
+        "item_no": "2419.994",
+        "description": "18,212,960",
+        "unit": "",
+        "rate": 2.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "3700.723",
+        "description": "29,188,392",
+        "unit": "",
+        "rate": 3.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "511.326",
+        "description": "8,334,256",
+        "unit": "",
+        "rate": 4.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "Page 8 of 23 \n\nDOC-FINBILL-0075",
+        "description": "4",
+        "unit": "Reach R-2",
+        "rate": 6.0,
+        "qty": 3.54,
+        "amount": 3.23
+      },
+      {
+        "item_no": "571.198",
+        "description": "7,313,823",
+        "unit": "",
+        "rate": 5.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "1806.337",
+        "description": "17,624,514",
+        "unit": "",
+        "rate": 6.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "1831.805",
+        "description": "12,283,816",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "692.387",
+        "description": "5,966,983",
+        "unit": "Page 9 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "1188.908",
+        "description": "6,070,883",
+        "unit": "",
+        "rate": 12.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "386.539",
+        "description": "7,054,867",
+        "unit": "",
+        "rate": 14.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "3662.552",
+        "description": "18,514,695",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "1879.996",
+        "description": "8,727,712",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "1003.778",
+        "description": "6,671,453",
+        "unit": "Page 10 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 17.0,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "117750.591",
+        "description": "**163,320,069**",
+        "unit": "### **item 4 — dense Bituminous macadam (dBm) (mt @ 5,917)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "2",
+        "description": "Ch. 3+061 to 12+916",
+        "unit": "1",
+        "rate": 25.1,
+        "qty": 4.55,
+        "amount": 4.546
+      },
+      {
+        "item_no": "381.798",
+        "description": "9,938,860",
+        "unit": "",
+        "rate": 3.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "486.039",
+        "description": "14,628,618",
+        "unit": "",
+        "rate": 5.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "443.245",
+        "description": "21,861,688",
+        "unit": "",
+        "rate": 6.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "Page 11 of 23 \n\nDOC-FINBILL-0075",
+        "description": "6",
+        "unit": "Grid 2–E / level 4",
+        "rate": 1.0,
+        "qty": 8.22,
+        "amount": 6.78
+      },
+      {
+        "item_no": "112.431",
+        "description": "12,575,581",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "231.432",
+        "description": "13,166,341",
+        "unit": "",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "199.3",
+        "description": "8,364,297",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "380.96",
+        "description": "11,344,037",
+        "unit": "Page 12 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 17.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "18507.095",
+        "description": "**109,506,478**",
+        "unit": "Page 13 of 23 \n\nDOC-FINBILL-0075 \n\n### **item 5 — Bituminous concRete (Bc) (mt @ 6,702)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "4",
+        "description": "Reach R-6",
+        "unit": "2",
+        "rate": 39.38,
+        "qty": 2.04,
+        "amount": 1.538
+      },
+      {
+        "item_no": "354.825",
+        "description": "18,303,392",
+        "unit": "",
+        "rate": 7.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "1005.657",
+        "description": "29,166,680",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "254.232",
+        "description": "7,707,246",
+        "unit": "",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "Page 14 of 23 \n\nDOC-FINBILL-0075",
+        "description": "9",
+        "unit": "Ch. 9+382 to 10+949",
+        "rate": 5.0,
+        "qty": 4.28,
+        "amount": 9.57
+      },
+      {
+        "item_no": "157.509",
+        "description": "11,420,479",
+        "unit": "",
+        "rate": 10.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "605.505",
+        "description": "17,491,625",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "396.526",
+        "description": "9,724,588",
+        "unit": "",
+        "rate": 12.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "126.447",
+        "description": "5,336,701",
+        "unit": "",
+        "rate": 13.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "740.939",
+        "description": "30,523,265",
+        "unit": "Page 15 of 23 \n\nDOC-FINBILL-0075",
+        "rate": 14.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "589.527",
+        "description": "28,679,673",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "83.24",
+        "description": "6,297,138",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "25370.049",
+        "description": "**170,030,068**",
+        "unit": "**item 6 — Rcc m30 FoR stRuctuRes (cum @ 8,737)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "8",
+        "description": "Reach R-7",
+        "unit": "1",
+        "rate": 16.59,
+        "qty": 6.69,
+        "amount": 1.949
+      },
+      {
+        "item_no": "Page 16 of 23 \n\nDOC-FINBILL-0075",
+        "description": "8",
+        "unit": "Structure S-8",
+        "rate": 4.0,
+        "qty": 26.49,
+        "amount": 6.54
+      },
+      {
+        "item_no": "8.29",
+        "description": "0.117",
+        "unit": "137.808",
+        "rate": 4270966.0,
+        "qty": null,
+        "amount": 9.0
+      },
+      {
+        "item_no": "204.92",
+        "description": "8,198,615",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "79.802",
+        "description": "5,628,564",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "171.248",
+        "description": "10,351,443",
+        "unit": "",
+        "rate": 17.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "Page 17 of 23 \n\nDOC-FINBILL-0075",
+        "description": "17<br>Structure S-22",
+        "unit": "1",
+        "rate": 32.18,
+        "qty": 7.37,
+        "amount": 3.196
+      },
+      {
+        "item_no": "19,847,407",
+        "description": "",
+        "unit": "---",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "5527.87",
+        "description": "**48,296,995**",
+        "unit": "Page 18 of 23 \n\nDOC-FINBILL-0075 \n\n**item 7 — ReinFoRcement steel Fe500 (mt @ 71,238)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "Ch. 9+776 to 17+591",
+        "unit": "6",
+        "rate": 30.72,
+        "qty": 3.68,
+        "amount": 0.179
+      },
+      {
+        "item_no": "43.312",
+        "description": "11,720,624",
+        "unit": "",
+        "rate": 2.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "111.726",
+        "description": "18,394,049",
+        "unit": "",
+        "rate": 3.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "78.849",
+        "description": "7,649,681",
+        "unit": "",
+        "rate": 4.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "92.158",
+        "description": "15,714,094",
+        "unit": "",
+        "rate": 5.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "57.648",
+        "description": "11,634,397",
+        "unit": "",
+        "rate": 7.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "90.047",
+        "description": "15,754,299",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "28.533",
+        "description": "8,094,792",
+        "unit": "",
+        "rate": 10.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "240.855",
+        "description": "27,079,436",
+        "unit": "",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "Page 19 of 23 \n\nDOC-FINBILL-0075",
+        "description": "11",
+        "unit": "Reach R-3",
+        "rate": 3.0,
+        "qty": 29.04,
+        "amount": 4.99
+      },
+      {
+        "item_no": "85.642",
+        "description": "13,498,137",
+        "unit": "",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "19.674",
+        "description": "5,244,947",
+        "unit": "",
+        "rate": 13.0,
+        "qty": null,
+        "amount": 6.0
+      },
+      {
+        "item_no": "124.512",
+        "description": "14,804,198",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "2259.742",
+        "description": "**160,979,515**",
+        "unit": "### **item 8 — Rcc keRB & channel (Rmt @ 439)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "Ch. 8+229 to 10+700",
+        "unit": "4",
+        "rate": 18.95,
+        "qty": 8.98,
+        "amount": 7.318
+      },
+      {
+        "item_no": "3536.633",
+        "description": "11,980,665",
+        "unit": "",
+        "rate": 2.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "3105.377",
+        "description": "9,913,342",
+        "unit": "",
+        "rate": 3.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "Page 20 of 23 \n\nDOC-FINBILL-0075",
+        "description": "3",
+        "unit": "Reach R-11",
+        "rate": 6.0,
+        "qty": 26.35,
+        "amount": 7.42
+      },
+      {
+        "item_no": "2620.069",
+        "description": "9,748,798",
+        "unit": "",
+        "rate": 7.0,
+        "qty": null,
+        "amount": 2.0
+      },
+      {
+        "item_no": "5371.025",
+        "description": "10,695,808",
+        "unit": "",
+        "rate": 8.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "3807.978",
+        "description": "9,541,098",
+        "unit": "",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 4.0
+      },
+      {
+        "item_no": "2898.842",
+        "description": "6,956,146",
+        "unit": "",
+        "rate": 11.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "Page 21 of 23 \n\nDOC-FINBILL-0075",
+        "description": "11",
+        "unit": "Structure S-19",
+        "rate": 1.0,
+        "qty": 3.29,
+        "amount": 6.08
+      },
+      {
+        "item_no": "11.33",
+        "description": "6.025",
+        "unit": "2300.472",
+        "rate": 5813997.0,
+        "qty": null,
+        "amount": 12.0
+      },
+      {
+        "item_no": "4861.908",
+        "description": "16,244,189",
+        "unit": "",
+        "rate": 15.0,
+        "qty": null,
+        "amount": 5.0
+      },
+      {
+        "item_no": "8866.527",
+        "description": "11,567,508",
+        "unit": "",
+        "rate": 16.0,
+        "qty": null,
+        "amount": 3.0
+      },
+      {
+        "item_no": "240696.977",
+        "description": "**105,665,973**",
+        "unit": "Page 22 of 23 \n\nDOC-FINBILL-0075 \n\n### **item 9 — Road maRkings & signage (ls @ 145,356,912)**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "B",
+        "description": "**D**",
+        "unit": "**Qty**",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "1",
+        "description": "Lump-sum milestone as certified",
+        "unit": "1",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "10,540,070",
+        "description": "",
+        "unit": "3",
+        "rate": null,
+        "qty": 1.0,
+        "amount": null
+      },
+      {
+        "item_no": "—",
+        "description": "0.056",
+        "unit": "8,073,692",
+        "rate": null,
+        "qty": 4.0,
+        "amount": null
+      },
+      {
+        "item_no": "—",
+        "description": "—",
+        "unit": "—",
+        "rate": 0.084,
+        "qty": 12234596.0,
+        "amount": null
+      },
+      {
+        "item_no": "Lump-sum milestone as certified",
+        "description": "1",
+        "unit": "—",
+        "rate": null,
+        "qty": null,
+        "amount": 0.112
+      },
+      {
+        "item_no": "0.093",
+        "description": "13,514,209",
+        "unit": "",
+        "rate": 9.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "—",
+        "description": "—",
+        "unit": "0.053",
+        "rate": 7764004.0,
+        "qty": null,
+        "amount": 10.0
+      },
+      {
+        "item_no": "1",
+        "description": "—",
+        "unit": "—",
+        "rate": null,
+        "qty": 0.157,
+        "amount": 22863582.0
+      },
+      {
+        "item_no": "11",
+        "description": "Lump-sum milestone as certified",
+        "unit": "1",
+        "rate": null,
+        "qty": null,
+        "amount": null
+      },
+      {
+        "item_no": "9,280,587",
+        "description": "",
+        "unit": "12",
+        "rate": null,
+        "qty": 1.0,
+        "amount": null
+      },
+      {
+        "item_no": "—",
+        "description": "0.101",
+        "unit": "14,739,370",
+        "rate": null,
+        "qty": 13.0,
+        "amount": null
+      },
+      {
+        "item_no": "—",
+        "description": "—",
+        "unit": "—",
+        "rate": 0.152,
+        "qty": 22107180.0,
+        "amount": null
+      },
+      {
+        "item_no": "Lump-sum milestone as certified",
+        "description": "1",
+        "unit": "—",
+        "rate": null,
+        "qty": null,
+        "amount": 0.034
+      },
+      {
+        "item_no": "0.036",
+        "description": "5,279,411",
+        "unit": "",
+        "rate": 17.0,
+        "qty": null,
+        "amount": 1.0
+      },
+      {
+        "item_no": "—",
+        "description": "—",
+        "unit": "0.037",
+        "rate": 5332284.0,
+        "qty": null,
+        "amount": null
+      }
+    ]
+  }
+}

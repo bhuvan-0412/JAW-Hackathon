@@ -3,17 +3,17 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00065.pdf",
   "size_bytes": 88228,
-  "char_count": 3508,
+  "char_count": 3253,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Bridges Flyovers Works",
+    "project_name": null,
     "package_code": null,
     "issuing_bank": "Kalinga National Bank",
-    "beneficiary": null,
-    "guarantee_amount": 9943000.0,
-    "raw_guarantee_amount": "Rs. 99.43 Lakh",
+    "beneficiary": "The Managing Director / Executive Director",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": "2020-06-23",
-    "expiry_date": "This Guarantee shall remain valid from 2020-06-23 until 2022-12-13 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2020-06-23 until 2022-12-13 (the \"Expiry Date\") unless extended by"
   }
 }

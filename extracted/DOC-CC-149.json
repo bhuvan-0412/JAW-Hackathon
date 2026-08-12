@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-149.pdf",
   "size_bytes": 54507,
-  "char_count": 954,
+  "char_count": 907,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Mini Water Supply — Delhi Pkg-149",
+    "package_code": "Pkg-149",
+    "client_name": "Suvarna Projects Limited",
     "contract_value": 10600000.0,
     "raw_contract_value": "INR 1.06 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Deepa Chatterjee",
     "grading_text": null
   }
 }

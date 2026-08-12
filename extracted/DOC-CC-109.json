@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-109.pdf",
   "size_bytes": 98647,
-  "char_count": 4672,
+  "char_count": 4375,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2013-12-24",
     "project_lead": "Naveen Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Excellent."
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-018.pdf",
   "size_bytes": 47667,
-  "char_count": 986,
+  "char_count": 891,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Hospital Block — West Bengal Pkg-18",
+    "package_code": "Pkg-18",
+    "client_name": "LAKSHYA ENGINEERING & CONSTRUCTION",
     "contract_value": 98000000.0,
     "raw_contract_value": "Rs. 9.80 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "22/03/2013",
+    "project_lead": "Deepa Chatterjee",
     "grading_text": null
   }
 }

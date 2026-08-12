@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-099.pdf",
   "size_bytes": 49303,
-  "char_count": 998,
+  "char_count": 951,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Flyover — Delhi Pkg-99",
+    "package_code": "Pkg-99",
+    "client_name": "Meridian Constructors & Co.",
     "contract_value": 231600000.0,
     "raw_contract_value": "INR 23,16,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Tanvir Menon",
     "grading_text": null
   }
 }

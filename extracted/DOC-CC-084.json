@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-084.pdf",
   "size_bytes": 143486,
-  "char_count": 4682,
+  "char_count": 4385,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Road Widening — Uttar Pradesh Pkg-84",
     "package_code": "Pkg-84",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Uttar Pradesh · IN",
     "contract_value": 58500000.0,
     "raw_contract_value": "INR 5.85 Cr",
     "start_date": null,
     "completion_date": "2018-06-07",
     "project_lead": "Tanvir Malhotra",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Excellent."
   }
 }

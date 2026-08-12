@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-032",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-032.pdf",
+  "size_bytes": 38354,
+  "char_count": 398,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": null,
+    "employee_id": null,
+    "certification_type": "PMP",
+    "credential_id": null,
+    "issue_date": "10 Mar 2021",
+    "expiry_date": "31 Aug 2027"
+  }
+}

@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-056.pdf",
   "size_bytes": 98879,
-  "char_count": 4732,
+  "char_count": 4425,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2017-03-06",
     "project_lead": "Meera Chatterjee",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Very Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Very Good."
   }
 }

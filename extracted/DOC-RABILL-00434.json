@@ -1,0 +1,84 @@
+{
+  "doc_id": "DOC-RABILL-00434",
+  "doc_type": "ra_bill",
+  "filename": "ra_bill/DOC-RABILL-00434.pdf",
+  "size_bytes": 29900,
+  "char_count": 1251,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "project_name": null,
+    "package_code": null,
+    "client_name": "Mega Infrastructure Authority",
+    "bill_number": null,
+    "bill_date": null,
+    "contract_value": null,
+    "billed_value": null,
+    "boq_items": [
+      {
+        "item_no": "1",
+        "description": "Earthwork in excavation & embankment",
+        "unit": "cum",
+        "rate": 314.0,
+        "qty": 21895.424,
+        "amount": 6875163.0
+      },
+      {
+        "item_no": "2",
+        "description": "Granular sub-base (GSB)",
+        "unit": "cum",
+        "rate": 1277.0,
+        "qty": 9389.466,
+        "amount": 11990348.0
+      },
+      {
+        "item_no": "3",
+        "description": "Wet mix macadam (WMM)",
+        "unit": "cum",
+        "rate": 1843.0,
+        "qty": 6490.938,
+        "amount": 11962799.0
+      },
+      {
+        "item_no": "4",
+        "description": "Dense bituminous macadam (DBM)",
+        "unit": "MT",
+        "rate": 5586.0,
+        "qty": 892.806,
+        "amount": 4987217.0
+      },
+      {
+        "item_no": "6",
+        "description": "RCC M30 for structures",
+        "unit": "cum",
+        "rate": 8261.0,
+        "qty": 576.024,
+        "amount": 4758532.0
+      },
+      {
+        "item_no": "7",
+        "description": "Reinforcement steel Fe500",
+        "unit": "MT",
+        "rate": 67863.0,
+        "qty": 60.761,
+        "amount": 4123445.0
+      },
+      {
+        "item_no": "8",
+        "description": "RCC kerb & channel",
+        "unit": "rmt",
+        "rate": 501.0,
+        "qty": 10199.703,
+        "amount": 5110051.0
+      },
+      {
+        "item_no": "56,282,537",
+        "description": "### **cumulAtive Position**",
+        "unit": "**_Value of work done up to previous_**",
+        "rate": 49807555.0,
+        "qty": null,
+        "amount": null
+      }
+    ]
+  }
+}

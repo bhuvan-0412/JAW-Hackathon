@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-101.pdf",
   "size_bytes": 51061,
-  "char_count": 942,
+  "char_count": 895,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Six-Lane Highway — Uttar Pradesh Pkg-101",
+    "package_code": "Pkg-101",
+    "client_name": "Lakshya Engineering & Construction",
     "contract_value": 977200000.0,
     "raw_contract_value": "INR 97.72 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Divya Singh",
     "grading_text": null
   }
 }

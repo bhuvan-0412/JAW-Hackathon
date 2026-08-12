@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-142.pdf",
   "size_bytes": 99194,
-  "char_count": 4774,
+  "char_count": 4467,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2013-03-09",
     "project_lead": "Priya Patel",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

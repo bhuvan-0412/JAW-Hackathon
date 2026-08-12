@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-026.pdf",
   "size_bytes": 52654,
-  "char_count": 3369,
+  "char_count": 2889,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Material Handling Plant — Uttar Pradesh Pkg-26",
+    "package_code": "Pkg-26",
+    "client_name": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
     "contract_value": 123300000.0,
     "raw_contract_value": "Rs. 12.33 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2025-07-16",
+    "project_lead": "Farhan Rao",
     "grading_text": null
   }
 }

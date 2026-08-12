@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-091.pdf",
   "size_bytes": 98770,
-  "char_count": 4593,
+  "char_count": 4294,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Highway Construction — Maharashtra Pkg-91",
     "package_code": "Pkg-91",
-    "client_name": "Subarnarekha Valley Corp",
+    "client_name": "Subarnarekha Valley Corporation",
     "contract_value": 208700000.0,
     "raw_contract_value": "INR 20.87 Cr",
     "start_date": null,
     "completion_date": "2012-02-05",
     "project_lead": "Neha Chopra",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

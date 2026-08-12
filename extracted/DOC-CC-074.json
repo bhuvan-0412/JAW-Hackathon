@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-074.pdf",
   "size_bytes": 77153,
-  "char_count": 4609,
+  "char_count": 4310,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2018-08-11",
     "project_lead": "Rahul Das",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Very Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Very Good."
   }
 }

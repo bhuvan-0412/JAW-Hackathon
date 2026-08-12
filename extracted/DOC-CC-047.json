@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-047.pdf",
   "size_bytes": 84702,
-  "char_count": 1047,
+  "char_count": 1000,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Material Handling Plant — Uttar Pradesh Pkg-47",
+    "package_code": "Pkg-47",
+    "client_name": "National Expressway Development Authority",
     "contract_value": 129400000.0,
     "raw_contract_value": "INR 12,94,00,000/-",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2013-09-20",
+    "project_lead": "Rajesh Rao",
     "grading_text": null
   }
 }

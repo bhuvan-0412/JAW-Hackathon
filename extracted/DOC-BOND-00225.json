@@ -3,17 +3,17 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00225.pdf",
   "size_bytes": 133164,
-  "char_count": 3525,
+  "char_count": 3266,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Sewerage Drainage Works",
+    "project_name": null,
     "package_code": null,
     "issuing_bank": "Union Trust Bank of India",
-    "beneficiary": null,
-    "guarantee_amount": 17800000.0,
-    "raw_guarantee_amount": "INR 1.78 Cr",
+    "beneficiary": "The Managing Director / Executive Director",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": "2024-11-18",
-    "expiry_date": "This Guarantee shall remain valid from 2024-11-18 until 2027-09-24 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2024-11-18 until 2027-09-24 (the \"Expiry Date\")"
   }
 }

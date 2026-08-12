@@ -3,16 +3,16 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00236.pdf",
   "size_bytes": 47285,
-  "char_count": 917,
+  "char_count": 862,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": null,
     "package_code": null,
-    "issuing_bank": "Bank Guarantee Department",
+    "issuing_bank": "Kalinga National Bank",
     "beneficiary": null,
-    "guarantee_amount": 0.0,
-    "raw_guarantee_amount": "Rs. 0",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": null,
     "expiry_date": null
   }

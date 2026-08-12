@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-017.pdf",
   "size_bytes": 48796,
-  "char_count": 951,
+  "char_count": 895,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Sewerage Network — Odisha Pkg-17",
+    "package_code": "Pkg-17",
+    "client_name": "Public Health Engineering Dept, Odisha",
     "contract_value": 385400000.0,
     "raw_contract_value": "Rs. 3854.00 Lakh",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "27/03/2024",
+    "project_lead": "Meera Roy",
     "grading_text": null
   }
 }

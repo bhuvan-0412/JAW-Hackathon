@@ -3,7 +3,7 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00067.pdf",
   "size_bytes": 52276,
-  "char_count": 929,
+  "char_count": 874,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
@@ -11,8 +11,8 @@
     "package_code": null,
     "issuing_bank": "Prithvi Commercial Bank",
     "beneficiary": null,
-    "guarantee_amount": 0.0,
-    "raw_guarantee_amount": "INR 0",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": null,
     "expiry_date": null
   }

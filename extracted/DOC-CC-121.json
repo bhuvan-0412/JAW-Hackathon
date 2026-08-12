@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-121.pdf",
   "size_bytes": 90753,
-  "char_count": 1011,
+  "char_count": 964,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Cable Stayed Bridge — Uttar Pradesh Pkg-121",
+    "package_code": "Pkg-121",
+    "client_name": "Jal Nigam, Uttar Pradesh",
     "contract_value": 910400000.0000001,
     "raw_contract_value": "INR 91.04 Cr",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "12 Feb 2011",
+    "project_lead": "Tanvir Malhotra",
     "grading_text": null
   }
 }

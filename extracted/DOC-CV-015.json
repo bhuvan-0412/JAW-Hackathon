@@ -3,28 +3,15 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-015.pdf",
   "size_bytes": 60129,
-  "char_count": 2328,
+  "char_count": 2077,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "engineer_name": "Tanvir Menon",
-    "employee_id": null,
+    "employee_id": "EMP-015",
     "designation": "Project Manager",
-    "total_experience": null,
+    "total_experience": "14 years",
     "qualification": "B.Com",
-    "projects_led": [
-      {
-        "project_name": "",
-        "package_code": "Commercial",
-        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
-        "role": ""
-      },
-      {
-        "project_name": "First Class",
-        "package_code": "",
-        "client": "Higher Secondary (XII)",
-        "role": "CBSE Board"
-      }
-    ]
+    "projects_led": []
   }
 }

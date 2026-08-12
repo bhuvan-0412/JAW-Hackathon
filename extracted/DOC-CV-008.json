@@ -3,28 +3,15 @@
   "doc_type": "cv",
   "filename": "cv/DOC-CV-008.pdf",
   "size_bytes": 60119,
-  "char_count": 2346,
+  "char_count": 2095,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "engineer_name": "Kavita Reddy",
-    "employee_id": null,
+    "employee_id": "EMP-008",
     "designation": "Project Manager",
-    "total_experience": null,
+    "total_experience": "28 years",
     "qualification": "M.Tech Structural",
-    "projects_led": [
-      {
-        "project_name": "",
-        "package_code": "Commercial",
-        "client": "BOQ preparation, rate analysis, variation orders, billing, contract administration",
-        "role": ""
-      },
-      {
-        "project_name": "First Class",
-        "package_code": "",
-        "client": "Higher Secondary (XII)",
-        "role": "CBSE Board"
-      }
-    ]
+    "projects_led": []
   }
 }

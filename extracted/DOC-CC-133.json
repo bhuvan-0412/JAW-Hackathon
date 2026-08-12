@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-133.pdf",
   "size_bytes": 82075,
-  "char_count": 973,
+  "char_count": 926,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Community Centre — Jharkhand Pkg-133",
+    "package_code": "Pkg-133",
+    "client_name": "Central Works & Buildings Bureau",
     "contract_value": 68700000.0,
     "raw_contract_value": "INR 6,87,00,000/-",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2012-03-25",
+    "project_lead": "Neha Chopra",
     "grading_text": null
   }
 }

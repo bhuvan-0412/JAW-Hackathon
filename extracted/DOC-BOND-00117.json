@@ -3,17 +3,17 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00117.pdf",
   "size_bytes": 133143,
-  "char_count": 3532,
+  "char_count": 3273,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Bridges Flyovers Works",
+    "project_name": null,
     "package_code": null,
     "issuing_bank": "Union Trust Bank of India",
-    "beneficiary": null,
-    "guarantee_amount": 5214000.0,
-    "raw_guarantee_amount": "INR 52.14 Lakh",
+    "beneficiary": "The Managing Director / Executive Director",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": "2021-10-08",
-    "expiry_date": "This Guarantee shall remain valid from 2021-10-08 until 2023-10-06 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2021-10-08 until 2023-10-06 (the \"Expiry Date\")"
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-009.pdf",
   "size_bytes": 12780,
-  "char_count": 757,
+  "char_count": 580,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "WTP Augmentation — Tamil Nadu Pkg-9",
+    "package_code": "Pkg-9",
+    "client_name": "Mahanadi Steel Corporation (psu)",
     "contract_value": 113200000.0,
     "raw_contract_value": "Rs. 11.32 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "17/04/2024",
+    "project_lead": "Meera Chatterjee",
     "grading_text": null
   }
 }

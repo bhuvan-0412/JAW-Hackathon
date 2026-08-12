@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-120.pdf",
   "size_bytes": 52718,
-  "char_count": 3337,
+  "char_count": 2857,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Irrigation & Waterways Dept",
+    "project_name": "Highway Tunnel — West Bengal Pkg-120",
+    "package_code": "Pkg-120",
+    "client_name": "Irrigation & Waterways Dept, Govt of West Bengal",
     "contract_value": 746600000.0,
     "raw_contract_value": "Rs. 74.66 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2023-05-20",
+    "project_lead": "Rahul Menon",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-013.pdf",
   "size_bytes": 54417,
-  "char_count": 958,
+  "char_count": 909,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Lift Irrigation — West Bengal Pkg-13",
+    "package_code": "Pkg-13",
+    "client_name": "Suvarna Projects Limited",
     "contract_value": 232000000.0,
     "raw_contract_value": "INR 23.20 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Divya Singh",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-128.pdf",
   "size_bytes": 13089,
-  "char_count": 781,
+  "char_count": 599,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Ring Road — West Bengal Pkg-128",
+    "package_code": "Pkg-128",
+    "client_name": "Public Works Department, Govt of West Bengal",
     "contract_value": 400000000.0,
     "raw_contract_value": "Rs. 40.00 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "23/05/2023",
+    "project_lead": "Amit Iyer",
     "grading_text": null
   }
 }

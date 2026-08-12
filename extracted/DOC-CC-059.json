@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-059.pdf",
   "size_bytes": 94107,
-  "char_count": 4687,
+  "char_count": 4363,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Stormwater Drainage — Odisha Pkg-59",
     "package_code": "Pkg-59",
-    "client_name": "Public Health Engineering Dept",
+    "client_name": "Public Health Engineering Dept, Odisha",
     "contract_value": 225800000.0,
     "raw_contract_value": "Rs. 2258.00 Lakh",
     "start_date": null,
     "completion_date": "2023-02-18",
     "project_lead": "Jaya Desai",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

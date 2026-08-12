@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-092.pdf",
   "size_bytes": 98456,
-  "char_count": 4733,
+  "char_count": 4409,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Box Culvert Chain — Tamil Nadu Pkg-92",
     "package_code": "Pkg-92",
-    "client_name": "Tamil Nadu Municipal Corp",
+    "client_name": "Tamil Nadu Municipal Corporation",
     "contract_value": 100500000.0,
     "raw_contract_value": "Rs. 1005.00 Lakh",
     "start_date": null,
     "completion_date": "2012-02-14",
     "project_lead": "Lakshmi Ghosh",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

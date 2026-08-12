@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-049.pdf",
   "size_bytes": 47723,
-  "char_count": 976,
+  "char_count": 881,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Rigid Pavement — Madhya Pradesh Pkg-49",
+    "package_code": "Pkg-49",
+    "client_name": "MAHANADI STEEL CORPORATION",
     "contract_value": 298700000.0,
     "raw_contract_value": "Rs. 29.87 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "26/02/2025",
+    "project_lead": "Rahul Das",
     "grading_text": null
   }
 }

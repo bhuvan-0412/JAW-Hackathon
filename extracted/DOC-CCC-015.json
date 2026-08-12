@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-015.pdf",
   "size_bytes": 12790,
-  "char_count": 714,
+  "char_count": 537,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Flyover — Delhi Pkg-15",
+    "package_code": "Pkg-15",
+    "client_name": "Suvarna Projects Limited (private)",
     "contract_value": 90800000.0,
     "raw_contract_value": "Rs. 9.08 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "02/03/2023",
+    "project_lead": "Sunita Joshi",
     "grading_text": null
   }
 }

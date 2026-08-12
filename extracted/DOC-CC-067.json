@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-067.pdf",
   "size_bytes": 136962,
-  "char_count": 4650,
+  "char_count": 4348,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Residential Quarters — West Bengal Pkg-67",
     "package_code": "Pkg-67",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · West Bengal · IN",
     "contract_value": 161700000.00000003,
     "raw_contract_value": "INR 16.17 Cr",
     "start_date": null,
     "completion_date": "2016-02-08",
     "project_lead": "Neha Chopra",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Satisfactory."
   }
 }

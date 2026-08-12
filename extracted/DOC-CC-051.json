@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-051.pdf",
   "size_bytes": 97916,
-  "char_count": 4952,
+  "char_count": 4384,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "WTP Augmentation — West Bengal Pkg-51",
+    "package_code": "Pkg-51",
+    "client_name": "Government of India / State Authority · West Bengal · IN",
     "contract_value": 149200000.0,
     "raw_contract_value": "Rs. 14.92 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Good."
+    "completion_date": "2022-12-16",
+    "project_lead": "Chandan Banerjee",
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Good."
   }
 }

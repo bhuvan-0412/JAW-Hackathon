@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-106.pdf",
   "size_bytes": 142740,
-  "char_count": 4791,
+  "char_count": 4491,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2012-12-08",
     "project_lead": "Kavita Reddy",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Very Good** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Very Good."
   }
 }

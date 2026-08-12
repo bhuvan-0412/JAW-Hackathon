@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-094.pdf",
   "size_bytes": 99374,
-  "char_count": 4684,
+  "char_count": 4382,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "STP — Jharkhand Pkg-94",
     "package_code": "Pkg-94",
-    "client_name": "Subarnarekha Valley Corp",
+    "client_name": "Subarnarekha Valley Corporation",
     "contract_value": 219300000.0,
     "raw_contract_value": "INR 21.93 Cr",
     "start_date": null,
     "completion_date": "2014-09-14",
     "project_lead": "Tanvir Menon",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Excellent."
   }
 }

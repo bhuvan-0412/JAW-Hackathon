@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-147.pdf",
   "size_bytes": 52711,
-  "char_count": 3319,
+  "char_count": 2836,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Patch Repair — Maharashtra Pkg-147",
+    "package_code": "Pkg-147",
+    "client_name": "Maharashtra Municipal Corporation (Government)",
     "contract_value": 19000000.0,
     "raw_contract_value": "Rs. 1.90 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2021-08-18",
+    "project_lead": "Lakshmi Ghosh",
     "grading_text": null
   }
 }

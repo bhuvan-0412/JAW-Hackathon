@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-029.pdf",
   "size_bytes": 98569,
-  "char_count": 4684,
+  "char_count": 4377,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "ROB — Jharkhand Pkg-29",
     "package_code": "Pkg-29",
-    "client_name": null,
+    "client_name": "Government of India / State Authority · Jharkhand · IN",
     "contract_value": 223800000.0,
     "raw_contract_value": "Rs. 2238.00 Lakh",
     "start_date": null,
     "completion_date": "2023-07-12",
     "project_lead": "Meera Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-152.pdf",
   "size_bytes": 13110,
-  "char_count": 760,
+  "char_count": 578,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Mini Water Supply — West Bengal Pkg-152",
+    "package_code": "Pkg-152",
+    "client_name": "Irrigation & Waterways Dept, Govt of West Bengal",
     "contract_value": 16700000.0,
     "raw_contract_value": "Rs. 1.67 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "17/02/2025",
+    "project_lead": "Kavita Reddy",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-023.pdf",
   "size_bytes": 52620,
-  "char_count": 3308,
+  "char_count": 2825,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Water Treatment Plant — Madhya Pradesh Pkg-23",
+    "package_code": "Pkg-23",
+    "client_name": "Mahanadi Steel Corporation (Psu)",
     "contract_value": 349200000.0,
     "raw_contract_value": "Rs. 34.92 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2022-08-28",
+    "project_lead": "Pooja Bose",
     "grading_text": null
   }
 }

@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-089.pdf",
   "size_bytes": 13047,
-  "char_count": 782,
+  "char_count": 605,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Material Handling Plant — Uttar Pradesh Pkg-89",
+    "package_code": "Pkg-89",
+    "client_name": "Trishakti Power Generation Corporation (psu)",
     "contract_value": 136500000.0,
     "raw_contract_value": "Rs. 13.65 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "15/01/2023",
+    "project_lead": "Rahul Menon",
     "grading_text": null
   }
 }

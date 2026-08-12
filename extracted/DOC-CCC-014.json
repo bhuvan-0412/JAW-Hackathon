@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-014.pdf",
   "size_bytes": 12876,
-  "char_count": 766,
+  "char_count": 589,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Road Widening — West Bengal Pkg-14",
+    "package_code": "Pkg-14",
+    "client_name": "Trishakti Power Generation Corporation (psu)",
     "contract_value": 101100000.0,
     "raw_contract_value": "Rs. 10.11 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "30/09/2024",
+    "project_lead": "Meera Banerjee",
     "grading_text": null
   }
 }

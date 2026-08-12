@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-001.pdf",
   "size_bytes": 142622,
-  "char_count": 4751,
+  "char_count": 4449,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2011-02-06",
     "project_lead": "Suresh Desai",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Good."
   }
 }

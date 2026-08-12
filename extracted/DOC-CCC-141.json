@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-141.pdf",
   "size_bytes": 12657,
-  "char_count": 725,
+  "char_count": 548,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Drainage Works — Tamil Nadu Pkg-141",
+    "package_code": "Pkg-141",
+    "client_name": "Mahanadi Steel Corporation (psu)",
     "contract_value": 39900000.0,
     "raw_contract_value": "Rs. 3.99 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "12/04/2023",
+    "project_lead": "Jaya Desai",
     "grading_text": null
   }
 }

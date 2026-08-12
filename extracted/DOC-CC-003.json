@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-003.pdf",
   "size_bytes": 100386,
-  "char_count": 4707,
+  "char_count": 4405,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "STP — Gujarat Pkg-3",
     "package_code": "Pkg-3",
-    "client_name": "Public Works Department",
+    "client_name": "Public Works Department, Govt of Gujarat",
     "contract_value": 209200000.00000003,
     "raw_contract_value": "INR 20.92 Cr",
     "start_date": null,
     "completion_date": "2016-04-11",
     "project_lead": "Farhan Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Satisfactory."
   }
 }

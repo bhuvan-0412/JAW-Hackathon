@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-033.pdf",
   "size_bytes": 98113,
-  "char_count": 4740,
+  "char_count": 4443,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Process Piping Package — Gujarat Pkg-33",
     "package_code": "Pkg-33",
-    "client_name": "Trishakti Power Generation Corp",
+    "client_name": "Trishakti Power Generation Corporation",
     "contract_value": 210400000.0,
     "raw_contract_value": "INR 21.04 Cr",
     "start_date": null,
     "completion_date": "2017-09-02",
     "project_lead": "Chandan Banerjee",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Good** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Good."
   }
 }

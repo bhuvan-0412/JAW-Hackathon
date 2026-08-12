@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-145.pdf",
   "size_bytes": 12883,
-  "char_count": 766,
+  "char_count": 589,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "School Building — Madhya Pradesh Pkg-145",
+    "package_code": "Pkg-145",
+    "client_name": "Mega Infrastructure Authority (government)",
     "contract_value": 30000000.0,
     "raw_contract_value": "Rs. 3.00 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "26/06/2025",
+    "project_lead": "Asha Nair",
     "grading_text": null
   }
 }

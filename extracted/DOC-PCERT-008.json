@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-008",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-008.pdf",
+  "size_bytes": 48744,
+  "char_count": 1089,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Manoj Kapoor",
+    "employee_id": "EMP-003",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200008",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2027-08-31"
+  }
+}

@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-038.pdf",
   "size_bytes": 138041,
-  "char_count": 4673,
+  "char_count": 4374,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "STP — Jharkhand Pkg-38",
     "package_code": "Pkg-38",
-    "client_name": null,
+    "client_name": "Central Works & Buildings Bureau",
     "contract_value": 321400000.0,
     "raw_contract_value": "INR 32,14,00,000/-",
     "start_date": null,
     "completion_date": "2013-09-07",
     "project_lead": "Asha Nair",
-    "grading_text": "Quality Assessment**   The overall quality of the completed work is graded **Satisfactory** ."
+    "grading_text": "Quality Assessment The overall quality of the completed work is graded Satisfactory."
   }
 }

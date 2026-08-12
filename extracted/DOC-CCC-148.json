@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-148.pdf",
   "size_bytes": 52809,
-  "char_count": 3338,
+  "char_count": 2863,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "School Building — Delhi Pkg-148",
+    "package_code": "Pkg-148",
+    "client_name": "Trishakti Power Generation Corporation (Psu)",
     "contract_value": 15400000.0,
     "raw_contract_value": "Rs. 1.54 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2022-04-16",
+    "project_lead": "Rahul Menon",
     "grading_text": null
   }
 }

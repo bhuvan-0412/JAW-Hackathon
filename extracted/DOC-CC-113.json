@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-113.pdf",
   "size_bytes": 90296,
-  "char_count": 970,
+  "char_count": 923,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Ring Road — Uttar Pradesh Pkg-113",
+    "package_code": "Pkg-113",
+    "client_name": "National Special Projects Office",
     "contract_value": 2000000000.0,
     "raw_contract_value": "INR 200.00 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Priya Patel",
     "grading_text": null
   }
 }

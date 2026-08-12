@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-134.pdf",
   "size_bytes": 102573,
-  "char_count": 4756,
+  "char_count": 4449,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
     "project_name": "Handpump Installation — Uttar Pradesh Pkg-134",
     "package_code": "Pkg-134",
-    "client_name": "Irrigation & Waterways Dept",
+    "client_name": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
     "contract_value": 48000000.0,
     "raw_contract_value": "Rs. 480.00 Lakh",
     "start_date": null,
     "completion_date": "2024-12-27",
     "project_lead": "Naveen Roy",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Excellent."
   }
 }

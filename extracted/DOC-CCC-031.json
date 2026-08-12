@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-031.pdf",
   "size_bytes": 52727,
-  "char_count": 3352,
+  "char_count": 2877,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "STP — Uttar Pradesh Pkg-31",
+    "package_code": "Pkg-31",
+    "client_name": "Trishakti Power Generation Corporation (Psu)",
     "contract_value": 721000000.0,
     "raw_contract_value": "Rs. 72.10 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2024-11-08",
+    "project_lead": "Naveen Roy",
     "grading_text": null
   }
 }

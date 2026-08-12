@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-132.pdf",
   "size_bytes": 79944,
-  "char_count": 960,
+  "char_count": 913,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Patch Repair — Delhi Pkg-132",
+    "package_code": "Pkg-132",
+    "client_name": "Subarnarekha Valley Corporation",
     "contract_value": 20400000.0,
     "raw_contract_value": "INR 2,04,00,000/-",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Imran Joshi",
     "grading_text": null
   }
 }

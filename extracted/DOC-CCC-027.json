@@ -3,18 +3,18 @@
   "doc_type": "company_completion_certificate",
   "filename": "company_completion_certificate/DOC-CCC-027.pdf",
   "size_bytes": 13080,
-  "char_count": 782,
+  "char_count": 600,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Check Dam — Rajasthan Pkg-27",
+    "package_code": "Pkg-27",
+    "client_name": "Irrigation & Waterways Dept, Govt of Rajasthan",
     "contract_value": 195200000.0,
     "raw_contract_value": "Rs. 19.52 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "07/09/2023",
+    "project_lead": "Meera Banerjee",
     "grading_text": null
   }
 }

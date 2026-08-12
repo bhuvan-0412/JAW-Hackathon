@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-119.pdf",
   "size_bytes": 47661,
-  "char_count": 943,
+  "char_count": 889,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Six-Lane Highway — Tamil Nadu Pkg-119",
+    "package_code": "Pkg-119",
+    "client_name": "Tamil Nadu Municipal Corporation",
     "contract_value": 1464800000.0,
     "raw_contract_value": "Rs. 14648.00 Lakh",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "22/09/2018",
+    "project_lead": "Priya Gupta",
     "grading_text": null
   }
 }

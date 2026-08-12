@@ -20,10 +20,23 @@ import argparse
 import datetime
 import pandas as pd
 import openpyxl
-import fitz
-import pymupdf4llm
 import pdfplumber
-import formulas
+
+try:
+    import fitz
+except ImportError:
+    fitz = None
+
+try:
+    import pymupdf4llm
+except ImportError:
+    pymupdf4llm = None
+
+try:
+    import formulas
+except ImportError:
+    formulas = None
+
 from money_parser import parse_money, find_money_mentions, parse_cell_value
 
 # Ensure stdout uses UTF-8 encoding on Windows
@@ -68,34 +81,31 @@ def clean_json_obj(obj):
 
 def extract_pdf_layout_text(pdf_path: str) -> tuple[str, int, int]:
     """
-    Extract layout-preserving text, char count, and page count from a PDF file using pymupdf4llm.
-    Falls back to pdfplumber(layout=True) if pymupdf4llm fails.
+    Extract text, char count, and page count from a PDF file using fitz / pdfplumber.
     """
     page_count = 0
-    try:
-        doc = fitz.open(pdf_path)
-        page_count = len(doc)
-        doc.close()
-    except Exception:
-        pass
-
-    try:
-        md_text = pymupdf4llm.to_markdown(pdf_path)
-        char_count = len(md_text)
-        return md_text, char_count, page_count
-    except Exception as e:
-        pages_text = []
+    if fitz is not None:
         try:
-            with pdfplumber.open(pdf_path) as pdf:
-                page_count = len(pdf.pages)
-                for page in pdf.pages:
-                    txt = page.extract_text(layout=True) or ''
-                    pages_text.append(txt)
-            md_text = '\n\n'.join(pages_text)
-            char_count = len(md_text)
-            return md_text, char_count, page_count
-        except Exception as e2:
-            return f"EXTRACTION_FAILED: {str(e2)}", 0, page_count
+            doc = fitz.open(pdf_path)
+            page_count = len(doc)
+            pages_text = [page.get_text("text") for page in doc]
+            doc.close()
+            text = '\n\n'.join(pages_text)
+            return text, len(text), page_count
+        except Exception:
+            pass
+
+    pages_text = []
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            page_count = len(pdf.pages)
+            for page in pdf.pages:
+                txt = page.extract_text() or ''
+                pages_text.append(txt)
+        text = '\n\n'.join(pages_text)
+        return text, len(text), page_count
+    except Exception as e2:
+        return f"EXTRACTION_FAILED: {str(e2)}", 0, page_count
 
 
 def parse_markdown_key_values(md_text: str) -> dict[str, str]:
@@ -113,6 +123,20 @@ def parse_markdown_key_values(md_text: str) -> dict[str, str]:
         v_clean = v.replace('*', '').replace('_', '').strip()
         if k_clean and v_clean:
             kv[k_clean.lower()] = v_clean
+
+    line_kvs_plain = re.findall(r'^\s*([A-Za-z0-9\s/_\-\(\)\']+):\s*(.+)', md_text, re.MULTILINE)
+    for k, v in line_kvs_plain:
+        k_clean = k.replace('*', '').replace('_', '').strip()
+        v_clean = v.replace('*', '').replace('_', '').strip()
+        if k_clean and v_clean and k_clean.lower() not in kv:
+            kv[k_clean.lower()] = v_clean
+
+    lines = [l.strip() for l in md_text.split('\n') if l.strip()]
+    for i in range(len(lines) - 1):
+        k_clean = lines[i].replace('*', '').replace('_', '').strip().lower()
+        v_clean = lines[i+1].replace('*', '').replace('_', '').strip()
+        if k_clean not in kv and len(k_clean) < 50:
+            kv[k_clean] = v_clean
 
     return kv
 
@@ -145,13 +169,17 @@ def extract_completion_certificate(md_text: str, doc_type: str) -> dict:
         kv.get('contract / work order title')
     )
     if not project_name:
-        match = re.search(r'work\s+[“"]([^”"]+)[”"]', md_text, re.IGNORECASE)
+        match = re.search(r'work of\s+["“’\'\?]?([^"”’\'\?\n]+?)["“”’\'\?]?(?:\s*\([^)]+\))?,\s*awarded', md_text, re.IGNORECASE)
         if match:
             project_name = match.group(1).strip()
-            
+    if not project_name:
+        match = re.search(r'work\s+(?:of\s+)?["“’\'\?]?([^"”’\'\?\n]+)["“”’\'\?]', md_text, re.IGNORECASE)
+        if match:
+            project_name = match.group(1).strip()
+
     package_code = kv.get('package code')
-    if not package_code and project_name:
-        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name, re.IGNORECASE)
+    if not package_code and (project_name or md_text):
+        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name or md_text, re.IGNORECASE)
         if match:
             package_code = match.group(0).strip()
             
@@ -162,9 +190,14 @@ def extract_completion_certificate(md_text: str, doc_type: str) -> dict:
         kv.get('employer')
     )
     if not client_name:
-        match = re.search(r'(?:for|authority)\s+([A-Z][A-Za-z\s,&]+(?:Department|Dept|Office|Authority|Limited|Ltd|Corp))', md_text)
-        if match:
-            client_name = match.group(1).strip()
+        lines = [l.strip() for l in md_text.split('\n') if l.strip()]
+        for l in lines[:5]:
+            l_lower = l.lower()
+            if any(k in l_lower for k in ['authority', 'department', 'dept', 'office', 'corporation', 'corp', 'bureau', 'board', 'limited', 'ltd']) and not any(l_lower.startswith(w) for w in ['no.', 'dated', 'certificate', 'office of']):
+                client_name = l.replace('#', '').replace('*', '').strip()
+                break
+        if not client_name and lines:
+            client_name = lines[0].replace('#', '').replace('*', '').strip()
             
     raw_contract_val = (
         kv.get('contract / work order value') or 
@@ -193,7 +226,7 @@ def extract_completion_certificate(md_text: str, doc_type: str) -> dict:
     )
     
     if not completion_date:
-        match = re.search(r'completed\s+on\s+([\d]{1,2}[-/\s][A-Za-z0-9]+[-/\s][\d]{2,4})', md_text, re.IGNORECASE)
+        match = re.search(r'completed\s+(?:in all respects\s+)?on\s+([\d]{1,2}[-/\s][\d]{1,2}[-/\s][\d]{2,4}|[\d]{4}-\d{2}-\d{2}|[\d]{1,2}\s+[A-Za-z]+\s+[\d]{4})', md_text, re.IGNORECASE)
         if match:
             completion_date = match.group(1).strip()
 
@@ -202,6 +235,10 @@ def extract_completion_certificate(md_text: str, doc_type: str) -> dict:
         kv.get('project lead') or 
         kv.get('project manager')
     )
+    if not project_lead:
+        match = re.search(r'supervised\s+(?:on the contractor\'s side\s+)?by\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)', md_text, re.IGNORECASE)
+        if match:
+            project_lead = match.group(1).strip()
 
     grading_text = extract_grading_sentence(md_text)
 
@@ -221,36 +258,42 @@ def extract_completion_certificate(md_text: str, doc_type: str) -> dict:
 def extract_reference_letter(md_text: str) -> dict:
     kv = parse_markdown_key_values(md_text)
     
-    project_name = kv.get('project title') or kv.get('work') or kv.get('name of work')
+    project_name = kv.get('project title') or kv.get('work executed') or kv.get('project name') or kv.get('work') or kv.get('name of work')
     if not project_name:
-        match = re.search(r'for the work\s+[“"]?([^”"\n]+?)[”"]?\s*\((INR|Rs)', md_text, re.IGNORECASE)
+        match = re.search(r'Subject:.*?[“"’\'\?]?([^”"’\'\?\n]+?Pkg-[A-Za-z0-9-]+)[”"’\'\?]?', md_text, re.IGNORECASE)
+        if match:
+            project_name = match.group(1).strip()
+    if not project_name:
+        match = re.search(r'for the work\s+[“"’\'\?]?([^”"’\'\?\n]+?)[”"’\'\?]?(?:\s*\((?:INR|Rs))?', md_text, re.IGNORECASE)
         if match:
             project_name = match.group(1).strip()
             
     package_code = kv.get('package code')
-    if not package_code and project_name:
-        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name, re.IGNORECASE)
+    if not package_code and (project_name or md_text):
+        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name or md_text, re.IGNORECASE)
         if match:
             package_code = match.group(0).strip()
             
     issuing_client = kv.get('issuing authority') or kv.get('client') or kv.get('employer')
     if not issuing_client:
         lines = [line.strip() for line in md_text.split('\n') if line.strip()]
-        for line in lines[:10]:
-            if any(term in line.lower() for term in ['office', 'dept', 'department', 'authority', 'limited', 'ltd']):
-                issuing_client = line.replace('*', '').replace('#', '').strip()
-                break
+        if lines:
+            for line in lines[:5]:
+                line_clean = line.replace('*', '').replace('#', '').strip()
+                if not any(line_clean.lower().startswith(w) for w in ['ref:', 'date:', 'subject:', 'to whomsoever', 'this letter', 'page ']):
+                    issuing_client = line_clean
+                    break
 
-    raw_val = kv.get('contract value')
+    raw_val = kv.get('contract value') or kv.get('value') or kv.get('sanctioned value')
     contract_val = parse_money(raw_val) if raw_val else None
     if contract_val is None:
         mentions = find_money_mentions(md_text)
         if mentions:
             raw_val, contract_val = mentions[0]
 
-    completion_date = kv.get('completion date')
+    completion_date = kv.get('completion date') or kv.get('completed') or kv.get('date of completion')
     if not completion_date:
-        match = re.search(r'completed\s+on\s+([\d]{1,2}[-/\s][A-Za-z0-9]+[-/\s][\d]{2,4})', md_text, re.IGNORECASE)
+        match = re.search(r'(?:completed|finished)\s+(?:on\s+)?([\d]{1,2}[-/\s][\d]{1,2}[-/\s][\d]{2,4}|[\d]{4}-\d{2}-\d{2}|[A-Za-z]+\s+[\d]{1,2},\s+[\d]{4})', md_text, re.IGNORECASE)
         if match:
             completion_date = match.group(1).strip()
 
@@ -268,21 +311,21 @@ def extract_reference_letter(md_text: str) -> dict:
 def extract_performance_bond(md_text: str) -> dict:
     kv = parse_markdown_key_values(md_text)
     
-    project_name = kv.get('project / work name') or kv.get('work of')
+    project_name = kv.get('project / work name') or kv.get('work of') or kv.get('project name') or kv.get('work')
     if not project_name:
-        match = re.search(r'work of\s+\*\*([^\*]+)\*\*', md_text, re.IGNORECASE)
+        match = re.search(r'work of\s+["“’\'\?]?([^"”’\'\?\n]+?)["“”’\'\?]', md_text, re.IGNORECASE)
         if match:
             project_name = match.group(1).strip()
 
     package_code = kv.get('package code')
-    if not package_code and project_name:
-        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name, re.IGNORECASE)
+    if not package_code and (project_name or md_text):
+        match = re.search(r'(?:Pkg|Package)[- ]?([A-Za-z0-9-]+)', project_name or md_text, re.IGNORECASE)
         if match:
             package_code = match.group(0).strip()
 
-    issuing_bank = kv.get('guarantor bank') or kv.get('issuing bank')
+    issuing_bank = kv.get('guarantor bank') or kv.get('issuing bank') or kv.get('bank')
     if not issuing_bank:
-        match = re.search(r'(?:we,)\s+\*\*([^*]+(?:Bank|Financial))\*\*', md_text, re.IGNORECASE)
+        match = re.search(r'(?:we,)\s+\*\*?([^*]+?(?:Bank|Financial))\*\*?', md_text, re.IGNORECASE)
         if match:
             issuing_bank = match.group(1).strip()
         else:
@@ -292,7 +335,7 @@ def extract_performance_bond(md_text: str) -> dict:
                     issuing_bank = line.replace('*', '').replace('#', '').strip()
                     break
 
-    beneficiary = kv.get('beneficiary')
+    beneficiary = kv.get('beneficiary') or kv.get('client')
     if not beneficiary:
         match = re.search(r'To:\s*\n+([^\n]+)', md_text, re.IGNORECASE)
         if match:
@@ -301,20 +344,20 @@ def extract_performance_bond(md_text: str) -> dict:
     raw_amount = kv.get('guarantee amount') or kv.get('bond amount')
     guarantee_amount = parse_money(raw_amount) if raw_amount else None
     if guarantee_amount is None:
-        match = re.search(r'exceeding\s+\*\*([^*]+)\*\*', md_text, re.IGNORECASE)
+        match = re.search(r'exceeding\s+\*\*?([^*]+?)\*\*?', md_text, re.IGNORECASE)
         if match:
             raw_amount = match.group(1).strip()
             guarantee_amount = parse_money(raw_amount)
 
-    issue_date = kv.get('issue date')
+    issue_date = kv.get('issue date') or kv.get('date of issue')
     if not issue_date:
-        match = re.search(r'Issue Date:\s*([\d]{4}-\d{2}-\d{2})', md_text, re.IGNORECASE)
+        match = re.search(r'Issue Date:\s*([\d]{4}-\d{2}-\d{2}|[\d]{1,2}[-/\s][\d]{1,2}[-/\s][\d]{2,4})', md_text, re.IGNORECASE)
         if match:
             issue_date = match.group(1).strip()
 
-    expiry_date = kv.get('expiry date') or kv.get('validity')
+    expiry_date = kv.get('expiry date') or kv.get('validity') or kv.get('valid until')
     if not expiry_date:
-        match = re.search(r'until\s+\*\*([\d]{4}-\d{2}-\d{2})\*\*', md_text, re.IGNORECASE)
+        match = re.search(r'until\s+\*\*?([\d]{4}-\d{2}-\d{2}|[\d]{1,2}[-/\s][\d]{1,2}[-/\s][\d]{2,4})\*\*?', md_text, re.IGNORECASE)
         if match:
             expiry_date = match.group(1).strip()
 

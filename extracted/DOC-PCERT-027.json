@@ -1,0 +1,17 @@
+{
+  "doc_id": "DOC-PCERT-027",
+  "doc_type": "personnel_certificate",
+  "filename": "personnel_certificate/DOC-PCERT-027.pdf",
+  "size_bytes": 48762,
+  "char_count": 1076,
+  "page_count": 1,
+  "extraction_warnings": [],
+  "extracted_data": {
+    "engineer_name": "Sanjay Joshi",
+    "employee_id": "EMP-022",
+    "certification_type": "PMP",
+    "credential_id": "PMI-200027",
+    "issue_date": "2021-03-10",
+    "expiry_date": "2029-09-15"
+  }
+}

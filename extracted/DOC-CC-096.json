@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-096.pdf",
   "size_bytes": 80771,
-  "char_count": 1028,
+  "char_count": 981,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Material Handling Plant — Maharashtra Pkg-96",
+    "package_code": "Pkg-96",
+    "client_name": "Maharashtra Municipal Corporation",
     "contract_value": 60800000.0,
     "raw_contract_value": "INR 6,08,00,000/-",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
+    "completion_date": "2013-05-04",
+    "project_lead": "Sanjay Joshi",
     "grading_text": null
   }
 }

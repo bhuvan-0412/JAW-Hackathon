@@ -3,17 +3,17 @@
   "doc_type": "performance_bond",
   "filename": "performance_bond/DOC-BOND-00082.pdf",
   "size_bytes": 88551,
-  "char_count": 3509,
+  "char_count": 3254,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Water Treatment Works",
+    "project_name": null,
     "package_code": null,
     "issuing_bank": "Kalinga National Bank",
-    "beneficiary": null,
-    "guarantee_amount": 21802000.0,
-    "raw_guarantee_amount": "Rs. 218.02 Lakh",
+    "beneficiary": "The Managing Director / Executive Director",
+    "guarantee_amount": null,
+    "raw_guarantee_amount": null,
     "issue_date": "2020-09-17",
-    "expiry_date": "This Guarantee shall remain valid from 2020-09-17 until 2023-12-31 (the \"Expiry Date\") unless extended by mutual consent in writing."
+    "expiry_date": "This Guarantee shall remain valid from 2020-09-17 until 2023-12-31 (the \"Expiry Date\") unless extended by"
   }
 }

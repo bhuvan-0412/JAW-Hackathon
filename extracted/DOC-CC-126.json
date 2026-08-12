@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-126.pdf",
   "size_bytes": 24664,
-  "char_count": 958,
+  "char_count": 909,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": null,
+    "project_name": "Hydro Tunnel — West Bengal Pkg-126",
+    "package_code": "Pkg-126",
+    "client_name": "Mega Infrastructure Authority",
     "contract_value": 954599999.9999999,
     "raw_contract_value": "INR 95.46 Cr",
     "start_date": null,
     "completion_date": null,
-    "project_lead": null,
+    "project_lead": "Priti Pillai",
     "grading_text": null
   }
 }

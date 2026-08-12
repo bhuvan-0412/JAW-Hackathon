@@ -3,18 +3,18 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-023.pdf",
   "size_bytes": 98175,
-  "char_count": 5015,
+  "char_count": 4429,
   "page_count": 3,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": null,
-    "package_code": null,
-    "client_name": "Mahanadi Steel Corp",
+    "project_name": "Water Treatment Plant — Madhya Pradesh Pkg-23",
+    "package_code": "Pkg-23",
+    "client_name": "MAHANADI STEEL CORPORATION",
     "contract_value": 349200000.0,
     "raw_contract_value": "Rs. 34.92 Crore",
     "start_date": null,
-    "completion_date": null,
-    "project_lead": null,
-    "grading_text": "QUALITY ASSESSMENT`**   ``` The overall quality of the completed work is graded Very Good."
+    "completion_date": "2022-08-28",
+    "project_lead": "Pooja Bose",
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Very Good."
   }
 }

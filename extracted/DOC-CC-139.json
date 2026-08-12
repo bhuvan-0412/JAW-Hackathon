@@ -3,7 +3,7 @@
   "doc_type": "completion_certificate",
   "filename": "completion_certificate/DOC-CC-139.pdf",
   "size_bytes": 100351,
-  "char_count": 4683,
+  "char_count": 4359,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
@@ -15,6 +15,6 @@
     "start_date": null,
     "completion_date": "2020-01-30",
     "project_lead": "Amit Iyer",
-    "grading_text": "QUALITY ASSESSMENT**   The overall quality of the completed work is graded **Excellent** ."
+    "grading_text": "QUALITY ASSESSMENT The overall quality of the completed work is graded Excellent."
   }
 }
