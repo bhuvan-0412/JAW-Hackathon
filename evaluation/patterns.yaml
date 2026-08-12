@@ -1,0 +1,85 @@
+# evaluation/patterns.yaml — Formal definition of question shapes, hops, and reasoning rules.
+
+domain: "infrastructure_construction"
+company: "National Infrastructure Corp. Ltd."
+version: "1.0"
+
+patterns:
+  absence:
+    name: "Unreferenced Document Absence"
+    description: "Proves that a document (e.g. client reference letter) is absent across an entity's complete portfolio."
+    hops: 3
+    answer_type: "count"
+    formula: "total_projects_for_client - count(reference_letters_for_client)"
+    failure_mode: "Naive retrieval systems report 0 because they fail to establish the boundary of the set."
+
+  date_span:
+    name: "Inter-document Date Span"
+    description: "Calculates the exact elapsed days between a credential issuance date and a project completion date."
+    hops: 4
+    answer_type: "days"
+    formula: "abs(project.completion_date - personnel_cert.issue_date).days"
+
+  distinct_count:
+    name: "Distinct Category Count"
+    description: "Counts distinct categories or work classifications delivered by an engineer under a credential."
+    hops: 4
+    answer_type: "count"
+    formula: "count(distinct project_category in engineer.projects_led)"
+
+  hop_aggregate:
+    name: "Multi-Hop Value Sum"
+    description: "Traverses from credential -> engineer -> work -> client -> sum of all completed contracts for that client."
+    hops: 4
+    answer_type: "money"
+    formula: "sum(contract_value for p in client.projects)"
+    failure_mode: "Returning the value of the named project instead of the client's whole portfolio."
+
+  temporal_chain:
+    name: "Temporal Filtered Aggregate"
+    description: "Totals project values led by an engineer that completed strictly after a credential issuance date."
+    hops: 4
+    answer_type: "money"
+    formula: "sum(p.contract_value for p in engineer.projects if p.completion_date > cert.issue_date)"
+
+  avg_work_size:
+    name: "Average Project Size"
+    description: "Computes the mean contract size across all completed works for a client reached via multi-hop traversal."
+    hops: 5
+    answer_type: "money"
+    formula: "sum(client.projects.contract_value) / count(client.projects)"
+
+  exclusion_aggregate:
+    name: "Exclusion Filtered Aggregate"
+    description: "Aggregates all contract values for a client excluding a specific domain (e.g. buildings, roads maintenance)."
+    hops: 5
+    answer_type: "money"
+    formula: "sum(p.contract_value for p in client.projects if not matches(p.type, exclusion_term))"
+
+  gap_to_threshold:
+    name: "Gap to Qualification Bar"
+    description: "Calculates the deficit needed to reach a specified revenue or credential threshold."
+    hops: 5
+    answer_type: "money"
+    formula: "max(0, threshold_inr - current_client_total_inr)"
+
+  rank_value:
+    name: "Ranked Value Differential"
+    description: "Calculates the difference in contract value between the largest and second-largest completed works for a client."
+    hops: 5
+    answer_type: "money"
+    formula: "sorted(client.project_values, desc)[0] - sorted(client.project_values, desc)[1]"
+
+  referenced_share:
+    name: "Referenced Project Percentage"
+    description: "Calculates the percentage of a client's projects that carry a formal reference letter on file."
+    hops: 5
+    answer_type: "percent"
+    formula: "round((count(ref_letters) / count(projects)) * 100.0, 2)"
+
+  threshold_aggregate:
+    name: "Threshold Cutoff Sum"
+    description: "Aggregates contract values for a client that meet or exceed a specified monetary cutoff."
+    hops: 5
+    answer_type: "money"
+    formula: "sum(p.contract_value for p in client.projects if p.contract_value >= threshold)"
