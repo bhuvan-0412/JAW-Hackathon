@@ -71,8 +71,8 @@ def load_receivables_totals():
     return totals
 
 RECEIVABLES_TOTALS = load_receivables_totals()
-
 CLIENT_SYNONYMS = {
+    # Short names
     "trishakti": "Trishakti Power Generation Corporation",
     "suvarna": "Suvarna Projects Limited",
     "mahanadi": "Mahanadi Steel Corporation",
@@ -82,37 +82,114 @@ CLIENT_SYNONYMS = {
     "subarnarekha": "Subarnarekha Valley Corporation",
     "peninsular": "Peninsular Petroleum Corporation",
     "central works": "Central Works & Buildings Bureau",
+    "neda": "National Expressway Development Authority",
+    "mega infra authority": "Mega Infrastructure Authority",
+    "mega infra": "Mega Infrastructure Authority",
+    "national special projects": "National Special Projects Office",
+    "national infrastructure": "National Infrastructure Corp. Ltd.",
+    
+    # PHED variations
     "phed odisha": "Public Health Engineering Dept, Odisha",
+    "public health engineering dept odisha": "Public Health Engineering Dept, Odisha",
+    "public health engineering dept, odisha": "Public Health Engineering Dept, Odisha",
     "phed gujarat": "Public Health Engineering Dept, Gujarat",
+    "pheg gujarat": "Public Health Engineering Dept, Gujarat",
+    "public health engineering dept gujarat": "Public Health Engineering Dept, Gujarat",
+    "public health engineering dept, gujarat": "Public Health Engineering Dept, Gujarat",
     "phed west bengal": "Public Health Engineering Dept, West Bengal",
+    "public health engineering dept west bengal": "Public Health Engineering Dept, West Bengal",
+    "public health engineering dept, west bengal": "Public Health Engineering Dept, West Bengal",
     "phed": "Public Health Engineering Dept, Odisha",
+    "pheg": "Public Health Engineering Dept, Gujarat",
+    
+    # PWD variations
+    "gujarat pw": "Public Works Department, Govt of Gujarat",
+    "gujarat pwd": "Public Works Department, Govt of Gujarat",
+    "pwd gujarat": "Public Works Department, Govt of Gujarat",
+    "pwd, govt of gujarat": "Public Works Department, Govt of Gujarat",
+    "maharashtra pwd": "Public Works Department, Govt of Maharashtra",
+    "mah pwd": "Public Works Department, Govt of Maharashtra",
+    "pwd maharashtra": "Public Works Department, Govt of Maharashtra",
+    "pwd, govt of maharashtra": "Public Works Department, Govt of Maharashtra",
+    "tamil nadu pwd": "Public Works Department, Govt of Tamil Nadu",
+    "pwd tamil nadu": "Public Works Department, Govt of Tamil Nadu",
+    "pwd, govt of tamil nadu": "Public Works Department, Govt of Tamil Nadu",
+    "west bengal pwd": "Public Works Department, Govt of West Bengal",
+    "pwd west bengal": "Public Works Department, Govt of West Bengal",
+    "pwd, govt of west bengal": "Public Works Department, Govt of West Bengal",
+    "public works department": "Public Works Department, Govt of Gujarat",
+    
+    # Jal Nigam variations
+    "jal nigam up": "Jal Nigam, Uttar Pradesh",
+    "jal nigam, up": "Jal Nigam, Uttar Pradesh",
+    "jal nigam uttar pradesh": "Jal Nigam, Uttar Pradesh",
+    "jal nigam, uttar pradesh": "Jal Nigam, Uttar Pradesh",
+    "jal nigam gujarat": "Jal Nigam, Gujarat",
+    "jal nigam, gujarat": "Jal Nigam, Gujarat",
+    "jal nigam account in gujarat": "Jal Nigam, Gujarat",
+    "jal nigam jharkhand": "Jal Nigam, Jharkhand",
+    "jal nigam, jharkhand": "Jal Nigam, Jharkhand",
+    
+    # Irrigation & Waterways variations
+    "irr & waterways dept rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
+    "irrigation & waterways dept, govt of rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
+    "irrigation & waterways dept rajasthan": "Irrigation & Waterways Dept, Govt of Rajasthan",
+    "up irrigation": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+    "irrigation & waterways dept, govt of uttar pradesh": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+    "irrigation & waterways dept uttar pradesh": "Irrigation & Waterways Dept, Govt of Uttar Pradesh",
+    "west bengal irrigation": "Irrigation & Waterways Dept, Govt of West Bengal",
+    "irrigation & waterways dept, govt of west bengal": "Irrigation & Waterways Dept, Govt of West Bengal",
+    "irrigation & waterways dept west bengal": "Irrigation & Waterways Dept, Govt of West Bengal",
+    
+    # Municipal Corporation variations
+    "gujarat municipal corporation": "Gujarat Municipal Corporation",
+    "gujarat municipal": "Gujarat Municipal Corporation",
+    "maharashtra municipal corporation": "Maharashtra Municipal Corporation",
+    "maharashtra municipal": "Maharashtra Municipal Corporation",
+    "jharkhand municipal corporation": "Jharkhand Municipal Corporation",
+    "jharkhand municipal": "Jharkhand Municipal Corporation",
+    "tamil nadu municipal corporation": "Tamil Nadu Municipal Corporation",
+    "tamil nadu municipal": "Tamil Nadu Municipal Corporation",
 }
 
 def find_client_in_text(text, conn):
+    text_l = text.lower()
     c = conn.cursor()
-    clients = [r[0] for r in c.execute("SELECT DISTINCT client_name FROM completion_certificates WHERE client_name IS NOT NULL").fetchall()]
-    clients = sorted(clients, key=lambda x: len(x), reverse=True)
-    for cl in clients:
-        if cl.lower() in text.lower():
-            return cl
-    for cl in RECEIVABLES_TOTALS.keys():
-        if cl.lower() in text.lower():
+    
+    # 1. Check exact canonical client names in text (longest first)
+    db_clients = [r[0] for r in c.execute("SELECT DISTINCT client_name FROM completion_certificates WHERE client_name IS NOT NULL").fetchall()]
+    db_clients = sorted(db_clients, key=lambda x: len(x), reverse=True)
+    for cl in db_clients:
+        if cl.lower() in text_l:
             return cl
             
-    for syn_k, syn_v in CLIENT_SYNONYMS.items():
-        if syn_k in text.lower():
-            return syn_v
-
-    for cl in clients:
-        parts = [p.strip() for p in cl.split(",") if len(p.strip()) > 3]
-        if parts and all(p.lower() in text.lower() for p in parts):
+    # 2. Check RECEIVABLES_TOTALS keys
+    for cl in RECEIVABLES_TOTALS.keys():
+        if cl.lower() in text_l:
             return cl
 
-    pkg = find_package_in_text(text)
-    if pkg:
-        r = c.execute("SELECT client_name FROM completion_certificates WHERE LOWER(package_code) = LOWER(?) AND client_name IS NOT NULL", (pkg,)).fetchone()
+    # 3. Check CLIENT_SYNONYMS (longest key first)
+    syn_keys = sorted(CLIENT_SYNONYMS.keys(), key=lambda x: len(x), reverse=True)
+    for syn_k in syn_keys:
+        if syn_k in text_l:
+            return CLIENT_SYNONYMS[syn_k]
+
+    # 4. Check package code regex in text
+    m_pkg = re.search(r'\bpkg[\s\-]*(\d+)\b', text, re.IGNORECASE)
+    if m_pkg:
+        pkg_code = f"Pkg-{m_pkg.group(1)}"
+        r = c.execute("SELECT client_name FROM completion_certificates WHERE LOWER(package_code) = LOWER(?) AND client_name IS NOT NULL", (pkg_code,)).fetchone()
         if r:
             return r[0]
+
+    # 5. Check engineer lookup fallback
+    first_names = ["pooja", "farhan", "sunita", "imran", "suresh", "manoj", "rohit", "kavita", "meera", "naveen", "lakshmi", "sanjay", "neha", "rahul", "tanvir", "jaya", "deepa", "priya", "priti", "gautam", "amit", "uma", "asha", "rajesh"]
+    for fn in first_names:
+        if fn in text_l:
+            r = c.execute("SELECT client_name FROM completion_certificates WHERE LOWER(project_lead) LIKE LOWER(?) AND client_name IS NOT NULL", (f"%{fn}%",)).fetchone()
+            if r:
+                return r[0]
+
     return None
 
 def find_engineer_in_text(text, conn):
