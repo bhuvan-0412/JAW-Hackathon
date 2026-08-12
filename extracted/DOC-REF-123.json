@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-123.pdf",
   "size_bytes": 82732,
-  "char_count": 863,
+  "char_count": 928,
   "page_count": 1,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "P",
-    "package_code": null,
-    "issuing_client": "Mahanadi Steel Corporation",
+    "project_name": "Pipeline Laying — Tamil Nadu Pkg-143",
+    "package_code": "Pkg-143",
+    "issuing_client": "This office has engaged M/s National Infrastructure Corp. Ltd. for the work “Pipeline Laying — Tamil Nadu Pkg-143” (INR 3,14,00,000/-), completed on 2016-11-04. On the basis of that engagement we record the following:",
     "contract_value": 31400000.0,
     "raw_contract_value": "INR 3,14,00,000/-",
-    "completion_date": "2016-11-04",
-    "recommendation_summary": "Mahanadi Steel Corporation\nLetter of Recommendation\nLetter of Recommendation\nOur ref: 123\n2026-03-31\nThis office has engaged M/s National Infrastructure Corp. Ltd. for the work “Pipeline Laying — Tamil\nNadu Pkg-143” (INR 3,14,00,000/-), completed on 2016-11-04. On the basis of that engagement we record the\nfollowing:\nAdherence to the sanctioned programme of work and milestone dates;\nQuality of workmanship accepted at inspection without material objection;\nCompliance with safety and statutory obl"
+    "completion_date": null,
+    "recommendation_summary": "# **Mahanadi Steel Corporation** \n\nLetter of Recommendation \n\n## **Letter of Recommendation** \n\n**Our ref: 123** \n\n2026-03-31 \n\nThis office has engaged **M/s National Infrastructure Corp. Ltd.** for the work “Pipeline Laying — Tamil Nadu Pkg-143” (INR 3,14,00,000/-), completed on 2016-11-04. On the basis of that engagement we record the following: \n\n- Adherence to the sanctioned programme of work and milestone dates; \n\n- \n\n- Quality of workmanship accepted at inspection without material objectio"
   }
 }

@@ -3,16 +3,16 @@
   "doc_type": "reference_letter",
   "filename": "reference_letter/DOC-REF-061.pdf",
   "size_bytes": 69214,
-  "char_count": 2050,
+  "char_count": 2220,
   "page_count": 2,
   "extraction_warnings": [],
   "extracted_data": {
-    "project_name": "Check Dam — Maharashtra Pkg-69",
-    "package_code": "Pkg-69",
-    "issuing_client": "Peninsular Petroleum Corporation",
+    "project_name": null,
+    "package_code": null,
+    "issuing_client": "This letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory.",
     "contract_value": 491100000.0,
     "raw_contract_value": "INR 49.11 Cr",
-    "completion_date": "2021-01-26",
-    "recommendation_summary": "Peninsular Petroleum Corporation\nPSU CLIENT · Maharashtra · IN\nRefeRence LetteR\nTo Whomsoever It May Concern\nRef: REF/11/61\nDate: March 31, 2026\nTo Whomsoever It May Concern,\nThis letter is issued at the request of National Infrastructure Corp. Ltd. to confirm that the\nsaid agency has executed work for this organisation as detailed below and that their\nperformance has been found satisfactory.\n1. PRoject DetaiLs\nProject Name\nCheck Dam — Maharashtra Pkg-69\nScope of Work\nIrrigation works for Penins"
+    "completion_date": null,
+    "recommendation_summary": "# **Peninsular Petroleum Corporation** \n\nPSU CLIENT · Maharashtra · IN \n\n**RefeRence LetteR** \n\nTo Whomsoever It May Concern \n\n**Ref: REF/11/61** \n\nDate: March 31, 2026 \n\nTo Whomsoever It May Concern, \n\nThis letter is issued at the request of **National Infrastructure Corp. Ltd.** to confirm that the said agency has executed work for this organisation as detailed below and that their performance has been found satisfactory. \n\n## **1. PRoject DetaiLs** \n\n**_Project Name_** Check Dam — Maharashtra"
   }
 }
