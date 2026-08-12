@@ -6,13 +6,143 @@ about the business.
 
 ---
 
-## The company
+## 🚀 Quick Start (5-Minute Onboarding)
 
-**National Infrastructure Corp. Ltd.** — an Indian infrastructure contractor, founded 2005, head
-office in Salt Lake, Kolkata. It builds highways, water treatment plants, flyovers, drainage,
-tunnels and power infrastructure for state and central government bodies.
+Get up and running in under 5 minutes:
 
-| | |
+```bash
+pip install -r requirements.txt
+python scripts/run_sample_score.py
+python scripts/full_pipeline_check.py
+python run_harness.py --mode e2e --out submissions/final_submission.csv
+```
+
+### System Requirements
+* **Python**: 3.10+ (tested on Python 3.10, 3.11, 3.12)
+* **OS**: Linux, macOS, or Windows
+
+---
+
+## 📁 Repository Structure
+
+```text
+├── documents/                    # 687 raw unstructured documents (678 PDFs, 9 Excel workbooks)
+├── extracted/                    # Per-document structured JSON extractions (Role A)
+├── evaluation/                   # Evaluation metadata, pattern definitions & reports
+│   ├── patterns.yaml             # Multi-hop question taxonomy and shape rules
+│   └── reports/                  # Generated benchmark and validation reports
+├── reports/                      # Auto-generated markdown reports
+│   ├── VALIDATION_REPORT.md      # Submission integrity and type conformance report
+│   └── EVALUATION_REPORT.md      # Diagnostic benchmark accuracy report
+├── scripts/                      # Role D automation, validation, and health checks
+│   ├── run_sample_score.py       # Scores solver against sample_questions.json
+│   ├── full_pipeline_check.py    # Complete smoke test across all 4 roles
+│   ├── validate_extraction_log.py# Audits extraction log integrity
+│   ├── validate_entities.py      # Checks entity schema conformance
+│   ├── validate_answers.py       # Validates submission CSV formatting & bounds
+│   ├── check_extraction_health.py# Verifies Role A document coverage
+│   ├── check_graph_health.py     # Audits Role B entity graph & database connectivity
+│   ├── pattern_breakdown.py      # Analyzes question distributions and hop complexity
+│   ├── export_submission_csv.py  # Exports validated, bounds-checked submission CSV
+│   ├── freeze_submission.py      # Computes SHA256, Git commit, and archives release manifest
+│   └── update_score_history.py   # Logs historical benchmark scores to JSON
+├── src/                          # Core Role D modular package
+│   ├── config.py                 # Central configuration loader
+│   ├── validation/               # Schema checks, type bounds (money, percent, days, count), auto-repair
+│   ├── evaluation/               # Exact evaluate.py scoring parity, diagnostics, differential comparator
+│   ├── reference_engine/         # SQLite entity store & multi-hop baseline solver
+│   ├── integration/              # Role A/B/C adapters and master pipeline orchestrator
+│   └── reporting/                # Terminal dashboards and Markdown report generators
+├── submissions/                  # Submission output directory
+│   ├── final_submission.csv      # 100% verified 333-row submission
+│   ├── final_submission.manifest.json # Release manifest (SHA256, commit, row count)
+│   └── archive/                  # Timestamped frozen release archives
+├── tests/                        # Automated unit tests
+│   ├── test_validator.py         # Format, bounds, and auto-repair tests
+│   ├── test_scorer.py            # Scoring formula & parity tests
+│   ├── test_comparator.py        # Submission diffing tests
+│   └── test_reference_engine.py  # SQLite store & baseline solver tests
+├── document_index.csv            # Mapping of doc_id, doc_type, filename, size_bytes
+├── questions.json                # 333 competition questions to answer
+├── sample_questions.json         # 21 calibration questions with gold answers & reasoning
+├── evaluate.py                   # Official evaluation scorer
+├── harness_config.py             # Global harness constants and validation rules
+├── run_harness.py                # Master CLI tool
+├── validate_submission.py        # Standalone submission validator CLI
+├── score_submission.py           # Standalone scoring CLI
+├── compare_submissions.py        # Submissions differential comparison CLI
+├── requirements.txt              # Core runtime dependencies
+├── requirements-dev.txt          # Development and testing dependencies
+└── PUSH_CHECKLIST.md             # Pre-push release verification checklist
+```
+
+---
+
+## 🛠️ Role D Tooling & Commands
+
+### 1. End-to-End Pipeline Execution
+Runs the full pipeline (Role A Extraction -> Role B Entity Store -> Role C Solver -> Role D Validation & Benchmarking):
+```bash
+python run_harness.py --mode e2e --out submissions/final_submission.csv
+```
+
+### 2. Validate Submission Integrity
+Strictly validates format, checks exact 333 question IDs, and enforces numeric bounds:
+```bash
+python validate_submission.py --submission submissions/final_submission.csv --report reports/VALIDATION_REPORT.md
+```
+
+### 3. Auto-Repair & Clean Submissions
+Auto-fixes formatting errors, strips symbols, rescales fraction percentages, and fills missing rows:
+```bash
+python validate_submission.py --submission submissions/my_raw.csv --fix-out submissions/cleaned.csv
+```
+
+### 4. Benchmark Scoring & Diagnostics
+Scores answers against `sample_questions.json` with multi-dimensional breakdowns:
+```bash
+python score_submission.py --submission submissions/sample_answers_submission.csv --questions sample_questions.json --per-question
+```
+
+### 5. Compare Two Submissions (Regression Tracking)
+Compare two candidate submissions to identify improved ($+\Delta$) and regressed ($-\Delta$) questions:
+```bash
+python compare_submissions.py --baseline submissions/sub_v1.csv --candidate submissions/sub_v2.csv
+```
+
+### 6. Freeze & Archive Final Release
+Generates SHA256 checksums, records Git commit, creates `.manifest.json`, and archives timestamped files:
+```bash
+python scripts/freeze_submission.py --submission submissions/final_submission.csv
+```
+
+---
+
+## 👥 Recommended Daily Team Workflow
+
+1. **Role A (Extraction)**: Runs `python run_flush_all.py` to extract new PDFs/workbooks into `extracted/`. Check progress with `python scripts/check_extraction_health.py`.
+2. **Role B (Knowledge Graph / Database)**: Updates entity relations in `src/reference_engine/entity_store.py` (or custom graph module). Check connectivity with `python scripts/check_graph_health.py`.
+3. **Role C (Reasoning & Solver)**: Improves question traversal logic in `src/reference_engine/baseline_solver.py` (or custom solver). Check sample score with `python scripts/run_sample_score.py`.
+4. **Role D (Validation & Integration)**: Runs `python scripts/full_pipeline_check.py` and `python run_harness.py --mode e2e`. Verifies [VALIDATION_REPORT.md](file:///c:/Users/visha/Downloads/JAW-Hackathon-1/reports/VALIDATION_REPORT.md) and creates frozen release manifest.
+
+---
+
+## 🔧 Troubleshooting
+
+| Issue | Cause | Fix |
+|---|---|---|
+| `ModuleNotFoundError` | Virtual environment missing dependencies | Run `pip install -r requirements.txt` |
+| `Validation Failed: OUT_OF_BOUNDS_PERCENT` | Percentage submitted as fraction $[0, 1]$ or $>100$ | Run `python validate_submission.py --fix-out cleaned.csv` to auto-scale |
+| `Scorer mismatch vs evaluate.py` | Trailing spaces or NaN values | Ensure all answers are cleaned numbers |
+| `Upstream data missing` | Role A/B artifacts not yet extracted | Baseline solver automatically provides graceful heuristic fallbacks |
+
+---
+
+## 🏢 The Company & The Dataset
+
+**National Infrastructure Corp. Ltd.** — an Indian infrastructure contractor, founded 2005, head office in Salt Lake, Kolkata.
+
+| Metric | Value |
 |---|---|
 | Completed works | 155, delivered 2010 – 2025 |
 | Clients | 62 government departments and authorities |
@@ -20,202 +150,33 @@ tunnels and power infrastructure for state and central government bodies.
 | Business units | 6 |
 | Total delivered value | ~₹5,530 crore |
 
-Everything about this company is synthetic. It has never existed, and the identifiers in these
-documents (CIN, GST, PAN) are deliberately invalid — see *Rules* below.
+**687 documents, 20 types, ~39 MB.** 678 PDFs and 9 Excel workbooks, in `documents/`, grouped by type:
+- `completion_certificate` (155) / `company_completion_certificate` (155)
+- `reference_letter` (132)
+- `performance_bond` (60)
+- `personnel_certificate` (48)
+- `cv` (39)
+- `compliance_matrix` (40)
+- `general_ledger_book` (8), `bank_statement` (8), `financial_statement` (7)
+- `ra_bill` / `final_ra_bill` (12), `tender_dossier` (6), `iso_certificate` (5)
+- `annual_report` (2), `past_performance_portfolio` (1)
+- `workbooks` (.xlsx) (9)
 
 ---
 
-## What you are given
+## 📏 Official Scoring Formula
 
-**687 documents, 20 types, ~39 MB.** 678 PDFs and 9 Excel workbooks, in `documents/`, grouped by
-type.
+$$score = \max\left(0, 1 - \frac{|\text{your answer} - \text{correct answer}|}{\text{correct answer}}\right)$$
 
-| Document type | Count | What it holds |
-|---|---:|---|
-| `completion_certificate` | 155 | Client's sign-off on a finished work: value, dates, and the client's **written grading** of our performance |
-| `company_completion_certificate` | 155 | Our own record of the same work |
-| `reference_letter` | 132 | Client testimonials — note that not every work has one |
-| `performance_bond` | 60 | Bank guarantees issued against contracts |
-| `personnel_certificate` | 48 | PMP, Six Sigma and other credentials held by staff |
-| `cv` | 39 | Engineer profiles: which works they led |
-| `compliance_matrix` | 40 | Tender compliance checklists |
-| `general_ledger_book` | 8 | Full journal — invoices, receipts, credit notes |
-| `bank_statement` | 8 | Cash movements |
-| `financial_statement` | 7 | Statutory accounts, several reporting eras |
-| `ra_bill` / `final_ra_bill` | 12 | Running-account bills with BOQ detail |
-| `tender_dossier` | 6 | Bids submitted |
-| `iso_certificate` | 5 | Quality and safety accreditations |
-| `annual_report` | 2 | Narrative reports with registers and tables |
-| `past_performance_portfolio` | 1 | Consolidated credentials pack |
-| **workbooks** (`.xlsx`) | 9 | BOQ, ageing, trial balance, asset register — with live formulas |
-
-Plus:
-
-- `document_index.csv` — `doc_id`, `doc_type`, `filename`, `size_bytes`. **It deliberately does not
-  tell you which document is about which project or client.** Working that out is part of the task.
-- `questions.json` — **the 333 questions you must answer.**
-- `sample_questions.json` — 21 worked examples with answers and reasoning, to calibrate against.
-- `evaluate.py` — the exact scorer we will run, so you can measure yourself.
-- `sample_submission.csv` — the submission format.
-
-### What you are deliberately NOT given
-
-No database, no knowledge graph, no schema, no extracted fact table, and no mapping from documents to
-entities. If we handed you a database this would be a SQL exercise. The interesting problem is
-getting structured, queryable knowledge **out of** 687 unstructured documents — so that is the part
-we left for you.
+* Exact answer scores **1.00**
+* 1% off scores **0.99**
+* 5% off scores **0.95**
+* 50% off scores **0.50**
+* 100% off or worse scores **0.00**
 
 ---
 
-## What you have to build
-
-A system that takes a question in plain English and returns a number.
-
-The questions are written the way people on a bid desk actually ask them — sometimes a formal note,
-sometimes a hurried message before a deadline. They are not templated, and no two are phrased alike.
-
-Answering them generally requires **several documents at once**. A typical question names an
-engineer's certificate, expects you to find which project that engineer led, work out which client
-commissioned it, gather *every* project for that client, and total their values — where each value
-must be read out of that project's own certificate. Four documents minimum, often more.
-
-**Three things make this harder than it first looks:**
-
-1. **Money is written the way people write it.** A contract worth 333,800,000 rupees appears in
-   documents as `INR 33.38 Cr`, or `3,338.00 Lakh`, or `33,38,00,000` in Indian digit grouping. Your
-   extraction has to handle all of it. (The rendering is lossless — no precision is hidden from you.)
-
-2. **Some facts exist only in prose.** Names, dates and written observations appear in the text of a
-   certificate and nowhere else — no table holds them.
-   *(Questions that filter on a client's written **grading** have been withdrawn from this release:
-   the gradings are not stated consistently across the certificates. Reported by a participant.)*
-
-3. **Absence is a real answer.** "How many completed works have no reference letter on file?"
-   requires proving something is *missing* across a client's whole portfolio. A system that
-   hallucinates connections will confidently say zero.
-
----
-
-## What the questions look like
-
-All 21 examples are in `sample_questions.json`, with answers and a step-by-step derivation. Three of
-them:
-
-> **Regarding Asha Nair’s PMP work on the Cable Stayed Bridge — Jharkhand Pkg-115, what is the defensible average size across all completed projects for the commissioning client?**
-> → `537933333`
-
-> **Cross-checking the completion date against Asha Nair's PMP for 2021-03-10, what number of days passed from issuance to finish for School Building — Madhya Pradesh Pkg-145?**
-> → `1569`
-
-> **Jal Nigam, Jharkhand is our starting point for the audit, so what whole number out of one hundred represents the defensible share of completed assignments that carry formal verification on file?**
-> → `33.33`
-
-Each sample carries `reasoning_steps` showing the path from question to answer, and the individual
-values that had to be read out of documents along the way. Use them to calibrate — they are the same
-kinds of question you will be scored on, only easier.
-
-**Answers are always a plain number**: rupees (no units, no commas), a count, a percentage out of
-100, or a number of days. Every question states which.
-
----
-
-## The questions to answer
-
-`questions.json` contains **333 questions**. Answer every one of them.
-
-```json
-{"qid": "HV-IC-0001", "question": "Starting with Rajesh Rao's Six Sigma Black Belt ...", "answer_type": "money"}
-```
-
-`answer_type` tells you the unit expected: `money` (rupees), `count`, `percent` (a number out of
-100), or `days`.
-
----
-
-## How to submit
-
-A **CSV file** with a header row, one row per question:
-
-```
-question_id,answer
-HV-IC-0001,2942400000
-HV-IC-0002,1516600000
-HV-IC-0003,90.19
-```
-
-- **`question_id`** — exactly as given in `questions.json` (e.g. `HV-IC-0001`)
-- **`answer`** — a plain number. No commas, no currency symbols, no units, no text.
-  - money → `2942400000`, not `INR 294.24 Cr` or `2,942,400,000`
-  - percent → `90.19`, not `0.9019` or `90.19%`
-  - count → `5`
-  - days → `1388`
-- Decimals are fine where the answer needs them. Round percentages to two places.
-- **Answer all 333.** An unanswered question scores 0, and a wrong answer costs nothing extra —
-  there is no penalty for guessing.
-- Row order does not matter. Extra columns are ignored.
-
----
-
-## Scoring
-
-Each question is scored on how close you are:
-
-```
-score = max(0, 1 - |your answer - correct answer| / correct answer)
-```
-
-Your final score is the average across all 333 questions.
-
-| your answer is | score |
-|---|---|
-| exact | **1.00** |
-| 1% off | 0.99 |
-| 5% off | 0.95 |
-| 25% off | 0.75 |
-| 50% off | 0.50 |
-| 100% off or worse | 0.00 |
-
-There are no bands and no cut-offs — every bit closer earns more. A system that reasons correctly
-and misses one contributing document still scores well; one that guesses does not.
-
-Check your own submission format before you send it:
-
-```bash
-python evaluate.py --self-test                                   # confirm the scorer
-python evaluate.py --submission my_answers.csv \
-                   --questions sample_questions.json             # score against the samples
-```
-
----
-
----
-
-## Tie-breaker
-
-The top ten teams on the leaderboard will be asked to submit the code for their harness. We will run
-that harness against a further set of hidden questions, and the final leaderboard will be published
-on those results.
-
-## Rules
-
-- **The corpus is synthetic.** The company, people, clients and projects were generated. Searching
-  the internet for "National Infrastructure Corp" will not help you, and any real company by a
-  similar name is unrelated.
-- **Identifiers are intentionally invalid.** The CIN, GST and PAN numbers fail their check digits by
-  design. Do not use them to look anything up.
-- **Everything you need is in `documents/`.** Every value required by every question was verified to
-  be readable from the shipped documents before the question was accepted. If you cannot find
-  something, it is a retrieval problem, not a missing file.
-- Use any tools, models or libraries you like.
-
----
-
-## Getting started
-
-1. Read three or four completion certificates by hand. Notice how the value, dates, client and
-   grading are laid out, and how much the layout varies between documents.
-2. Open `sample_questions.json` and follow one `reasoning_steps` chain through the actual PDFs.
-3. That will tell you what your extraction has to produce. Build that, then build the reasoning on
-   top of it.
-
-Good luck.
+## 🛡️ Rules
+- All company entities and identifiers (CIN, GST, PAN) are synthetic and intentionally fail check digits.
+- Everything needed to answer all 333 questions is contained in `documents/`.
+- Final answers must be submitted as CSV with columns `question_id,answer`.
